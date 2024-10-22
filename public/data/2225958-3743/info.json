@@ -1,0 +1,42 @@
+{
+  "user": {
+    "username": "Ana Sofia",
+    "profileImage": "https://avatars.githubusercontent.com/u/129436819?v=4",
+    "socialLink": "https://github.com/444sofM"
+  },
+ 
+      "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "Choose the correct form of the verb: 'She _ to the store yesterday.'",
+          "options": ["go", "goes", "gone", "went"],
+          "answer": "went"
+        },
+        {
+          "question": "Which sentence is grammatically correct?",
+          "options": ["He don't like pizza", "He doesn't likes pizza", "He doesn't like pizza", "He didn't likes pizza"],
+          "answer": "He doesn't like pizza"
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What is the meaning of the word 'brave'?",
+          "options": ["fearful", "courageous", "happy", "lazy"],
+          "answer": "courageous"
+        },
+        {
+          "question": "Translate 'book' into Spanish.",
+          "options": ["revista", "cuaderno", "libro", "bolígrafo"],
+          "answer": "libro"
+        }
+      ]
+    }
+  ]
+}
+
+  
