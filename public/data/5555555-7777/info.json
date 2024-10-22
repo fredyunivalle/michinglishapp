@@ -29,9 +29,9 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What is the synonym of 'happy'?",
+          "question": "What is the synonym of ' mad'?",
           "options": ["sad", "joyful", "angry", "tired"],
-          "answer": "joyful"
+          "answer": "angry"
         },
         {
           "question": "Translate 'cat' into Spanish.",
