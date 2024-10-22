@@ -1,0 +1,69 @@
+{
+    "user": {
+      "username": "Kev405",
+      "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocIuGcFFEMy2Rc_vuhgP9WEYepf4J6o9geWikZGOojvs89oJyNE=s288-c-no",
+      "socialLink": "https://www.instagram.com/kev_aristi/"
+    },
+    "topics": [
+    {
+      "topic": "video games",
+      "questions": [
+        {
+          "question": "Which of the following games was the first to popularize the battle royale genre?",
+          "options": [
+            "Fortnite",
+            "PlayerUnknown's Battlegrounds (PUBG)",
+            "Apex Legends",
+            "Call of Duty: Warzone"
+          ],
+          "answer": "PlayerUnknown's Battlegrounds (PUBG)"
+        },
+        {
+          "question": "Which game is known for its famous quote, 'The cake is a lie'?",
+          "options": [
+            "Portal",
+            "Half-Life",
+            "Bioshock",
+            "Mass Effect"
+          ],
+          "answer": "Portal"
+        }
+      ]
+    },
+    {
+      "topic": "books",
+      "questions": [
+        {
+          "question": "Who is the author of the fantasy series 'A Song of Ice and Fire'?",
+          "options": [
+            "J.K. Rowling",
+            "George R.R. Martin",
+            "J.R.R. Tolkien",
+            "Patrick Rothfuss"
+          ],
+          "answer": "George R.R. Martin"
+        },
+        {
+          "question": "In George Orwell's '1984', what is the name of the totalitarian regime?",
+          "options": [
+            "The Brotherhood",
+            "Big Brother",
+            "The Party",
+            "Oceania"
+          ],
+          "answer": "The Party"
+        },
+        {
+          "question": "Which novel begins with the line, 'Call me Ishmael'?",
+          "options": [
+            "Moby Dick",
+            "The Great Gatsby",
+            "Pride and Prejudice",
+            "The Catcher in the Rye"
+          ],
+          "answer": "Moby Dick"
+        }
+      ]
+    }
+  ]
+}
