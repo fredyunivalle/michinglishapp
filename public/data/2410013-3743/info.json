@@ -9,19 +9,21 @@
       "topic": "grammar",
       "questions": [
         {
-          "question": "Which sentence is correct?",
-          "options": [  "They was happy.",
-          "They were happy.",
-          "They are happy.",
-          "They be happy."],
+          "question": "1. Which sentence is correct?",
+          "options": [
+            "They was happy",
+            "They were happy",
+            "They are happy.",
+            "They be happy."
+          ],
           "answer": "They were happy"
         },
         {
           "question": "What is the comparative form of 'big'?",
           "options": [
             "bigger",
-            "biggest", 
-            "more big", 
+            "biggest",
+            "more big",
             "bigs"
           ],
           "answer": "bigger"
@@ -32,18 +34,26 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question":  "What does 'benevolent' mean?",
-          "options": ["kind", "mean", "angry", "selfish"],
+          "question": "What does 'benevolent' mean?",
+          "options": [
+            "kind",
+            "mean",
+            "angry",
+            "selfish"
+          ],
           "answer": "kind"
         },
         {
           "question": "What is the synonym of 'fast'?",
-          "options": ["quick", "slow", "steady", "lazy"],
+          "options": [
+            "quick",
+            "slow",
+            "steady",
+            "lazy"
+          ],
           "answer": "quick"
         }
       ]
     }
   ]
 }
-
-  

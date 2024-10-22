@@ -1,0 +1,51 @@
+{
+  "user": {
+    "username": "LuisCarabaliR",
+    "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocKpwUGxgUq9-gohRfQ6lsjIMSFxCrO5v-pcZ45RF8CwKzGqvf9R=s432-c-no",
+    "socialLink": "@LuisCarabaliR"
+  },
+  
+    "topics": [
+      {
+        "topic": "grammar",
+        "questions": [
+          {
+            "question": "Identify the grammatical function of the word 'quickly' in the sentence: 'She quickly finished her homework.'",
+            "options": ["noun", "adverb", "adjective", "verb"],
+            "answer": "adverb"
+          },
+          {
+            "question": "Which of the following sentences uses the subjunctive mood correctly?",
+            "options": [
+              "If I was rich, I would travel the world.",
+              "I wish he was here now.",
+              "If he were taller, he could reach the shelf.",
+              "If I would be you, I’d take the job."
+            ],
+            "answer": "If he were taller, he could reach the shelf."
+          }
+        ]
+      },
+      {
+        "topic": "vocabulary",
+        "questions": [
+          {
+            "question": "Which word is the best antonym for 'obscure'?",
+            "options": ["vague", "hidden", "transparent", "ambiguous"],
+            "answer": "transparent"
+          },
+          {
+            "question": "What is the meaning of the word 'ubiquitous'?",
+            "options": [
+              "Occurring everywhere at once",
+              "Being very rare",
+              "Appearing occasionally",
+              "Only found in certain locations"
+            ],
+            "answer": "Occurring everywhere at once"
+          }
+        ]
+      }
+    ]
+  
+}  

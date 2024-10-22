@@ -9,12 +9,17 @@
         "topic": "grammar",
         "questions": [
           {
-            "question": "Choose the correct sentence:",
-            "options": ["He don't like to read books.",
-            "He doesn't like to read books.",
-            "He didn't likes to read books.",
-            "He don't likes to read books."],
-            "answer": "He doesn't like to read books."
+            "question": "Select the correct past tense form: 'They _____ to the party.'",
+            "options": ["go", "goed", "went", "going"],
+            "answer": "went"
+          },
+          {
+            "question": "Choose the correct verb form: 'He _____ a book.'",
+            "options": ["read",
+            "reads",
+            "reading",
+            "is read"],
+            "answer": "reads"
           }
          
         ]
@@ -23,9 +28,14 @@
         "topic": "vocabulary",
         "questions": [
           {
-            "question": "What is the opposite of 'hot'?",
-            "options": ["warm", "cold", "cool", "boiling"],
-            "answer": "cold"
+            "question": "What is the opposite of 'big'?",
+            "options": ["tall", "small", "large", "huge"],
+            "answer": "small"
+          },
+          {
+            "question": "Choose the word that means 'very tired'",
+            "options": ["carrot", "apple", "chicken", "bread"],
+            "answer": "apple"
           }
         ]
       }
