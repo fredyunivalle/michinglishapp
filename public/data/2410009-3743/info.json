@@ -19,15 +19,16 @@
                     "answer": "children"
                 },
                 {
-                    "question": "Which sentence is grammatically correct?",
+                    "question": "What is the correct past tense of 'sing'?",
                     "options": [
-                        "He go to the store",
-                        "He goes to the store",
-                        "He going to the store",
-                        "He gone to the store"
+                        "sang",
+                        "sung",
+                        "singed",
+                        "sangs"
                     ],
-                    "answer": "He goes to the store"
+                    "answer": "sang"
                 }
+                
             ]
         },
         {
@@ -44,14 +45,14 @@
                     "answer": "libro"
                 },
                 {
-                    "question": "What is the synonym of 'fast'?",
+                    "question": "What is the synonym of 'difficult'?",
                     "options": [
-                        "slow",
-                        "quick",
-                        "lazy",
-                        "heavy"
+                        "easy",
+                        "hard",
+                        "simple",
+                        "straightforward"
                     ],
-                    "answer": "quick"
+                    "answer": "hard"
                 }
             ]
         }
