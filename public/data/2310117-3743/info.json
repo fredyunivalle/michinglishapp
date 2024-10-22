@@ -6,22 +6,22 @@
   },
   "topics": [
     {
-      "topic": "grammar",
+      "topic": "vocabulary",
       "questions": [
         {
-          "question": "Which sentence is correct?",
+          "question": "What is the meaning of 'peninsula'?",
           "options": [
-            "The Sahara desert is the largest desert in the world.",
-            "The Sahara desert are the largest desert in the world.",
-            "The Sahara desert am the largest desert in the world.",
-            "The Sahara desert be the largest desert in the world."
+            "A piece of land almost surrounded by water",
+            "A group of islands",
+            "A mountain range",
+            "A desert region"
           ],
-          "answer": "The Sahara desert is the largest desert in the world."
+          "answer": "A piece of land almost surrounded by water"
         },
         {
-          "question": "Choose the correct preposition: The Amazon River flows ___ South America.",
-          "options": ["in", "on", "through", "at"],
-          "answer": "through"
+          "question": "Translate 'ocean' into Spanish.",
+          "options": ["océano", "mar", "río", "lago"],
+          "answer": "océano"
         }
       ]
     },
