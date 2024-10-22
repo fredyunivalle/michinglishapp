@@ -27,6 +27,11 @@
           "question": "Translate 'dog' into Spanish.",
           "options": ["perro", "gato", "pájaro", "ratón"],
           "answer": "perro"
+        },
+        {
+          "question": "Translate 'bird' into Spanish.",
+          "options": ["perro", "gato", "pájaro", "ratón"],
+          "answer": "pájaro"
         }
       ]
     }

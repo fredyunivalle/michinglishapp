@@ -1,0 +1,39 @@
+{
+  "user": {
+    "username": "jgarcia9311",
+    "profileImage": "https://avatars.githubusercontent.com/u/145686076?v=4",
+    "socialLink": "@jgarcia9311"
+  },
+  "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "What is the past tense of 'go'?",
+          "options": ["gone", "went", "goed", "going"],
+          "answer": "went"
+        },
+        {
+          "question": "What is the correct form?",
+          "options": ["They is playing", "They are playing", "They was playing", "They were playing"],
+          "answer": "They are playing"
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "Translate 'tiger' into Spanish.",
+          "options": ["elefante", "tigre", "vaca", "ratón"],
+          "answer": "tigre"
+        },
+        {
+          "question": "What is a synonym for 'happy'?",
+          "options": ["sad", "joyful", "angry", "tired"],
+          "answer": "joyful"
+        }
+      ]
+    }
+  ]
+}
