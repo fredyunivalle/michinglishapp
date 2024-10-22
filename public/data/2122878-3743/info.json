@@ -9,19 +9,19 @@
       "topic": "grammar",
       "questions": [
         {
-          "question": "Which word is an article?",
-          "options": ["quickly", "the", "run", "blue"],
-          "answer": "the"
+          "question": "Which word completes this sentence: 'She ___ reading a book.'?",
+          "options": ["am", "are", "is", "was"],
+          "answer": "is"
         },
         {
-          "question": "Which sentence is correct?",
+          "question": "Which sentence is grammatically correct?",
           "options": [
-            "He going to the park.",
-            "He go to the park.",
-            "He is going to the park.",
-            "He goes to the park."
+            "They has a car.",
+            "They have a car.",
+            "They is a car.",
+            "They having a car."
           ],
-          "answer": "He is going to the park."
+          "answer": "They have a car."
         }
       ]
     },
@@ -29,14 +29,14 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What is the opposite of 'fast'?",
-          "options": ["quick", "slow", "speed", "run"],
-          "answer": "slow"
+          "question": "What is the synonym of 'small'?",
+          "options": ["big", "tiny", "loud", "bright"],
+          "answer": "tiny"
         },
         {
-          "question": "Translate 'dog' into Spanish.",
-          "options": ["gato", "perro", "ratón", "caballo"],
-          "answer": "perro"
+          "question": "Translate 'house' into Spanish.",
+          "options": ["perro", "gato", "casa", "ratón"],
+          "answer": "casa"
         }
       ]
     }
