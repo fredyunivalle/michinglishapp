@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "lxsae",
+    "profileImage": "https://avatars.githubusercontent.com/u/83548015?v=4",
+    "socialLink": "@Ivan"
+  },
+  "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "Which sentence correctly uses the passive voice?",
+          "options": [
+            "The novel was written by the author.",
+            "The author wrote the novel.",
+            "The author was writing the novel.",
+            "Writing the novel was done by the author."
+          ],
+          "answer": "The novel was written by the author."
+        },
+        {
+          "question": "Complete the sentence: 'She ________ to the party if she finishes her homework.'",
+          "options": ["will go", "go", "went", "goes"],
+          "answer": "will go"
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "Translate 'happy' into Spanish.",
+          "options": ["triste", "feliz", "enojado", "sorprendido"],
+          "answer": "feliz"
+        },
+        {
+          "question": "What is a synonym for 'difficult'?",
+          "options": ["hard", "easy", "simple", "light"],
+          "answer": "hard"
+        }
+      ]
+    }
+  ]
+}
