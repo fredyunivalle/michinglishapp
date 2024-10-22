@@ -21,7 +21,7 @@
         {
           "question": "Translate 'butterfly' into Spanish.",
           "options": ["vaca", "gato", "pato", "mariposa"],
-          "answer": "gato"
+          "answer": "mariposa"
         }
       ]
     }
