@@ -15,6 +15,14 @@
             "He didn't likes to read books.",
             "He don't likes to read books."],
             "answer": "He doesn't like to read books."
+          },
+          {
+            "question": "Choose the correct sentence:",
+            "options": ["She don't like to swim.",
+            "She doesn't likes to swim.",
+            "She doesn't like to swim.",
+            "She do not like swim."],
+            "answer": "She doesn't like to swim."
           }
          
         ]
@@ -26,6 +34,11 @@
             "question": "What is the opposite of 'hot'?",
             "options": ["warm", "cold", "cool", "boiling"],
             "answer": "cold"
+          },
+          {
+            "question": "Choose the word that means 'very tired'",
+            "options": ["sleepy", "energetic", "exhausted", "relaxed"],
+            "answer": "exhausted"
           }
         ]
       }
