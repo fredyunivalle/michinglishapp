@@ -9,14 +9,14 @@
       "topic": "grammar",
       "questions": [
         {
-          "question": "What is the plural form of 'child'?",
-          "options": ["childs", "children", "childes", "childrens"],
-          "answer": "children"
+          "question": "Which is the correct form? 'She is the __ person I know.'",
+          "options": ["most beautiful", "more beautiful", "beautifuller", "beauty"],
+          "answer": "most beautiful"
         },
         {
-          "question": "Identify the correct sentence.",
-          "options": ["He go to the store", "He goes to the store", "He gone to the store", "He going to the store"],
-          "answer": "He goes to the store"
+          "question": "Choose the correct adjective form: 'This lipstick is __ than the other shade.'",
+          "options": ["more vibrant", "vibranter", "most vibrant", "vibrant"],
+          "answer": "more vibrant"
         }
       ]
     },
@@ -24,29 +24,14 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What does 'happy' mean?",
-          "options": ["triste", "contento", "enojado", "cansado"],
-          "answer": "contento"
+          "question": "Translate 'makeup' into Spanish.",
+          "options": ["maquillaje", "crema", "loción", "pintura"],
+          "answer": "maquillaje"
         },
         {
-          "question": "Translate 'book' into French.",
-          "options": ["livre", "libro", "buch", "bok"],
-          "answer": "livre"
-        }
-      ]
-    },
-    {
-      "topic": "pronunciation",
-      "questions": [
-        {
-          "question": "How do you pronounce 'through'?",
-          "options": ["throo", "threw", "throu", "thru"],
-          "answer": "throo"
-        },
-        {
-          "question": "Which word has a different vowel sound?",
-          "options": ["beat", "beet", "bit", "bait"],
-          "answer": "bit"
+          "question": "What does 'glamorous' mean?",
+          "options": ["sencillo", "elegante", "barato", "rústico"],
+          "answer": "elegante"
         }
       ]
     }
