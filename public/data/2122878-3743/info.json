@@ -1,0 +1,46 @@
+{
+  "user": {
+    "username": "Carlos-39",
+    "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocIVe1wu-0-WvYHdIS_HwsYte85oPC18wpKEM7v7ga7G_LCiuivG=s288-c-no",
+    "socialLink": "@carlosdca_"
+  },
+  "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "Which word is an article?",
+          "options": ["quickly", "the", "run", "blue"],
+          "answer": "the"
+        },
+        {
+          "question": "Which sentence is correct?",
+          "options": [
+            "He going to the park.",
+            "He go to the park.",
+            "He is going to the park.",
+            "He goes to the park."
+          ],
+          "answer": "He is going to the park."
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What is the opposite of 'fast'?",
+          "options": ["quick", "slow", "speed", "run"],
+          "answer": "slow"
+        },
+        {
+          "question": "Translate 'dog' into Spanish.",
+          "options": ["gato", "perro", "ratón", "caballo"],
+          "answer": "perro"
+        }
+      ]
+    }
+  ]
+}
+
+  
