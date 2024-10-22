@@ -1,0 +1,46 @@
+{
+    "user": {
+      "username": "Nicolas Garces",
+      "profileImage": "https://avatars.githubusercontent.com/u/67522479?u=0037e1cc44f92faf12d3e6dd40ebf556260d9dba&v=4&size=64",
+      "socialLink": "@nicoolasgl"
+    },
+    "topics": [
+      {
+        "topic": "grammar",
+        "questions": [
+          {
+          "question": "Which is the subjunctive form of 'to be' in the first person singular?",
+          "options": ["am", "was", "were", "be"],
+          "answer": "were"
+          },
+          {
+          "question": "What is the difference between 'will' and 'shall' in formal contexts?",
+          "options": [
+            "'Will' is used for offers, 'shall' for suggestions",
+            "'Shall' is for suggestions, 'will' for statements",
+            "'Will' is for statements, 'shall' for commands",
+            "'Shall' is for future predictions, 'will' for commands"
+            ],
+            "answer": "'Shall' is for suggestions, 'will' for statements"
+          }
+        ]
+      },
+      
+      {
+        "topic": "vocabulary",
+        "questions": [
+          {
+          "question": "What is the meaning of the word 'serendipity'?",
+          "options": ["A fortunate coincidence", "A sad event", "A deliberate action", "A risky adventure"],
+          "answer": "A fortunate coincidence"
+          },
+          {
+          "question": "Which word is a synonym for 'ubiquitous'?",
+          "options": ["Rare", "Common", "Omnipresent", "Fragile"],
+          "answer": "Omnipresent"
+          }
+        ]
+      }
+    ]
+  }
+  
