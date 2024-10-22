@@ -1,0 +1,49 @@
+{
+  "user": {
+    "username": "Cristian Medina",
+    "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocI2jyPqLBNHO2zoVpF7cB2RwWUGUTp6hIQPYjcpILqyEYmKOShz=s576-c-no",
+    "socialLink": "@cdmedina23"
+  },
+  "topics": [
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What is the meaning of 'peninsula'?",
+          "options": [
+            "A piece of land almost surrounded by water",
+            "A group of islands",
+            "A mountain range",
+            "A desert region"
+          ],
+          "answer": "A piece of land almost surrounded by water"
+        },
+        {
+          "question": "Translate 'ocean' into Spanish.",
+          "options": ["océano", "mar", "río", "lago"],
+          "answer": "océano"
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What is the meaning of 'archipelago'?",
+          "options": [
+            "A chain or group of islands",
+            "A single large island",
+            "A narrow strip of land",
+            "A type of mountain"
+          ],
+          "answer": "A chain or group of islands"
+        },
+        {
+          "question": "Translate 'continent' into Spanish.",
+          "options": ["continente", "isla", "país", "región"],
+          "answer": "continente"
+        }
+      ]
+    }
+  ]
+}
