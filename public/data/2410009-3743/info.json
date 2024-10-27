@@ -9,14 +9,14 @@
             "topic": "grammar",
             "questions": [
                 {
-                    "question": "What is the plural form of 'child'?",
+                    "question": "What is the plural form of 'sheep'?",
                     "options": [
-                        "childs",
-                        "children",
-                        "childes",
-                        "childern"
+                        "sheeps",
+                        "sheepies",
+                        "flock",
+                        "sheep"
                     ],
-                    "answer": "children"
+                    "answer": "flock"
                 },
                 {
                     "question": "What is the correct past tense of 'sing'?",
