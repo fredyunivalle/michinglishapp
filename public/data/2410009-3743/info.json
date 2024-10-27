@@ -35,14 +35,14 @@
             "topic": "vocabulary",
             "questions": [
                 {
-                    "question": "Translate 'book' into Spanish.",
+                    "question": "Translate 'ship' into Spanish.",
                     "options": [
-                        "libro",
+                        "barco",
                         "revista",
                         "periódico",
                         "cuaderno"
                     ],
-                    "answer": "libro"
+                    "answer": "barco"
                 },
                 {
                     "question": "What is the synonym of 'difficult'?",
