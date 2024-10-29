@@ -9,17 +9,17 @@
       "topic": "grammar",
       "questions": [
         {
-          "question": "Which sentence is in the future tense?",
+          "question": "Which sentence is in the future continuous tense?",
           "options": [
-            "I eat breakfast.",
-            "I will eat breakfast.",
-            "I ate breakfast.",
-            "I am eating breakfast."
+            "I run every day.",
+            "I will run tomorrow.",
+            "I am running now.",
+            "I will be running tomorrow."
           ],
-          "answer": "I will eat breakfast."
-        },
+          "answer": "I will be running tomorrow."
+        },                        
         {
-          "question": "Choose the correct form of the verb: 'She _____ to the store yesterday.'",
+          "question": "Choose the correct form of the verb: 'They _____ to the concert last night.'",
           "options": [
             "go",
             "went",
@@ -34,9 +34,9 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What is the antonym of 'difficult'?",
-          "options": ["hard", "easy", "complex", "challenging"],
-          "answer": "easy"
+          "question": "What is the antonym of 'cold'?",
+          "options": ["hot", "cool", "chilly", "frosty"],
+          "answer": "hot"
         },
         {
           "question": "Which word means 'to consume food'?",

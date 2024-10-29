@@ -29,10 +29,10 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What is the antonym of 'hot'?",
-          "options": ["warm", "cold", "humid", "cool"],
-          "answer": "cold"
-        },
+          "question": "What is the antonym of 'fast'?",
+          "options": ["quick", "slow", "rapid", "speedy"],
+          "answer": "slow"
+        },        
         {
           "question": "Translate 'apple' into Spanish.",
           "options": ["naranja", "manzana", "pera", "platano"],
