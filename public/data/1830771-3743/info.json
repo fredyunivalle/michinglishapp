@@ -1,0 +1,39 @@
+{
+  "user": {
+    "username": "kentruri",
+    "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocI4xuFgbrsQf1981gagjmlhtZNsXcFLFb89jIlpsYh4viXyi1o=s288-c-no",
+    "socialLink": "@kentruri"
+  },
+  "topics": [
+    {
+      "topic": "geography",
+      "questions": [
+        {
+          "question": "What is the capital city of France?",
+          "options": [
+            "Paris",
+            "Rome",
+            "Berlin",
+            "Madrid"
+          ],
+          "answer": "Paris"
+        }
+      ]
+    },
+    {
+      "topic": "science",
+      "questions": [
+        {
+          "question": "What is the chemical symbol for water?",
+          "options": [
+            "H2O",
+            "O2",
+            "CO2",
+            "NaCl"
+          ],
+          "answer": "H2O"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "user": {
+    "username": "VictorAcuna541",
+    "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocI6ozjQ_WK69W__rqt2SAW6xf-x3vOw-LLmQ-aH9SaYBJcVtWMZ=s317-c-no",
+    "socialLink": "@saalazar_10"
+  },
+  "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "What is the plural of 'tooth'?",
+          "options": ["tooths", "teeth", "toothes", "teet"],
+          "answer": "teeth"
+        }
+       
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What is the synonym of 'smart'?",
+          "options": ["dumb", "brilliant", "lazy", "ugly"],
+          "answer": "brilliant"
+        }
+        
+      ]
+    }
+  ]
+}
