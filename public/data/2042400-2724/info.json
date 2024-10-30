@@ -6,7 +6,7 @@
     },
     "topics": [
       {
-        "topic": "advanced grammar",
+        "topic": "grammar",
         "questions": [
           {
             "question": "Identify the correct use of a semicolon in the sentence:",
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "topic": "advanced vocabulary",
+        "topic": "vocabulary",
         "questions": [
           {
             "question": "Which word is an antonym for 'gregarious'?",
