@@ -1,0 +1,46 @@
+{
+  "user": {
+    "username": "Carlos-39",
+    "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocIVe1wu-0-WvYHdIS_HwsYte85oPC18wpKEM7v7ga7G_LCiuivG=s288-c-no",
+    "socialLink": "@carlosdca_"
+  },
+  "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "Which word completes this sentence: 'She ___ reading a book.'?",
+          "options": ["am", "are", "is", "was"],
+          "answer": "is"
+        },
+        {
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "They has a car.",
+            "They have a car.",
+            "They is a car.",
+            "They having a car."
+          ],
+          "answer": "They have a car."
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What is the synonym of 'small'?",
+          "options": ["big", "tiny", "loud", "bright"],
+          "answer": "tiny"
+        },
+        {
+          "question": "Translate 'house' into Spanish.",
+          "options": ["perro", "gato", "casa", "ratón"],
+          "answer": "casa"
+        }
+      ]
+    }
+  ]
+}
+
+  
