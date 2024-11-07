@@ -29,14 +29,14 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What is the synonym of 'hard'?",
-          "options": ["easy", "difficult", "simple", "fun"],
-          "answer": "difficult"
+          "question": "What is the synonym of 'difficult'?",
+          "options": ["easy", "hard", "simple", "fun"],
+          "answer": "hard"
         },
         {
-          "question": "Translate 'house' into French.",
-          "options": ["maison", "chambre", "voiture", "fenêtre"],
-          "answer": "maison"
+          "question": "Translate 'dpg' into Spanish.",
+          "options": ["perro", "Carro", "Gato", "Arroz"],
+          "answer": "perro"
         }
       ]
     }    

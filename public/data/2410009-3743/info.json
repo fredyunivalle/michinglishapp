@@ -35,24 +35,24 @@
             "topic": "vocabulary",
             "questions": [
                 {
-                    "question": "Translate 'ship' into Spanish.",
+                    "question": "Translate 'bus' into Spanish.",
                     "options": [
-                        "barco",
+                        "bus",
                         "revista",
                         "periódico",
                         "cuaderno"
                     ],
-                    "answer": "barco"
+                    "answer": "bus"
                 },
                 {
-                    "question": "What is the synonym of 'difficult'?",
+                    "question": "What is the synonym of 'hard'?",
                     "options": [
                         "easy",
-                        "hard",
+                        "difficult",
                         "simple",
                         "straightforward"
                     ],
-                    "answer": "hard"
+                    "answer": "difficult"
                 }
             ]
         }

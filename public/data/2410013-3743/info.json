@@ -9,17 +9,17 @@
       "topic": "grammar",
       "questions": [
         {
-          "question": "1. Which sentence is correct?",
+          "question": "Which sentence is NOT wrong?",
           "options": [
             "They was happy",
-            "They were happy",
+            "They not happy",
             "They are happy.",
             "They be happy."
           ],
-          "answer": "They were happy"
+          "answer": "They not happy"
         },
         {
-          "question": "What is the comparative form of 'big'?",
+          "question": "What is the comparative form of 'bigger'?",
           "options": [
             "bigger",
             "biggest",
@@ -34,24 +34,24 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What does 'benevolent' mean?",
+          "question": "What does 'angry' mean?",
           "options": [
             "kind",
             "mean",
-            "angry",
+            "benevolent",
             "selfish"
           ],
           "answer": "kind"
         },
         {
-          "question": "What is the synonym of 'fast'?",
+          "question": "What is the synonym of 'slow'?",
           "options": [
+            "fast",
             "quick",
-            "slow",
             "steady",
             "lazy"
           ],
-          "answer": "quick"
+          "answer": "steady"
         }
       ]
     }
