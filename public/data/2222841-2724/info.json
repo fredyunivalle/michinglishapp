@@ -23,9 +23,14 @@
         "topic": "vocabulary",
         "questions": [
           {
-            "question": "What is the opposite of 'cold'?",
-            "options": ["warm", "hot", "cool", "boiling"],
-            "answer": "hot"
+            "question": "What is the opposite of 'big'?",
+            "options": ["tall", "small", "large", "huge"],
+            "answer": "small"
+          },
+          {
+            "question": "Choose the word that means 'very tired'",
+            "options": ["carrot", "apple", "chicken", "bread"],
+            "answer": "apple"
           }
         ]
       }
