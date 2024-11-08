@@ -1,10 +1,10 @@
-// src/App.js
 import React, { useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { setData, setLoading, setError } from './store/data';
 import QuizCard from './components/quizcard';
 import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';
+
 
 const fetchData = async (dispatch) => {
   try {
