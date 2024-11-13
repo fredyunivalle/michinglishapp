@@ -12,6 +12,7 @@ import { AppRouter } from './router/AppRouter';
 
 
 
+
 const fetchData = async (dispatch) => {
   try {
     dispatch(setLoading(true));
@@ -46,8 +47,10 @@ function App() {
     <>
       <AppNavbar onToggleSidebar={toggleSidebar} />
       <Sidebar show={showSidebar} onClose={toggleSidebar} />
+
       <div className="mt-5">             
-          <AppRouter />
+
+        <AppRouter />
 
       </div>
     </>
