@@ -1,0 +1,39 @@
+{
+  "user": {
+    "username": "EstefaniaParra",
+    "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocJi2Ieq2IdGqL6evdjNFFu5AdDYkb3QjNPF4a4cSgVOV_NmPi7Z=s288-c-no",
+    "socialLink": "@Estefania9793"
+  },
+  "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "Which is the correct form? 'She is the __ person I know.'",
+          "options": ["most beautiful", "more beautiful", "beautifuller", "beauty"],
+          "answer": "most beautiful"
+        },
+        {
+          "question": "Choose the correct adjective form: 'This lipstick is __ than the other shade.'",
+          "options": ["more vibrant", "vibranter", "most vibrant", "vibrant"],
+          "answer": "more vibrant"
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "Translate 'makeup' into Spanish.",
+          "options": ["maquillaje", "crema", "loción", "pintura"],
+          "answer": "maquillaje"
+        },
+        {
+          "question": "What does 'glamorous' mean?",
+          "options": ["sencillo", "elegante", "barato", "rústico"],
+          "answer": "elegante"
+        }
+      ]
+    }
+  ]
+}

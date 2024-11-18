@@ -1,0 +1,59 @@
+{
+    "user": {
+        "username": "KingShady",
+        "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocKzxQOurOMxmJzIoW8vWaOoVINBdF2Y4rLXUGfji81pZ77_aAPt=s192-c-mo",
+        "socialLink": "@drizzShady"
+    },
+    "topics": [
+        {
+            "topic": "grammar",
+            "questions": [
+                {
+                    "question": "Choose the correct form of the verb: She ___ to the store every day.",
+                    "options": [
+                        "go",
+                        "goes",
+                        "gone",
+                        "going"
+                    ],
+                    "answer": "goes"
+                },
+                {
+                    "question": "Select the correct article: ___ cat is sleeping on the sofa.",
+                    "options": [
+                        "A",
+                        "An",
+                        "The",
+                        "No article needed"
+                    ],
+                    "answer": "The"
+                }
+            ]
+        },
+        {
+            "topic": "vocabulary",
+            "questions": [
+                {
+                    "question": "What is the opposite of 'happy'?",
+                    "options": [
+                        "Sad",
+                        "Big",
+                        "Fast",
+                        "Hot"
+                    ],
+                    "answer": "Sad"
+                },
+                {
+                    "question": "Translate to English: 'Libro'.",
+                    "options": [
+                        "Pen",
+                        "Book",
+                        "Table",
+                        "Chair"
+                    ],
+                    "answer": "Book"
+                }
+            ]
+        }
+    ]
+}
