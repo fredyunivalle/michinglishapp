@@ -1,0 +1,40 @@
+{
+    "user": {
+      "username": "David_Lopez",
+      "profileImage": "https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1900&h=1267",
+      "socialLink": "@Yisus45"
+    },
+    "topics": [
+      {
+        "topic": "grammar",
+        "questions": [
+          {
+            "question":  " What is the past tense of 'eat' ?.",
+            "options": ["ate", "eated", "eats", "eating"],
+            "answer": "ate"
+          },
+          {
+            "question": " What is the correct past tense of 'swim '?.",
+            "options":["swam", "swimmed", "swum", "swiming"],
+            "answer": "swam"
+          }
+        ]
+      },
+      {
+        "topic": "vocabulary",
+        "questions": [
+          {
+            "question": "Translate 'house' into Spanish. ",
+            "options":  ["casa", "puerta", "carro", "ventana"],
+            "answer": "casa"
+          },
+          {
+            "question": "Translate 'bird' into Spanish. ",
+            "options":   ["pájaro", "pez", "ratón", "perro"],
+            "answer": "pájaro"
+          }
+        ]
+      }
+    ]
+  }
+  
