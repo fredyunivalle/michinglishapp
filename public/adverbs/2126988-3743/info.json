@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "Adrian Ordoñez",
+      "profileImage": "https://avatars.githubusercontent.com/u/148493530?v=4",
+      "socialLink": "@adriancho2001"
+    },
+    "topics": [
+      {
+        "topic": "adverbs",
+        "questions": [
+          {
+            "question": "Which sentence contains an incorrect placement of the adverb?",
+            "options": [
+              "She rarely goes out during the week.",
+              "They have completely understood the concept.",
+              "He sings beautifully the national anthem.",
+              "I will probably see you tomorrow."
+            ],
+            "answer": "He sings beautifully the national anthem."
+          },
+          {
+            "question": "Which of the following sentences uses an adverb of degree incorrectly or awkwardly?",
+            "options": [
+              "He was deeply moved by the performance.",
+              "She is completely sure of her decision.",
+              "I strongly believe that she is right.",
+              "The weather was entirely hot yesterday."
+            ],
+            "answer": "The weather was entirely hot yesterday."
+          },
+          {
+            "question": "Which of the following adverbs is not formed regularly from its corresponding adjective?",
+            "options": [
+              "Terribly - Terrible",
+              "Easily - Easy",
+              "Publicly - Public",
+              "Fastly - Fast"
+            ],
+            "answer": "Fastly - Fast"
+          }
+        ]
+      }
+    ]
+  }
