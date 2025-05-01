@@ -5,7 +5,7 @@ import { extractQuestionsWithUserData } from '../../helpers/extractQuestionWiUsr
 import { shuffleArray } from '../../helpers/shuffleArray';
 
 const AdverbsModule = () => {
-  const data = useSelector((state) => state.linkwords.data);
+  const data = useSelector((state) => state.adverbs.data);
   const tittle = "Adverbs"
   let allQuestions = extractQuestionsWithUserData(data)
   allQuestions =shuffleArray(allQuestions)
