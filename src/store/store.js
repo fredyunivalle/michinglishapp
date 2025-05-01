@@ -5,7 +5,7 @@ import { linkwordsSlice } from "./linkwords";
 import { verbsSlice } from "./verbs";
 import { adjectivesSlice } from "./adjectives";
 import { firstconditionalSlice } from "./firstconditional";
-import { adverbsSlice } from "./adverbs/adverbsSlice";
+import { adverbsSlice } from "./adverbs";
 
 export const store = configureStore({
   reducer: {
