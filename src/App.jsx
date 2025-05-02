@@ -5,6 +5,7 @@ import { setData as setDataLinkwords, setLoading as setLoadingLinkwords, setErro
 import { setData as setDataVerbs, setLoading as setLoadingVerbs, setError as setErrorVerbs } from "./store/verbs";
 import { setData as setDataAdjectives, setLoading as setLoadingAdjectives, setError as setErrorAdjectives } from "./store/adjectives";
 import { setData as setDataFirstConditional, setLoading as setLoadingFirstConditional, setError as setErrorFirstConditional } from "./store/firstconditional";
+import { setData as setDataThirdConditional, setLoading as setLoadingThirdConditional, setError as setErrorThirdConditional } from "./store/thirdconditional";
 import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';
 import { fetchDataHelper } from "./helpers/fetchDataHelper";
@@ -60,6 +61,15 @@ function App() {
       setDataFirstConditional,
       setErrorFirstConditional,
       `${import.meta.env.BASE_URL}firstconditional`
+    );
+
+    // Fetch for `Third Conditional`
+    fetchDataHelper(
+      dispatch,
+      setLoadingThirdConditional,
+      setDataThirdConditional,
+      setErrorThirdConditional,
+      `${import.meta.env.BASE_URL}thirdconditional`
     );
     
   }, [dispatch]);
