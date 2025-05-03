@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Andres Ortega",
+    "profileImage": "https://www.computerhope.com/jargon/p/program.png",
+    "socialLink": "@andresortega"
+  },
+  "topics": [
+    {
+      "topic": "first conditional",
+      "questions": [
+        {
+          "question": "What is the correct form? 'If it _____ tomorrow, we will cancel the picnic.'",
+          "options": [
+            "rains",
+            "rained",
+            "will rain",
+            "rain"
+          ],
+          "answer": "rains"
+        },
+        {
+          "question": "Which of these sentences is an example of the first conditional?",
+          "options": [
+            "If she studies hard, she will pass the exam.",
+            "If she studied hard, she would pass the exam.",
+            "If she had studied, she would have passed.",
+            "If she studies, she passes."
+          ],
+          "answer": "If she studies hard, she will pass the exam."
+        },
+        {
+          "question": "Choose the correct option: 'They will miss the bus if they _____ now.'",
+          "options": [
+            "don't leave",
+            "won't leave",
+            "didn't leave",
+            "aren't leaving"
+          ],
+          "answer": "don't leave"
+        }
+      ]
+    }
+  ]
+}
