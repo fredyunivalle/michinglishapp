@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Diana Marcela",
+    "profileImage": "https://es.mypet.com/wp-content/uploads/sites/23/2021/03/GettyImages-1168538927-e1582816048106.jpg?w=700",
+    "socialLink": "@dia_narcisas"
+  },
+  "topics": [
+    {
+      "topic": "mixed conditional",
+      "questions": [
+        {
+          "question": "She would be more confident if she _____ that course last year.",
+          "options": [
+            "takes",
+            "took",
+            "had taken",
+            "take"
+          ],
+          "answer": "had taken"
+        },
+        {
+          "question": "If we were more organized, we _____ finished the project yesterday.",
+          "options": [
+            "will have",
+            "would have",
+            "have",
+            "had"
+          ],
+          "answer": "would have"
+        },
+        {
+          "question": "If he were more responsible, he _____ forgotten the meeting yesterday.",
+          "options": [
+            "wouldn't have",
+            "won't have",
+            "didn't have",
+            "wouldn't"
+          ],
+          "answer": "wouldn't have"
+        }
+      ]
+    }
+  ]
+}
