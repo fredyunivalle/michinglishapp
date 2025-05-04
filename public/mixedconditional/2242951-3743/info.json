@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Alejandro Muñoz",
+    "profileImage": "https://i0.wp.com/planetamascotaperu.com/wp-content/uploads/2023/09/persa_blanco_crop1635633155395.jpeg_423682103.webp?fit=1200%2C1200&ssl=1",
+    "socialLink": "@alejandro.mg1"
+  },
+  "topics": [
+    {
+      "topic": "mixedconditional",
+      "questions": [
+        {
+          "question": "Which sentence correctly uses a mixed conditional (past condition + present result)?",
+          "options": [
+            "If I had taken the job offer, I would be living in Paris today.",
+            "If I take the job offer, I will live in Paris.",
+            "If I took the job offer, I would live in Paris.",
+            "If I had taken the job offer, I would have lived in Paris."
+          ],
+          "answer": "If I had taken the job offer, I would be living in Paris today."
+        },
+        {
+          "question": "Complete the mixed conditional: 'If they _____ (not eat) all the pizza last night, we _____ (have) some for lunch now.'",
+          "options": [
+            "didn't eat / would have",
+            "hadn't eaten / would have",
+            "hadn't eaten / would have had",
+            "hadn't eaten / would have"
+          ],
+          "answer": "hadn't eaten / would have"
+        },
+        {
+          "question": "Identify the mixed conditional sentence:",
+          "options": [
+            "If you heat ice, it melts.",
+            "If she had practiced more, she would have won the competition.",
+            "If I were you, I would apologize.",
+            "If you had listened to me, you wouldn't be in trouble now."
+          ],
+          "answer": "If you had listened to me, you wouldn't be in trouble now."
+        }
+      ]
+    }
+  ]
+}
