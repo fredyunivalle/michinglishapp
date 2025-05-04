@@ -1,0 +1,64 @@
+{
+    "user": {
+      "username": "Andres Muñoz",
+      "profileImage": "https://k40lasercutter.com/wp-content/uploads/2024/06/Free-Deadpool-Cartoon-SVG-Black-and-White-SVG-Vector-File-for-Laser-Cutting.jpg",
+      "socialLink": "@andresmunoz"
+    },
+    "topics": [
+      {
+        "topic": "linkwords",
+        "questions": [
+          {
+            "question": "_____ the technical difficulties during the live stream, the event was a huge success.",
+            "options": [
+              "Because of",
+              "Despite",
+              "Consequently",
+              "As a result"
+            ],
+            "answer": "Despite"
+          },
+          {
+            "question": "The experiment used contaminated samples; _____, all results were invalid.",
+            "options": [
+              "however",
+              "therefore",
+              "on the contrary",
+              "moreover"
+            ],
+            "answer": "therefore"
+          },
+          {
+            "question": "She is the CEO of a tech startup. _____, she mentors young entrepreneurs in her free time.",
+            "options": [
+              "Nevertheless",
+              "Furthermore",
+              "Whereas",
+              "Otherwise"
+            ],
+            "answer": "Furthermore"
+          },
+          {
+            "question": "_____ you fail to submit the report by Friday, the project will be delayed.",
+            "options": [
+              "Unless",
+              "However",
+              "Because",
+              "Similarly"
+            ],
+            "answer": "Unless"
+          },
+          {
+            "question": "In some countries, punctuality is crucial; _____, in others, flexibility is valued more.",
+            "options": [
+              "as a result",
+              "conversely",
+              "hence",
+              "additionally"
+            ],
+            "answer": "conversely"
+          }
+        ]
+      }
+    ]
+  }
