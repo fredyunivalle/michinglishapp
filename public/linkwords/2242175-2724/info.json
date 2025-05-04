@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "Jenifer Ortiz Torres",
+      "profileImage": "https://pm1.aminoapps.com/6565/a791bdc7ce883ef12a7bcb15e6d9cf72a6f61493_hq.jpg",
+      "socialLink": "@jenfortiz"
+    },
+    "topics": [
+      {
+        "topic": "linkwords",
+        "questions": [
+          {
+            "question": "I’ll come with you _____ you need my help.",
+            "options": [
+                "If", 
+                "Unless", 
+                "Whereas", 
+                "While"
+            ],
+            "answer": "If"
+          },
+          {
+            "question": "You must finish the report _____ you leave.",
+            "options": [
+                "Before", 
+                "Whereas", 
+                "Nonetheless", 
+                "Such as"
+            ],
+            "answer": "Before"
+          },
+          {
+            "question": "_____ his reputation, he was not hired.",
+            "options": [
+                "In spite of", 
+                "Because", 
+                "Therefore", 
+                "Unless"
+            ],
+          "answer": "In spite of"
+          }
+        ]
+      }
+    ]
+}
