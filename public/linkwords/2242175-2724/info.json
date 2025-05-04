@@ -9,36 +9,37 @@
         "topic": "linkwords",
         "questions": [
           {
-            "question": "I’ll come with you _____ you need my help.",
+            "question": "You can’t drive a car _____ you have a valid license.",
             "options": [
-                "If", 
-                "Unless", 
-                "Whereas", 
-                "While"
+              "unless", 
+              "while", 
+              "in case", 
+              "because"
             ],
-            "answer": "If"
+            "answer": "unless"
           },
           {
-            "question": "You must finish the report _____ you leave.",
+            "question": "He was very tired, _____ he continued working.",
             "options": [
-                "Before", 
-                "Whereas", 
-                "Nonetheless", 
-                "Such as"
+              "yet", 
+              "because", 
+              "so that", 
+              "if"
             ],
-            "answer": "Before"
+            "answer": "yet"
           },
           {
-            "question": "_____ his reputation, he was not hired.",
+            "question": "Take an umbrella _____ it rains.",
             "options": [
-                "In spite of", 
-                "Because", 
-                "Therefore", 
-                "Unless"
+              "in case", 
+              "unless", 
+              "so that", 
+              "whereas"
             ],
-          "answer": "In spite of"
+            "answer": "in case"
           }
         ]
       }
     ]
-}
+  }
+  
