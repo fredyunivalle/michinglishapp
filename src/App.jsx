@@ -5,6 +5,7 @@ import { setData as setDataLinkwords, setLoading as setLoadingLinkwords, setErro
 import { setData as setDataVerbs, setLoading as setLoadingVerbs, setError as setErrorVerbs } from "./store/verbs";
 import { setData as setDataAdjectives, setLoading as setLoadingAdjectives, setError as setErrorAdjectives } from "./store/adjectives";
 import { setData as setDataFirstConditional, setLoading as setLoadingFirstConditional, setError as setErrorFirstConditional } from "./store/firstconditional";
+import { setData as setDataZeroConditional, setLoading as setLoadingZeroConditional, setError as setErrorZeroConditional } from "./store/zeroconditional";
 import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';
 import { fetchDataHelper } from "./helpers/fetchDataHelper";
@@ -61,7 +62,16 @@ function App() {
       setErrorFirstConditional,
       `${import.meta.env.BASE_URL}firstconditional`
     );
-    
+
+    // Fetch for `Zero Conditional`
+    fetchDataHelper(
+      dispatch,
+      setLoadingZeroConditional,
+      setDataZeroConditional,
+      setErrorZeroConditional,
+      `${import.meta.env.BASE_URL}zeroconditional`
+    );
+
   }, [dispatch]);
 
   const toggleSidebar = () => setShowSidebar(!showSidebar);
@@ -71,7 +81,7 @@ function App() {
       <AppNavbar onToggleSidebar={toggleSidebar} />
       <Sidebar show={showSidebar} onClose={toggleSidebar} />
 
-      <div className="mt-5">             
+      <div className="mt-5">
 
         <AppRouter />
 
