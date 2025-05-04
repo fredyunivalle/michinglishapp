@@ -9,56 +9,57 @@
         "topic": "third conditional",
         "questions": [
           {
-            "question": "What would have happened if they had left the house earlier?",
+            "question": "If the alarm had worked, what would the firefighters have done?",
             "options": [
-              "They catch the bus.",
-              "They would catch the bus",
-              "They would have caught the bus.",
-              "They had caught the bus."
+              "They arrive earlier.",
+              "They would have arrived earlier.",
+              "They had arrived earlier.",
+              "They would arrived earlier."
             ],
-            "answer": "They would have caught the bus."
+            "answer": "They would have arrived earlier."
           },
           {
-            "question": "Choose the correct third conditional sentence:",
+            "question": "Which of these is a correct third conditional about missing a message?",
             "options": [
-              "If she has studied more, she would pass.",
-              "If she had studied more, she would have passed.",
-              "If she studied more, she will pass.",
-              "If she had studied more, she will pass."
+              "If I checked my phone, I would have replied.",
+              "If I had checked my phone, I would have replied.",
+              "If I have checked my phone, I will reply.",
+              "If I check my phone, I would have replied."
             ],
-            "answer": "If she had studied more, she would have passed."
+            "answer": "If I had checked my phone, I would have replied."
           },
           {
-            "question": "Complete the sentence: 'If we had arrived on time, we _____ the beginning of the movie.",
+            "question": "Complete the sentence: 'If the teacher had explained it better, the students _____ confused.'",
             "options": [
-              "saw",
-              "would see",
-              "would have seen",
-              "see"
+              "weren't",
+              "wouldn't be",
+              "wouldn't have been",
+              "wouldn't had been"
             ],
-            "answer": "would have seen"
+            "answer": "wouldn't have been"
           },
           {
-            "question": "Which option shows correct third conditional structure?",
+            "question": "Choose the correct third conditional question:",
             "options": [
-              "If he had eaten breakfast, he wouldn't be hungry.",
-              "If he eats breakfast, he wouldn't have been hungry.",
-              "If he had eaten breakfast, he wouldn't have been hungry.",
-              "If he had eaten breakfast, he wouldn't hungry."
+              "What had you done if you missed the train?",
+              "What would you have done if you had missed the train?",
+              "What do you do if you had missed the train?",
+              "What you would have done if you had missed the train?"
             ],
-            "answer": "If he had eaten breakfast, he wouldn't have been hungry."
+            "answer": "What would you have done if you had missed the train?"
           },
           {
-            "question": "What is the correct third conditional sentence involving a job interview?",
+            "question": "Which sentence uses third conditional with a negative verb?",
             "options": [
-              "If I went to the interview, I would have got the job.",
-              "If I had gone to the interview, I would have got the job.",
-              "If I had gone to the interview, I would get the job.",
-              "If I go to the interview, I get the job."
+              "If she had not forgotten her ID, she would have entered the club.",
+              "If she didn't forget her ID, she would entered the club.",
+              "If she hasn't forgot her ID, she entered the club.",
+              "If she not forgot her ID, she would enter the club."
             ],
-            "answer": "If I had gone to the interview, I would have got the job."
+            "answer": "If she had not forgotten her ID, she would have entered the club."
           }
         ]
       }
     ]
   }
+  
