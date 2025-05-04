@@ -22,11 +22,21 @@
           "question": "If we were more organized, we _____ finished the project yesterday.",
           "options": [
             "will have",
-        "would have",
-        "have",
-        "had"
+            "would have",
+            "have",
+            "had"
           ],
           "answer": "would have"
+        },
+        {
+          "question": "If he were more responsible, he _____ forgotten the meeting yesterday.",
+          "options": [
+            "wouldn't have",
+            "won't have",
+            "didn't have",
+            "wouldn't"
+          ],
+          "answer": "wouldn't have"
         }
       ]
     }
