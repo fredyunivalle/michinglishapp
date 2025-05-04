@@ -48,7 +48,9 @@ function validateFolderQuestions(folderName) {
   });
 }
 
-// Run validations for all three folders
+// Run validations for all folders
 validateFolderQuestions('data');
 validateFolderQuestions('linkwords');
 validateFolderQuestions('verbs');
+validateFolderQuestions('adjectives');
+validateFolderQuestions('firstconditional');

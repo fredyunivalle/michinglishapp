@@ -1,0 +1,164 @@
+{
+  "user": {
+    "username": "Fredy Ball",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@fredyballest"
+  },
+  "topics": [
+    {
+      "topic": "first conditional",
+      "questions": [
+        {
+          "question": "Choose the correct form to complete the sentence: 'If it _____ tomorrow, we will stay home.'",
+          "options": [
+            "rains",
+            "raining",
+            "rain",
+            "rained"
+          ],
+          "answer": "rains"
+        },
+        {
+          "question": "Which sentence correctly uses the first conditional?",
+          "options": [
+            "If she will call me, I answer.",
+            "If she calls me, I will answer.",
+            "If she called me, I would answer.",
+            "If she calling me, I will answer."
+          ],
+          "answer": "If she calls me, I will answer."
+        },
+        {
+          "question": "Choose the correct option: 'If they _____ late, they will miss the train.'",
+          "options": [
+            "arrives",
+            "arrive",
+            "arriving",
+            "arrived"
+          ],
+          "answer": "arrive"
+        },
+        {
+          "question": "Which sentence is a first conditional sentence?",
+          "options": [
+            "If you study hard, you will pass the exam.",
+            "If you studied hard, you would pass the exam.",
+            "If you had studied hard, you would have passed.",
+            "If you studying hard, you pass."
+          ],
+          "answer": "If you study hard, you will pass the exam."
+        },
+        {
+          "question": "Choose the correct form: 'If he _____ enough money, he will buy a new car.'",
+          "options": [
+            "have",
+            "has",
+            "having",
+            "had"
+          ],
+          "answer": "has"
+        },
+        {
+          "question": "Complete the sentence: 'If you don't hurry, you _____ the bus.'",
+          "options": [
+            "miss",
+            "misses",
+            "missed",
+            "missing"
+          ],
+          "answer": "miss"
+        },
+        {
+          "question": "Which is a correct first conditional sentence?",
+          "options": [
+            "If it rains, we stay inside.",
+            "If it raining, we will stay inside.",
+            "If it rain, we will stay inside.",
+            "If it rains, we will stay inside."
+          ],
+          "answer": "If it rains, we will stay inside."
+        },
+        {
+          "question": "Choose the correct option: 'If my team _____ hard, they will win the tournament.'",
+          "options": [
+            "train",
+            "trains",
+            "training",
+            "trained"
+          ],
+          "answer": "trains"
+        },
+        {
+          "question": "Which word correctly completes the sentence: 'If you _____ attention, you will understand the lesson.'",
+          "options": [
+            "pay",
+            "pays",
+            "paid",
+            "paying"
+          ],
+          "answer": "pay"
+        },
+        {
+          "question": "What tense do we use in the 'if' clause of the first conditional?",
+          "options": [
+            "Simple present",
+            "Simple past",
+            "Future",
+            "Present continuous"
+          ],
+          "answer": "Simple present"
+        },
+        {
+          "question": "What tense do we use in the result clause of the first conditional?",
+          "options": [
+            "Present simple",
+            "Past simple",
+            "Future simple",
+            "Present continuous"
+          ],
+          "answer": "Future simple"
+        },
+        {
+          "question": "Choose the sentence that is NOT a first conditional sentence.",
+          "options": [
+            "If you heat ice, it melts.",
+            "If you leave now, you will catch the train.",
+            "If it rains, we will cancel the picnic.",
+            "If he studies, he will pass the test."
+          ],
+          "answer": "If you heat ice, it melts."
+        },
+        {
+          "question": "Choose the correct option: 'If she _____ the invitation, she will come to the party.'",
+          "options": [
+            "accept",
+            "accepts",
+            "accepted",
+            "accepting"
+          ],
+          "answer": "accepts"
+        },
+        {
+          "question": "Which is the correct first conditional sentence?",
+          "options": [
+            "If they will work harder, they succeed.",
+            "If they work harder, they will succeed.",
+            "If they working harder, they will succeed.",
+            "If they worked harder, they would succeed."
+          ],
+          "answer": "If they work harder, they will succeed."
+        },
+        {
+          "question": "Choose the correct form: 'If I _____ free this afternoon, I will help you.'",
+          "options": [
+            "am",
+            "is",
+            "are",
+            "be"
+          ],
+          "answer": "am"
+        }
+      ]
+    }
+  ]
+}
