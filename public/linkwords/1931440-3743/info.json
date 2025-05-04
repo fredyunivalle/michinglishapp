@@ -1,0 +1,46 @@
+{
+    "user": {
+      "username": "ElkinT",
+      "profileImage": "https://pm1.aminoapps.com/6289/69a50ca2c8dc215ffaf41f63a9368a53af9ff3d1_hq.jpg",
+      "socialLink": "@ElkinT"
+    },
+    "topics": [
+        {
+          "topic": "linkwords",
+          "questions": [
+            {
+              "question": "I studied all night; _____, I felt confident during the exam.",
+              "options": [
+                "in contrast",
+                "as a result",
+                "even though",
+                "unless"
+              ],
+              "answer": "as a result"
+            },
+            {
+              "question": "You must submit the report by Friday, _____ your grade will be affected.",
+              "options": [
+                "otherwise",
+                "because",
+                "meanwhile",
+                "although"
+              ],
+              "answer": "otherwise"
+            },
+            {
+              "question": "_____ he apologized, she remained angry.",
+              "options": [
+                "Because",
+                "Even though",
+                "Therefore",
+                "Since"
+              ],
+              "answer": "Even though"
+            }
+        ]
+      }
+    ]
+}
+
+  
