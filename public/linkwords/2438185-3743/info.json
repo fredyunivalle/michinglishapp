@@ -1,0 +1,45 @@
+{
+    "user": {
+      "username": "Juan Manuel Vargas",
+      "profileImage": "https://media.istockphoto.com/id/92734681/es/vector/cubrecamas-en-un-piso.jpg?s=612x612&w=0&k=20&c=TcMzqx8utLgzmOVOS8Uyf8XuZxbQwPY-PgKH_W_lxcU=",
+      "socialLink": "@JuanMVM"
+    },
+    "topics": [
+      {
+        "topic": "linkwords",
+        "questions": [
+          {
+            "question": "I'll go to the party _____ I finish my homework.",
+            "options": [
+              "as soon as",
+              "unless",
+              "although",
+              "because"
+            ],
+            "answer": "as soon as"
+          },
+          {
+            "question": "She studied hard, _____ she failed the exam.",
+            "options": [
+              "but",
+              "so",
+              "because",
+              "unless"
+            ],
+            "answer": "but"
+          },
+          {
+            "question": "He speaks Spanish _____ he lived in Mexico for a year.",
+            "options": [
+              "because",
+              "even though",
+              "so that",
+              "while"
+            ],
+            "answer": "because"
+          }
+        ]
+      }
+    ]
+  }
+  
