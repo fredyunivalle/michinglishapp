@@ -1,0 +1,54 @@
+{
+    "user": {
+      "username": "Michael Ramirez",
+      "profileImage": "https://avatars.githubusercontent.com/u/148493262?v=4",
+      "socialLink": "@michaelRS2002"
+    },
+    "topics": [
+      {
+        "topic": "adverbs",
+        "questions": [
+          {
+            "question": "What kind of adverb is used in the sentence: 'He always forgets his keys.'",
+            "options": [
+              "Adverb of manner",
+              "Adverb of time",
+              "Adverb of frequency",
+              "Adverb of place"
+            ],
+            "answer": "Adverb of frequency"
+          },
+          {
+            "question": "Which adverb best completes the sentence: 'They responded _____ to the emergency.'",
+            "options": [
+              "calm",
+              "calming",
+              "calmly",
+              "calmest"
+            ],
+            "answer": "calmly"
+          },
+          {
+            "question": "Which sentence uses an adverb of manner correctly?",
+            "options": [
+              "She quick finishes her tasks.",
+              "He sings beautifully in the choir.",
+              "They late arrived at the station.",
+              "We will go outside soon."
+            ],
+            "answer": "He sings beautifully in the choir."
+          },
+          {
+            "question": "Choose the sentence that contains an adverb of degree.",
+            "options": [
+              "She spoke gently.",
+              "He almost won the race.",
+              "They travel often.",
+              "He looked around."
+            ],
+            "answer": "He almost won the race."
+          }
+        ]
+      }
+    ]
+  }
