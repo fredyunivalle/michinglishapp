@@ -65,3 +65,4 @@ runDuplicateTestForDirectory('linkwords');
 runDuplicateTestForDirectory('verbs');
 runDuplicateTestForDirectory('adjectives');
 runDuplicateTestForDirectory('firstconditional');
+runDuplicateTestForDirectory('modalspossibility');
