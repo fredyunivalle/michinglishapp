@@ -20,13 +20,13 @@
           ]
         },
         {
-          "question": "If they had studied more, what would have happened?",
-          "answer": "They would have passed the exam.",
+          "question": "Imagine a future where time travel exists. Yesterday, a scientist missed the chance to stop a catastrophe because his machine failed. What is the correct third conditional sentence?",
+          "answer": "If the machine had worked, he would have prevented the catastrophe.",
           "options": [
-            "They would have passed the exam.",
-            "They passed the exam.",
-            "They will pass the exam.",
-            "They have passed the exam."
+            "If the machine didn’t fail, he would stop the catastrophe.",
+            "If the machine had worked, he would have prevented the catastrophe.",
+            "If he prevents the catastrophe, the machine works.",
+            "If the scientist worked harder, he stops the catastrophe."
           ]
         },
         {
