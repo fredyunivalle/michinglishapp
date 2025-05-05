@@ -1,0 +1,39 @@
+{
+  "user": {
+    "username": "Daniel Enriquez",
+    "profileImage": "https://scontent.fclo9-1.fna.fbcdn.net/v/t39.30808-6/462219929_8405955206126774_2737112519193223709_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEw8wjmyIkvgSk6bD6RcI7GPD5aLFkxCEA8PlosWTEIQEA937iZNSqkoMgv5-j7hp0QXKybng99dP9LgXQkXJtY&_nc_ohc=UAG6left4OgQ7kNvwFLID1z&_nc_oc=AdkTdvxvzDfZyRj7auH0QQjJ6FhDU4c1Mt8f4_exzYGKd5gJ77OE3UjFxWTCknl6vKY&_nc_zt=23&_nc_ht=scontent.fclo9-1.fna&_nc_gid=B7ya5iWmAGvg31smL6t1rg&oh=00_AfGcWysgebtpsbKrG0QLkoQeqx5GFoHLqAeeJVVJoPg3QQ&oe=681DDB2D",
+    "socialLink": "@_19_daniel"
+  },
+  "topics": [
+    {
+      "topic": "zero conditional",
+      "questions": [
+        {
+          "question": "What happens if you mix red and blue paint?",
+          "options": [
+            "It makes green.",
+            "It made purple.",
+            "It makes purple.",
+            "It make purple."
+          ],
+          "answer": "It makes purple."
+        },
+        {
+          "question": "Complete the sentence: 'If water reaches 100°C, it _____.'",
+          "options": ["boils", "boil", "boiling", "boiled"],
+          "answer": "boils"
+        },
+        {
+          "question": "Which of the following is an example of a zero conditional sentence?",
+          "options": [
+            "If you touch fire, you get burned.",
+            "If you touched fire, you got burned.",
+            "If you touch fire, you will get burned.",
+            "If you touch fire, you would get burned."
+          ],
+          "answer": "If you touch fire, you get burned."
+        }
+      ]
+    }
+  ]
+}
