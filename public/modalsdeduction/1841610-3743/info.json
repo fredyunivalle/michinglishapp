@@ -1,0 +1,84 @@
+{
+    "user": {
+      "username": "Anderson Pantoja C.",
+      "profileImage": "https://i.pinimg.com/236x/d3/33/28/d33328f1b145b398d88bdedbbcf741ed.jpg",
+      "socialLink": "@anderson-pc-dev"
+    },
+    "topics": [
+      {
+        "topic": "modals deduction",
+        "questions": [
+          {
+            "question": "Choose the best option for the sentence: 'The sun is shining and there isn't a single cloud. It _____ be raining right now.'",
+            "options": [
+              "must",
+              "may",
+              "can't",
+              "should"
+            ],
+            "answer": "can't"
+          },
+          {
+            "question": "Choose the best option for the sentence: 'Everything is wet and there are puddles everywhere. It _____ have rained recently.'",
+            "options": [
+              "may",
+              "can't",
+              "must",
+              "might"
+            ],
+            "answer": "must"
+          },
+          {
+            "question": "Choose the best option for the sentence: 'The sky is cloudy and it's getting windy. It _____ rain later today.'",
+            "options": [
+              "can't",
+              "must",
+              "may",
+              "shouldn't"
+            ],
+            "answer": "may"
+          },
+          {
+            "question": "Choose the best option for the sentence: 'They've won so many Champions League titles. That team _____ be Real Madrid.'",
+            "options": [
+              "must",
+              "can't",
+              "may",
+              "should"
+            ],
+            "answer": "must"
+          },
+          {
+            "question": "Choose the best option for the sentence: 'That team has never played in a major European final. It _____ be Barcelona.'",
+            "options": [
+              "must",
+              "may",
+              "can't",
+              "might"
+            ],
+            "answer": "can't"
+          },
+          {
+            "question": "Choose the best option for the sentence: 'They just signed a player for over 100 million euros and play at the Santiago Bernabéu. That _____ be a mid-table team.'",
+            "options": [
+              "must",
+              "may",
+              "can't",
+              "might"
+            ],
+            "answer": "can't"
+          },
+          {
+            "question": "Choose the best option for the sentence: 'They wear blue, have won the Premier League multiple times, and recently hired a new manager. That _____ be Chelsea.'",
+            "options": [
+              "may",
+              "must",
+              "can't",
+              "would"
+            ],
+            "answer": "may"
+          }
+        ]
+      }
+    ]
+}
