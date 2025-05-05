@@ -1,0 +1,45 @@
+{
+    "user": {
+      "username": "Miguel Angel Soto Espitia",
+      "profileImage": "https://avatars.githubusercontent.com/u/119267681?v=4",
+      "socialLink": "@Sotomilos"
+    },
+     "topics": [
+          {
+            "topic": "linkwords",
+            "questions": [
+              {
+                "question": "I’ll go for a walk _____ it stops raining.",
+                "options": [
+                  "unless",
+                  "when",
+                  "if",
+                  "although"
+                ],
+                "answer": "if"
+              },
+              {
+                "question": "We left early _____ we could catch the first train.",
+                "options": [
+                  "so that",
+                  "although",
+                  "unless",
+                  "even if"
+                ],
+                "answer": "so that"
+              },
+              {
+                "question": "_____ he was tired, he continued working late into the night.",
+                "options": [
+                  "Although",
+                  "Because",
+                  "Unless",
+                  "So that"
+                ],
+                "answer": "Although"
+              }
+            ]
+          }
+        ]
+    }
+      
