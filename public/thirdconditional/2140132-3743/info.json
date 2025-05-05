@@ -5,51 +5,50 @@
       "socialLink": "@juanPabloAnte"
     },
     "topics": [
-        {
-          "topic": "third conditional",
-          "questions": [
-            {
-              "question": "If the traffic hadn't been so bad, what would have happened regarding their flight?",
-              "options": [
-                "They catch their flight.",
-                "They would catch their flight.",
-                "They would have caught their flight.",
-                "They had caught their flight."
-              ],
-              "answer": "They would have caught their flight."
-            },
-            {
-              "question": "Complete the sentence about a past exam failure: 'If I had studied more, I _____ the exam.'",
-              "options": [
-                "would pass",
-                "passed",
-                "had passed",
-                "would have passed"
-              ],
-              "answer": "would have passed"
-            },
-            {
-              "question": "Which sentence correctly uses the third conditional to talk about getting wet without an umbrella?",
-              "options": [
-                "If I remembered my umbrella, I wouldn't have gotten wet.",
-                "If I had remembered my umbrella, I wouldn't get wet.",
-                "If I would have remembered my umbrella, I wouldn't have gotten wet.",
-                "If I had remembered my umbrella, I wouldn't have gotten wet."
-              ],
-              "answer": "If I had remembered my umbrella, I wouldn't have gotten wet."
-            },
-            {
-              "question": "How would someone express regret about losing a winning lottery ticket using the third conditional?",
-              "options": [
-                "If I hadn't lost the ticket, I would be rich now.",
-                "If I didn't lose the ticket, I would have been rich.",
-                "If I hadn't lost the ticket, I would have become rich.",
-                "If I not lost the ticket, I would become rich."
-              ],
-              "answer": "If I hadn't lost the ticket, I would have become rich."
-            }
-          ]
-        }
-      ]
-    }
-  
+      {
+        "topic": "third conditional",
+        "questions": [
+          {
+            "question": "If the traffic hadn't been so bad, what would have happened regarding their flight?",
+            "options": [
+              "They catch their flight.",
+              "They would catch their flight.",
+              "They would have caught their flight.",
+              "They had caught their flight."
+            ],
+            "answer": "They would have caught their flight."
+          },
+          {
+            "question": "If she hadn't been sick, what could she have done last night?",
+            "options": [
+                "She could go to the concert.",
+                "She could have gone to the concert.",
+                "She would go to the concert.",
+                "She had gone to the concert."
+            ],
+            "answer": "She could have gone to the concert."
+          },
+          {
+            "question": "Which sentence correctly uses the third conditional to talk about a different job choice?",
+            "options": [
+              "If he took the other job, he would have earned more.",
+              "If he had taken the other job, he would earned more.",
+              "If he had taken the other job, he would have earned more.",
+              "If he would have taken the other job, he earned more."
+            ],
+            "answer": "If he had taken the other job, he would have earned more."
+          },
+          {
+            "question": "How would someone express regret about losing a winning lottery ticket using the third conditional?",
+            "options": [
+              "If I hadn't lost the ticket, I would be rich now.",
+              "If I didn't lose the ticket, I would have been rich.",
+              "If I hadn't lost the ticket, I would have become rich.",
+              "If I not lost the ticket, I would become rich."
+            ],
+            "answer": "If I hadn't lost the ticket, I would have become rich."
+          }
+        ]
+      }
+    ]
+  }
