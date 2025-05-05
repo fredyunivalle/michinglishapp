@@ -29,14 +29,14 @@
           "answer": "would have seen"
         },
         {
-          "question": "Which third conditional sentence correctly talks about not studying for a final exam?",
+          "question": "Which of the following correctly expresses regret using the third conditional?",
           "options": [
-            "If he studied harder, he would have passed.",
-            "If he had studied harder, he would have passed the final.",
-            "If he studies harder, he would have passed.",
-            "If he would study harder, he had passed."
+            "If I had remembered her birthday, she wouldn't be upset.",
+            "If I remembered her birthday, she would not be upset.",
+            "If I had remembered her birthday, she wouldn't have been upset.",
+            "If I remember her birthday, she is not upset."
           ],
-          "answer": "If he had studied harder, he would have passed the final."
+          "answer": "If I had remembered her birthday, she wouldn't have been upset."
         }
       ]
     }
