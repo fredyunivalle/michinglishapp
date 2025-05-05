@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "Alejandra Carvajal",
+      "profileImage": "https://avatars.githubusercontent.com/u/115739824?s=400&u=7b78341fe1ef8f956318ead081e3be91b2aa1ebf&v=4",
+      "socialLink": "@lisindituwu"
+    },
+    "topics": [
+      {
+        "topic": "adverbs",
+        "questions": [
+          {
+            "question": "Identify the sentence where the adverb modifies an adjective, not a verb.",
+            "options": [
+              "He quickly finished his homework.",
+              "She almost missed the train.",
+              "They danced gracefully all night.",
+              "The room was incredibly messy."
+            ],
+            "answer": "The room was incredibly messy."
+          },
+          {
+            "question": "Choose the grammatically correct sentence where an adverb of frequency is used appropriately.",
+            "options": [
+              "She always is arriving late to meetings.",
+              "They go sometimes to the countryside.",
+              "He rarely forgets his homework.",
+              "You are watching rarely documentaries."
+            ],
+            "answer": "He rarely forgets his homework."
+          },
+          {
+            "question": "Which of the following sentences misuses the adverb of manner?",
+            "options": [
+              "She spoke kindly to the children.",
+              "He drove carefully on the icy road.",
+              "They laughed happily during the horror movie.",
+              "The teacher explained the topic clearly."
+            ],
+            "answer": "They laughed happily during the horror movie."
+          }
+        ]
+      }
+    ]
+  }
