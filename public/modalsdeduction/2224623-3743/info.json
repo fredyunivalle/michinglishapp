@@ -1,0 +1,49 @@
+{
+  "user": {
+    "username": "Jose Fuertes",
+    "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocKgzAi-dqHON6WuBhAMwSfLcpv68QEK2CNV18tpTHCu5zr5upbg_ErqXsVj6U2CYJfuFz2YC3eobnzOsg8Rkh2ZvGAIvxc=s317-c-no",
+    "socialLink": "@hoseStr"
+  },
+  "topics": [
+    {
+      "topic": "modals deduction",
+      "questions": [
+        {
+          "question": "Choose the best option: 'The ground is wet. It _____ have rained last night.'",
+          "options": ["must", "can't", "must have", "might"],
+          "answer": "must have"
+        },
+        {
+          "question": "Complete the sentence with the best deduction: 'She _____ be home already. Her car isn’t in the driveway.'",
+          "options": ["must", "can't", "might", "must have"],
+          "answer": "can't"
+        },
+        {
+          "question": "Which sentence expresses a logical conclusion about the past?",
+          "options": [
+            "He must have taken the wrong bus.",
+            "He must take the wrong bus.",
+            "He might take the wrong bus.",
+            "He can have taken the wrong bus."
+          ],
+          "answer": "He must have taken the wrong bus."
+        },
+        {
+          "question": "Choose the correct modal: 'That _____ be true. It doesn’t make sense.'",
+          "options": ["must", "might", "can't", "should"],
+          "answer": "can't"
+        },
+        {
+          "question": "Which of the following sentences shows a weak deduction about the present?",
+          "options": [
+            "They must be lost.",
+            "They can't be lost.",
+            "They might be lost.",
+            "They should be lost."
+          ],
+          "answer": "They might be lost."
+        }
+      ]
+    }
+  ]
+}
