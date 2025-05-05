@@ -1,42 +1,42 @@
 {
   "user": {
-    "username": "Santiago castañeda duarte",
-    "profileImage": "https://media.licdn.com/dms/image/v2/D4E03AQHQXAAwMyB-Rw/profile-displayphoto-shrink_400_400/B4EZXgb7MhHcAg-/0/1743227174540?e=1752105600&v=beta&t=CMJSHNKaE54SV14IPcUmoXFzpiUgVbMEQ7BP_MtTQe4",
-    "socialLink": "@santycast_04"
+    "username": "Jose David Giraldo Mera",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4E03AQHQO8QFw6mmzw/profile-displayphoto-shrink_800_800/B4EZaeu1gRHkAc-/0/1746419801572?e=1752105600&v=beta&t=kOuRWtQ1Sc8jN28IyPkD_7KO12XRimyT1vreEDCbbwg",
+    "socialLink": "@dvvid_6"
   },
   "topics": [
     {
       "topic": "linkwords",
       "questions": [
         {
-          "question": "He won't get the job _____ he improves his communication skills.",
+          "question": "I'll go for a walk _____ it stops raining.",
           "options": [
-            "unless",
+            "if",
             "so",
             "because",
             "although"
           ],
-          "answer": "unless"
+          "answer": "if"
         },
         {
-          "question": "We left early _____ we wanted to avoid traffic.",
+          "question": "She studied very hard, _____ she passed the exam with flying colors.",
           "options": [
-            "because",
-            "but",
+            "so",
             "unless",
+            "but",
+            "although"
+          ],
+          "answer": "so"
+        },
+        {
+          "question": "He was late to the meeting _____ the heavy traffic.",
+          "options": [
+            "because of",
+            "unless",
+            "although",
             "while"
           ],
-          "answer": "because"
-        },
-        {
-          "question": "_____ I was tired, I finished the entire project.",
-          "options": [
-            "Although",
-            "Because",
-            "Unless",
-            "While"
-          ],
-          "answer": "Although"
+          "answer": "because of"
         }
       ]
     }
