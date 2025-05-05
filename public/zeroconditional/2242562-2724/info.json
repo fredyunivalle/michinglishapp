@@ -1,0 +1,29 @@
+{
+  "user": {
+    "username": "Juan Sebastian",
+    "profileImage": "https://i.ibb.co/ycfXXyBp/IMG-20250413-WA0042.jpg",
+    "socialLink": "@skarlata.dev"
+  },
+  "topics": [
+    {
+      "topic": "zero conditional",
+      "questions": [
+        {
+          "question": "If you heat metal, it _____.",
+          "options": ["expand", "expands", "expanding", "expanded"],
+          "answer": "expands"
+        },
+        {
+          "question": "If you don't water plants, they _____.",
+          "options": ["die", "dies", "dying", "died"],
+          "answer": "die"
+        },
+        {
+          "question": "If the sun sets, it _____ dark.",
+          "options": ["get", "gets", "getting", "got"],
+          "answer": "gets"
+        }
+      ]
+    }
+  ]
+}
