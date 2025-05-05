@@ -1,0 +1,44 @@
+{
+    "user": {
+        "username": "Camila Cerón",
+        "profileImage": "https://images.pexels.com/photos/3777622/pexels-photo-3777622.jpeg",
+        "socialLink": "@ccceron"
+    },
+    "topics": [
+        {
+            "topic": "zero conditional",
+            "questions": [
+                {
+                    "question": "What happens if you don't water a plant?",
+                    "options": [
+                        "It dies.",
+                        "It died.",
+                        "It is dying.",
+                        "It will die."
+                    ],
+                    "answer": "It dies."
+                },
+                {
+                    "question": "Complete the sentence: 'If you heat ice, it ____.'",
+                    "options": [
+                        "melts",
+                        "melt",
+                        "melting",
+                        "melted"
+                    ],
+                    "answer": "melts"
+                },
+                {
+                    "question": "Which sentence is a correct example of zero conditional?",
+                    "options": [
+                        "If people eat too much sugar, they gain weight.",
+                        "If people ate too much sugar, they gained weight.",
+                        "If people eat too much sugar, they will gain weight.",
+                        "If people eating too much sugar, they gain weight."
+                    ],
+                    "answer": "If people eat too much sugar, they gain weight."
+                }
+            ]
+        }
+    ]
+}
