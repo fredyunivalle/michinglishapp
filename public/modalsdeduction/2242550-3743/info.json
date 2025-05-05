@@ -1,0 +1,164 @@
+{
+  "user": {
+    "username": "HeidyGelpud",
+    "profileImage": "https://cdn.britannica.com/86/166986-050-4CEFE5DE/cute-kitten-and-puppy-outdoors-in-grass.jpg",
+    "socialLink": "@HeidyGA"
+  },
+  "topics": [
+    {
+      "topic": "modals deduction",
+      "questions": [
+        {
+          "question": "Complete the sentence: 'She _____ have taken the wrong train. That’s why she’s late.'",
+          "options": [
+            "must",
+            "might",
+            "can't",
+            "must have"
+          ],
+          "answer": "must have"
+        },
+        {
+          "question": "Choose the correct modal: 'That ______ be his phone. He just put it in his bag.'",
+          "options": [
+            "must",
+            "can't",
+            "might",
+            "should"
+          ],
+          "answer": "can't"
+        },
+        {
+          "question": "Which sentence expresses a logical conclusion about the present?",
+          "options": [
+            "They must be at lunch now.",
+            "They might have been at lunch now.",
+            "They can have lunch now.",
+            "They should have lunch now."
+          ],
+          "answer": "They must be at lunch now."
+        },
+        {
+          "question": "Which sentence shows a weak deduction about the past?",
+          "options": [
+            "He must have gone to the store.",
+            "He might have gone to the store.",
+            "He can go to the store.",
+            "He should go to the store."
+          ],
+          "answer": "He might have gone to the store."
+        },
+        {
+          "question": "Complete the sentence: 'You didn’t hear the doorbell? It _____ have rung.'",
+          "options": [
+            "must",
+            "can't",
+            "might",
+            "can't have"
+          ],
+          "answer": "can't have"
+        },
+        {
+          "question": "Which modal expresses a strong conclusion about the present situation?",
+          "options": [
+            "She must be the new boss.",
+            "She may be the new boss.",
+            "She could have been the new boss.",
+            "She can be the new boss."
+          ],
+          "answer": "She must be the new boss."
+        },
+        {
+          "question": "Choose the best completion: 'He _____ be home. All the lights are off.'",
+          "options": [
+            "must",
+            "can't",
+            "might",
+            "should"
+          ],
+          "answer": "can't"
+        },
+        {
+          "question": "Which sentence shows a deduction about the past that is probably true?",
+          "options": [
+            "She must have taken the earlier flight.",
+            "She may taking the earlier flight.",
+            "She can't taking the earlier flight.",
+            "She must take the earlier flight."
+          ],
+          "answer": "She must have taken the earlier flight."
+        },
+        {
+          "question": "Complete the sentence: 'They _____ be on vacation. Their car isn’t in the driveway.'",
+          "options": [
+            "might",
+            "must",
+            "can't",
+            "should"
+          ],
+          "answer": "might"
+        },
+        {
+          "question": "Which of these expresses a conclusion that something didn’t happen in the past?",
+          "options": [
+            "He must go.",
+            "He can't have gone.",
+            "He may go.",
+            "He must gone."
+          ],
+          "answer": "He can't have gone."
+        },
+        {
+          "question": "Which sentence is a deduction about the present with high certainty?",
+          "options": [
+            "He must be tired after the trip.",
+            "He may be tired after the trip.",
+            "He should have been tired after the trip.",
+            "He can be tired after the trip."
+          ],
+          "answer": "He must be tired after the trip."
+        },
+        {
+          "question": "Complete the sentence: 'You were with him? Then you _____ know what happened.'",
+          "options": [
+            "can't",
+            "must",
+            "might",
+            "should"
+          ],
+          "answer": "must"
+        },
+        {
+          "question": "Which option expresses a deduction about something that didn't happen?",
+          "options": [
+            "She must have failed.",
+            "She should have failed.",
+            "She can't have failed.",
+            "She may have failed."
+          ],
+          "answer": "She can't have failed."
+        },
+        {
+          "question": "Complete the sentence: 'They _____ be home already. The lights are on.'",
+          "options": [
+            "can't",
+            "must",
+            "might",
+            "should have"
+          ],
+          "answer": "must"
+        },
+        {
+          "question": "Choose the best option: 'You saw her yesterday? Then she _____ be back in town.'",
+          "options": [
+            "must",
+            "can't",
+            "might",
+            "could"
+          ],
+          "answer": "must"
+        }
+      ]
+    }
+  ]
+}
