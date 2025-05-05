@@ -1,0 +1,45 @@
+{
+  "user": {
+    "username": "Valentina Sánchez",
+    "profileImage": "https://via.placeholder.com/150",
+    "socialLink": "https://github.com/vtina"
+  },
+  "topics": [
+    {
+      "topic": "Third Conditional",
+      "questions": [
+        {
+          "question": "What would you have done if you had won the lottery?",
+          "answer": "I would have traveled the world.",
+          "options": [
+            "I would have traveled the world.",
+            "I will travel the world.",
+            "I travel the world.",
+            "I have traveled the world."
+          ]
+        },
+        {
+          "question": "If they had studied more, what would have happened?",
+          "answer": "They would have passed the exam.",
+          "options": [
+            "They would have passed the exam.",
+            "They passed the exam.",
+            "They will pass the exam.",
+            "They have passed the exam."
+          ]
+        },
+        {
+          "question": "What would she have done if it had rained?",
+          "answer": "She would have stayed at home.",
+          "options": [
+            "She would have stayed at home.",
+            "She stays at home.",
+            "She will stay at home.",
+            "She has stayed at home."
+          ]
+        }
+      ]
+    }
+  ]
+}
+
