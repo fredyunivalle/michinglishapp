@@ -1,0 +1,64 @@
+{
+  "user": {
+    "username": "Leonardo Cuadro",
+    "profileImage": "https://ella.janitorai.com/bot-avatars/cd7a23e5-4a13-489d-b5d5-130d2fbf6a10_f47cb884-ed78-48f3-bba7-69e78c2c63e9.webp?width=1200",
+    "socialLink": "@cuadro_leonardo"
+  },
+  "topics": [
+    {
+      "topic": "first conditional",
+      "questions": [
+        {
+          "question": "Which sentence uses the first conditional correctly?",
+          "options": [
+            "If you had called me, I would have answered.",
+            "If you call me, I will answer.",
+            "If you called me, I would answer.",
+            "If you will call me, I will answer."
+          ],
+          "answer": "If you call me, I will answer."
+        },
+        {
+          "question": "Choose the correct form: 'If they _____ now, they will arrive on time.'",
+          "options": [
+            "left",
+            "leave",
+            "leaves",
+            "will leave"
+          ],
+          "answer": "leave"
+        },
+        {
+          "question": "What is the correct first conditional sentence?",
+          "options": [
+            "If he studied, he will pass the test.",
+            "If he study, he will pass the test.",
+            "If he studies, he will pass the test.",
+            "If he studies, he passes the test."
+          ],
+          "answer": "If he studies, he will pass the test."
+        },
+        {
+          "question": "Complete the sentence: 'If I don't eat breakfast, I _____ hungry later.'",
+          "options": [
+            "would be",
+            "will be",
+            "was",
+            "am"
+          ],
+          "answer": "will be"
+        },
+        {
+          "question": "Which sentence is an example of the first conditional?",
+          "options": [
+            "If I see her, I told her the news.",
+            "If I saw her, I would tell her the news.",
+            "If I had seen her, I would have told her.",
+            "If I see her, I will tell her the news."
+          ],
+          "answer": "If I see her, I will tell her the news."
+        }
+      ]
+    }
+  ]
+}
