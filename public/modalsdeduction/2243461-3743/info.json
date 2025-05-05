@@ -1,0 +1,66 @@
+{
+  "user": {
+    "username": "James Calero",
+    "profileImage": "https://campusvirtual.univalle.edu.co/moodle/pluginfile.php/3556481/user/icon/mooveuv/f1?rev=26703109",
+    "socialLink": "@jamescalero"
+  },
+  "topics": [
+    {
+        "topic": "modalsdeduction",
+        "questions": [
+          {
+            "question": "Which sentence shows a logical deduction about the past?",
+            "options": [
+              "She must go to the party yesterday.",
+              "She must have gone to the party; her coat is missing.",
+              "She can have gone to the party.",
+              "She could goes to the party last night."
+            ],
+            "answer": "She must have gone to the party; her coat is missing."
+          },
+          {
+            "question": "Choose the correct sentence expressing a possible present situation.",
+            "options": [
+              "He might be sleeping now.",
+              "He must sleeping now.",
+              "He can't sleeping now.",
+              "He musts be sleeping now."
+            ],
+            "answer": "He might be sleeping now."
+          },
+          {
+            "question": "Select the sentence that expresses certainty something is not true now.",
+            "options": [
+              "They must be at school.",
+              "They can't be at school; it's Sunday.",
+              "They might be at school.",
+              "They could be at school."
+            ],
+            "answer": "They can't be at school; it's Sunday."
+          },
+          {
+            "question": "Which sentence uses a modal verb for deduction about a past event?",
+            "options": [
+              "You must forgot your keys.",
+              "You might forgetting your keys.",
+              "You must have forgotten your keys.",
+              "You could forget your keys."
+            ],
+            "answer": "You must have forgotten your keys."
+          },
+          {
+            "question": "Choose the sentence that correctly expresses a weak deduction.",
+            "options": [
+              "She must be the manager.",
+              "She can't be the manager.",
+              "She might be the manager.",
+              "She has to be the manager."
+            ],
+            "answer": "She might be the manager."
+          }
+        ]   
+    }
+  ]
+}
+
+
