@@ -1,0 +1,46 @@
+{
+  "user": {
+    "username": "Valentina Sánchez",
+    "profileImage": "https://via.placeholder.com/150",
+    "profileImage": "https://campusvirtual.univalle.edu.co/moodle/pluginfile.php/2984661/user/icon/mooveuv/f1?rev=69173531",
+    "socialLink": "https://github.com/vtina"
+  },
+  "topics": [
+    {
+      "topic": "Third Conditional",
+      "questions": [
+        {
+          "question": "What would you have done if you had won the lottery?",
+          "answer": "I would have traveled the world.",
+          "options": [
+            "I would have traveled the world.",
+            "I will travel the world.",
+            "I travel the world.",
+            "I have traveled the world."
+          ]
+        },
+        {
+          "question": "Imagine a future where time travel exists. Yesterday, a scientist missed the chance to stop a catastrophe because his machine failed. What is the correct third conditional sentence?",
+          "answer": "If the machine had worked, he would have prevented the catastrophe.",
+          "options": [
+            "If the machine didn’t fail, he would stop the catastrophe.",
+            "If the machine had worked, he would have prevented the catastrophe.",
+            "If he prevents the catastrophe, the machine works.",
+            "If the scientist worked harder, he stops the catastrophe."
+          ]
+        },
+        {
+          "question": "What would she have done if it had rained?",
+          "answer": "She would have stayed at home.",
+          "options": [
+            "She would have stayed at home.",
+            "She stays at home.",
+            "She will stay at home.",
+            "She has stayed at home."
+          ]
+        }
+      ]
+    }
+  ]
+}
+
