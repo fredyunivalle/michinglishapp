@@ -1,0 +1,59 @@
+{
+  "user": {
+    "username": "Juan Fonseca",
+    "profileImage": "https://i.pinimg.com/564x/84/a2/e5/84a2e5de3143a27f6e4895729ab0a734.jpg",
+    "socialLink": "@jdfonse25"
+  },
+  "topics": [
+    {
+      "topic": "adverbs",
+      "questions": [
+        {
+          "question": "Which sentence uses an adverb of time?",
+          "options": [
+            "She danced gracefully across the stage.",
+            "They arrived late to the meeting.",
+            "He answered the question correctly.",
+            "The child played happily in the garden."
+          ],
+          "answer": "They arrived late to the meeting."
+        },
+        {
+          "question": "Which sentence contains a misplaced adverb?",
+          "options": [
+            "He only ate the vegetables on his plate.",
+            "Only he ate the vegetables on his plate.",
+            "He ate only the vegetables on his plate.",
+            "He ate the vegetables only on his plate."
+          ],
+          "answer": "He only ate the vegetables on his plate."
+        },
+        {
+          "question": "Which sentence correctly uses an adverb of certainty?",
+          "options": [
+            "She sings quite well for her age.",
+            "He is probably going to miss the bus.",
+            "They spoke clearly during the presentation.",
+            "I silently left the room."
+          ],
+          "answer": "He is probably going to miss the bus."
+        },
+        {
+          "question": "Which sentence uses an adverb to modify an adjective?",
+          "options": [
+            "She drives carefully on wet roads.",
+            "He speaks very slowly when explaining things.",
+            "The room was extremely cold in the morning.",
+            "We waited patiently for the doctor."
+          ],
+          "answer": "The room was extremely cold in the morning."
+        },
+        {
+          "question": "Which of the following is not an adverb?",
+          "options": ["Quickly", "Yesterday", "Beautiful", "Sometimes"],
+          "answer": "Beautiful"
+        }
+      ]
+    }
+  ]
+}
