@@ -66,3 +66,4 @@ runDuplicateTestForDirectory('verbs');
 runDuplicateTestForDirectory('adjectives');
 runDuplicateTestForDirectory('firstconditional');
 runDuplicateTestForDirectory('thirdconditional');
+runDuplicateTestForDirectory('adverbs');

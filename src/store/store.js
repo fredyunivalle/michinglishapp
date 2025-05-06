@@ -6,6 +6,7 @@ import { verbsSlice } from "./verbs";
 import { adjectivesSlice } from "./adjectives";
 import { firstconditionalSlice } from "./firstconditional";
 import { thirdconditionalSlice } from "./thirdconditional";
+import { adverbsSlice } from "./adverbs";
 
 export const store = configureStore({
   reducer: {
@@ -15,5 +16,6 @@ export const store = configureStore({
     adjectives: adjectivesSlice.reducer,
     firstconditional: firstconditionalSlice.reducer,
     thirdconditional: thirdconditionalSlice.reducer,
+    adverbs: adverbsSlice.reducer,
   },
 });
