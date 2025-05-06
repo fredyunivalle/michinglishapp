@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "Sebastian Rivera",
+      "profileImage": "https://avatars.githubusercontent.com/u/145817788?s=96&v=4",
+      "socialLink": "@mausterl26"
+    },
+    "topics": [
+      {
+        "topic": "adverbs",
+        "questions": [
+          {
+            "question": "which one its a real adverb?",
+            "options": [
+              "hastily",
+              "betterly",
+              "worsely",
+              "deafily"
+            ],
+            "answer": "hastily"
+          },
+          {
+            "question": "Choose the sentence with the correct use of an adverb.",
+            "options": [
+              "She sings beautiful",
+              "He runs fastly",
+              "They speak clearly",
+              "I am quick driving"
+            ],
+            "answer": "They speak clearly"
+          },
+          {
+            "question": "Which word its not an adverb?",
+            "options": [
+              "sorrily",
+              "funnily",
+              "magically",
+              "masterly"
+            ],
+            "answer": "masterly"
+          }
+        ]
+      }
+    ]
+  }
