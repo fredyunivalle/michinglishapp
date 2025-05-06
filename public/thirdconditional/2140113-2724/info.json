@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "Jhonnier Hernandez ",
+      "profileImage": "https://d1gntthpnlgab3.cloudfront.net/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHBMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7dee7ca3a0a87bb7c30027a78805d8896e5687bc/imagen_2022-11-24_162414844.png",
+      "socialLink": "@jahb_1912"
+    },
+    "topics": [
+      {
+        "topic": "third conditional",
+        "questions": [
+          {
+            "question": "Complete the sentence: \"If they had left the house earlier, they _ the traffic jam.\"",
+            "options": [
+                "avoid",
+                "avoided", 
+                "would avoid",
+                "would have avoided"
+            ],
+            "answer": "would have avoided"
+          },
+          {
+            "question": "Choose the correct third conditional sentence about forgetting homework.",
+            "options": [
+                "If I forget my homework, the teacher would be angry.",
+                "If I had forgotten my homework, the teacher would have been angry.",
+                "If I forgot my homework, the teacher will be angry.",
+                "If I have forgotten my homework, the teacher would have angry."
+            ],
+            "answer": "If I had forgotten my homework, the teacher would have been angry."
+          },
+          {
+            "question": "Which option correctly completes this third conditional sentence: \"If we had seen the sign, we _ the wrong turn.\"",
+            "options": [
+                "wouldn't have taken",
+                "didn't take",
+                "won't take", 
+                "don't take"
+            ],
+            "answer": "wouldn't have taken"
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Yenny Rivas",
+    "profileImage": "https://avatars.githubusercontent.com/u/116839110?s=400&u=2f3518a378acc5a938ec0ffa133f92eac8e850bf&v=4",
+    "socialLink": "@yennyrivas"
+  },
+  "topics": [
+    {
+      "topic": "third conditional",
+      "questions": [
+        {
+          "question": "What is the function of the third conditional in English?",
+          "options": [
+            "To talk about future possibilities.",
+            "To describe present facts.",
+            "To express regrets or hypothetical situations in the past.",
+            "To describe daily routines."
+          ],
+          "answer": "To express regrets or hypothetical situations in the past."
+        },
+        {
+          "question": "Choose the correct form: 'If we had known about the traffic, we _____ a different route.'",
+          "options": [
+            "take",
+            "would have taken",
+            "took",
+            "would take"
+          ],
+          "answer": "would have taken"
+        },
+        {
+          "question": "Identify the third conditional sentence:",
+          "options": [
+            "If I see her, I will tell her.",
+            "If I had known she was sick, I would have visited her.",
+            "If I know the answer, I tell you.",
+            "If I were you, I would study more."
+          ],
+          "answer": "If I had known she was sick, I would have visited her."
+        } 
+      ]
+    }
+  ]
+}
