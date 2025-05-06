@@ -86,3 +86,4 @@ validateFolderCategory('verbs');
 validateFolderCategory('adjectives');
 validateFolderCategory('firstconditional');
 validateFolderCategory('thirdconditional');
+validateFolderCategory('adverbs');

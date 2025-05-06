@@ -55,3 +55,4 @@ validateFolderQuestions('verbs');
 validateFolderQuestions('adjectives');
 validateFolderQuestions('firstconditional');
 validateFolderQuestions('thirdconditional');
+validateFolderQuestions('adverbs');
