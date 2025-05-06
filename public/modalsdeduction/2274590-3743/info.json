@@ -1,0 +1,164 @@
+{
+  "user": {
+    "username": "MiguelMunoz",
+    "profileImage": "https://avatars.githubusercontent.com/u/106500061",
+    "socialLink": "@MAMP29"
+  },
+  "topics": [
+    {
+      "topic": "modals deduction",
+      "questions": [
+        {
+          "question": "Choose the best option for the sentence: 'He looks tired. He _____ have slept well last night.'",
+          "options": [
+            "must",
+            "might",
+            "can't",
+            "can't have"
+          ],
+          "answer": "can't have"
+        },
+        {
+          "question": "Which sentence expresses a logical conclusion about the present?",
+          "options": [
+            "He must be at work now.",
+            "He can be at work now.",
+            "He may have been at work now.",
+            "He should have be at work now."
+          ],
+          "answer": "He must be at work now."
+        },
+        {
+          "question": "Complete the sentence: 'That noise _____ be a cat. It sounds like a dog.'",
+          "options": [
+            "must",
+            "can",
+            "can't",
+            "should"
+          ],
+          "answer": "can't"
+        },
+        {
+          "question": "Which sentence shows past deduction?",
+          "options": [
+            "She must have forgotten the meeting.",
+            "She must forget the meeting.",
+            "She may forgetting the meeting.",
+            "She can't forget the meeting."
+          ],
+          "answer": "She must have forgotten the meeting."
+        },
+        {
+          "question": "Choose the sentence that expresses a weak possibility in the present.",
+          "options": [
+            "He might be at the library.",
+            "He must be at the library.",
+            "He should have been at the library.",
+            "He can't be at the library."
+          ],
+          "answer": "He might be at the library."
+        },
+        {
+          "question": "Complete the sentence: 'I saw lights on. They _____ have been home.'",
+          "options": [
+            "might",
+            "must",
+            "should",
+            "must have"
+          ],
+          "answer": "must have"
+        },
+        {
+          "question": "Which sentence shows a deduction about the past that is probably not true?",
+          "options": [
+            "They must have missed the train.",
+            "They can miss the train.",
+            "They might miss the train.",
+            "They can't have missed the train."
+          ],
+          "answer": "They can't have missed the train."
+        },
+        {
+          "question": "Choose the correct modal for deduction: 'It’s too early. He _____ be awake yet.'",
+          "options": [
+            "must",
+            "might",
+            "can't",
+            "must have"
+          ],
+          "answer": "can't"
+        },
+        {
+          "question": "Which of the following is a strong deduction about the present?",
+          "options": [
+            "She must be the new teacher.",
+            "She might be the new teacher.",
+            "She can be the new teacher.",
+            "She should have been the new teacher."
+          ],
+          "answer": "She must be the new teacher."
+        },
+        {
+          "question": "Complete the sentence: 'He _____ have told you if he knew.'",
+          "options": [
+            "might",
+            "can't",
+            "must",
+            "would"
+          ],
+          "answer": "might"
+        },
+        {
+          "question": "Which sentence expresses a certain conclusion about something that happened?",
+          "options": [
+            "She must have left already.",
+            "She might leave already.",
+            "She can't leave already.",
+            "She can have left already."
+          ],
+          "answer": "She must have left already."
+        },
+        {
+          "question": "What is the correct modal for a past impossibility?",
+          "options": [
+            "must have",
+            "should have",
+            "can't have",
+            "may have"
+          ],
+          "answer": "can't have"
+        },
+        {
+          "question": "Which sentence is grammatically correct and expresses past deduction?",
+          "options": [
+            "He must have forgotten his keys.",
+            "He must forget his keys.",
+            "He must be forgetting his keys.",
+            "He can forgetting his keys."
+          ],
+          "answer": "He must have forgotten his keys."
+        },
+        {
+          "question": "Which of the following shows a deduction that something is likely untrue now?",
+          "options": [
+            "They must be busy.",
+            "They might be busy.",
+            "They can't be busy.",
+            "They should be busy."
+          ],
+          "answer": "They can't be busy."
+        },
+        {
+          "question": "Choose the correct modal: 'You saw him? Then he _____ be in town.'",
+          "options": [
+            "can't",
+            "must",
+            "should",
+            "may"
+          ],
+          "answer": "must"
+        }
+      ]
+    }
+  ]
+}
