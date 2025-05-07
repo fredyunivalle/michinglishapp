@@ -71,6 +71,51 @@ function App() {
       setErrorThirdConditional,
       `${import.meta.env.BASE_URL}thirdconditional`
     );
+
+  // Fetch for `mixedconditional`
+   // fetchDataHelper(
+   //   dispatch,
+   //   mixedconditionall,
+   //   mixedconditional,
+   //   mixedconditionall,
+   //   `${import.meta.env.BASE_URL}mixedconditional`
+   // );   
+   
+  // Fetch for `modalsdeduction`
+   // fetchDataHelper(
+   //   dispatch,
+   //   modalsdeduction,
+   //   modalsdeduction,
+   //   modalsdeduction,
+   //   `${import.meta.env.BASE_URL}modalsdeduction`
+   // );   
+   
+  // Fetch for `modalspossibility`
+   // fetchDataHelper(
+   //   dispatch,
+   //   modalspossibility,
+   //   modalspossibility,
+   //  modalspossibility,
+   //   `${import.meta.env.BASE_URL}modalspossibility`
+   // );   
+   
+  // Fetch for `adverbs`
+   // fetchDataHelper(
+   //   dispatch,
+   //   adverbs,
+   //   adverbs,
+   //  adverbs,
+   //   `${import.meta.env.BASE_URL}adverbs`
+   // );   
+
+     // Fetch for `zeroconditional`
+   // fetchDataHelper(
+   //   dispatch,
+   //   zeroconditional,
+   //   zeroconditional,
+   //  zeroconditional,
+   //   `${import.meta.env.BASE_URL}zeroconditional`
+   // ); 
     
   }, [dispatch]);
 

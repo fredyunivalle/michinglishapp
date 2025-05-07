@@ -55,3 +55,8 @@ validateFolderQuestions('verbs');
 validateFolderQuestions('adjectives');
 validateFolderQuestions('firstconditional');
 validateFolderQuestions('thirdconditional');
+// validateFolderQuestions('mixedconditional');
+// validateFolderQuestions('modalsdeduction');
+// validateFolderQuestions('modalspossibility');
+// validateFolderQuestions('adverbs');
+// validateFolderQuestions('zeroconditional');
