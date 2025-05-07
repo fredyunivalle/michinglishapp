@@ -6,7 +6,11 @@ import { verbsSlice } from "./verbs";
 import { adjectivesSlice } from "./adjectives";
 import { firstconditionalSlice } from "./firstconditional";
 import { thirdconditionalSlice } from "./thirdconditional";
-
+//import { mixedconditional } from "./mixedconditional";
+//import { modalsdeduction } from "./modalsdeduction";
+//import { modalspossibility } from "./modalspossibility";
+//import { adverbs } from "./adverbs";
+//import { zeroconditional } from "./zeroconditional";
 export const store = configureStore({
   reducer: {
     data: dataSlice.reducer,
@@ -15,5 +19,10 @@ export const store = configureStore({
     adjectives: adjectivesSlice.reducer,
     firstconditional: firstconditionalSlice.reducer,
     thirdconditional: thirdconditionalSlice.reducer,
+    //thirdconditional: thirdconditionalSlice.reducer,
+    //modalsdeduction: modalsdeduction.reducer,
+    //modalspossibility: modalspossibility.reducer,
+    //adverbs: adverbs.reducer,
+    //zeroconditional: zeroconditional.reducer,
   },
 });
