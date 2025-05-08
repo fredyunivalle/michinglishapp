@@ -1,0 +1,45 @@
+{
+    "user": {
+      "username": "Julian Rengifo",
+      "profileImage": "https://i.pinimg.com/originals/b1/1d/ab/b11dabb94ac9a1af8939a374d346cece.jpg",
+      "socialLink": "@dxvxx__"
+    },
+    "topics": [
+      {
+        "topic": "zero conditional",
+        "questions": [
+            {
+            "question": "What happens if you mix red and white paint?",
+            "options": [
+                "It becomes pink.",
+                "It become pink.",
+                "It became pink.",
+                "It is becoming pink."
+            ],
+            "answer": "It becomes pink."
+            },
+            {
+            "question": "Complete the sentence: 'If students don’t study, they _____ the exam.'",
+            "options": [
+                "fail",
+                "fails",
+                "failed",
+                "failing"
+            ],
+            "answer": "fail"
+            },
+            {
+            "question": "Which of the following is a zero conditional sentence?",
+            "options": [
+                "If it rains, the grass gets wet.",
+                "If it rained, the grass would get wet.",
+                "If it rains, the grass will get wet.",
+                "If it was raining, the grass got wet."
+            ],
+            "answer": "If it rains, the grass gets wet."
+                }
+            ]
+        }
+    ]
+  }
+  

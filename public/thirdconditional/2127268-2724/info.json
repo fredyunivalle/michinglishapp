@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "Jhonier Ipia",
+      "profileImage": "https://gestion.pe/resizer/v2/ESKZLLTADFHWBEMTVTL3APDGEY.jpg?auth=5e6389c6dfddb4688e346defda85de1e3b2b604b5778c65402e1f8e406ef92f0&width=620&quality=75&smart=true",
+      "socialLink": "@jhonieripia"
+    },
+    "topics": [
+      {
+        "topic": "third conditional",
+        "questions": [
+          {
+            "question": "Which sentence correctly uses the third conditional to express a missed opportunity?",
+            "options": [
+                "If she buys the ticket, she will go to the concert.",
+                "If she bought the ticket, she would go to the concert.",
+                "If she had bought the ticket, she would have gone to the concert.",
+                "If she buys the ticket, she would have gone to the concert."
+            ],
+            "answer": "If she had bought the ticket, she would have gone to the concert."
+          },
+          {
+            "question": "Complete the sentence: 'If they _____ us about the problem, we could have helped.'",
+            "options": [
+                "tell",
+                "told",
+                "had told",
+                "would tell"
+            ],
+            "answer": "had told"
+          },
+          {
+            "question": "Identify the correct third conditional structure:",
+            "options": [
+                "If you had practiced more, you will play better.",
+                "If you practiced more, you would play better.",
+                "If you had practiced more, you would have played better.",
+                "If you practice more, you would have played better."
+            ],
+            "answer": "If you had practiced more, you would have played better."
+          }
+        ]
+      }
+    ]
+  }
