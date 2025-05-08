@@ -1,0 +1,44 @@
+{
+    "user": {
+        "username": "Anderson Capera",
+        "profileImage": "https://cdn-icons-png.flaticon.com/512/147/147144.png",  
+        "socialLink": "@andersoncapera"
+    },
+    "topics": [
+        {
+            "topic": "zero conditional",
+            "questions": [
+                {
+                    "question": "If you heat water to 100 degrees Celsius, what happens?",
+                    "options": [
+                        "It boils.",
+                        "It boil.",
+                        "It is boiling.",
+                        "It boiled."
+                    ],
+                    "answer": "It boils."
+                },
+                {
+                    "question": "What do plants do if they don't get enough sunlight?",
+                    "options": [
+                        "They grow.",
+                        "They growing.",
+                        "They die.",
+                        "They dies."
+                    ],
+                    "answer": "They die."
+                },
+                {
+                    "question": "Choose the correct zero conditional sentence:",
+                    "options": [
+                        "If you mix red and blue, you get purple.",
+                        "If you mix red and blue, you got purple.",
+                        "If you mixed red and blue, you get purple.",
+                        "If you mix red and blue, you will get purple."
+                    ],
+                    "answer": "If you mix red and blue, you get purple."
+                }
+            ]
+        }
+    ]
+}

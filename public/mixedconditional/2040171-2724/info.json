@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Carlos Drada",
+    "profileImage": "https://pm1.narvii.com/6820/a492ac779ab2656777142302ad67c6e003f2f2dbv2_hq.jpg",
+    "socialLink": "@mrdrada10"
+  },
+  "topics": [
+    {
+      "topic": "mixed conditional",
+      "questions": [
+        {
+          "question": "If I had studied harder, I _____ a doctor now.",
+          "options": [
+            "am",
+            "will be",
+            "would be",
+            "was"
+          ],
+          "answer": "would be"
+        },
+        {
+          "question": "She _____ better opportunities if she had moved to the city last year.",
+          "options": [
+            "has",
+            "had",
+            "would have",
+            "would have had"
+          ],
+          "answer": "would have"
+        },
+        {
+          "question": "If they were more careful, they _____ made that mistake yesterday.",
+          "options": [
+            "wouldn't have",
+            "won't have",
+            "didn't have",
+            "wouldn't"
+          ],
+          "answer": "wouldn't have"
+        }
+      ]
+    }
+  ]
+}

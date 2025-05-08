@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Juan Felipe Palechor",
+    "profileImage": "https://img2.rtve.es/i/?w=1600&i=1618587961630.jpg",
+    "socialLink": "@JuanFelipePalechor"
+  },
+  "topics": [
+    {
+      "topic": "verbs",
+      "questions": [
+        {
+          "question": "Which sentence correctly uses the present continuous tense?",
+          "options": [
+            "They eats dinner now.",
+            "They are eating dinner now.",
+            "They eaten dinner now.",
+            "They was eating dinner now."
+          ],
+          "answer": "They are eating dinner now."
+        },
+        {
+          "question": "What is the base form of the verb in this sentence: 'She has written a letter.'?",
+          "options": [
+            "has",
+            "written",
+            "write",
+            "writing"
+          ],
+          "answer": "write"
+        },
+        {
+          "question": "Choose the correct negative form: 'We _____ seen that movie before.'",
+          "options": [
+            "haven't",
+            "hasn't",
+            "don't",
+            "didn't"
+          ],
+          "answer": "haven't"
+        }
+      ]
+    }
+  ]
+}
