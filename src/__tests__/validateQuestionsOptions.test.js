@@ -56,7 +56,7 @@ validateFolderQuestions('adjectives');
 validateFolderQuestions('firstconditional');
 validateFolderQuestions('zeroconditional');
 validateFolderQuestions('thirdconditional');
-// validateFolderQuestions('mixedconditional');
+validateFolderQuestions('mixedconditional');
 // validateFolderQuestions('modalsdeduction');
 // validateFolderQuestions('modalspossibility');
 // validateFolderQuestions('adverbs');

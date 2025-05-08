@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Cesar Hincapie",
+    "profileImage": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVycml0b3xlbnwwfHwwfHx8MA%3D%3D",
+    "socialLink": "@CesarHincapie"
+  },
+  "topics": [
+    {
+      "topic": "mixedconditional",
+      "questions": [
+        {
+          "question": "Which sentence is a correct example of a mixed conditional?",
+          "options": [
+            "If I win the lottery, I would have bought a house.",
+            "If I had won the lottery, I would buy a house now.",
+            "If I won the lottery, I will buy a house.",
+            "If I had won the lottery, I will buy a house."
+          ],
+          "answer": "If I had won the lottery, I would buy a house now."
+        },
+        {
+          "question": "Complete the mixed conditional: 'If they had left earlier, they _____ stuck in traffic now.'",
+          "options": [
+            "won't be",
+            "wouldn't have been",
+            "wouldn't be",
+            "aren't"
+          ],
+          "answer": "wouldn't be"
+        },
+        {
+          "question": "Identify the mixed conditional sentence:",
+          "options": [
+            "If she practices every day, she will improve.",
+            "If she had listened to my advice, she wouldn't be in this mess now.",
+            "If she listened to my advice, she wouldn't be in this mess.",
+            "If she had listened to my advice, she wouldn't have been in this mess."
+          ],
+          "answer": "If she had listened to my advice, she wouldn't be in this mess now."
+        }
+      ]
+    }
+  ]
+}

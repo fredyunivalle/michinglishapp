@@ -87,7 +87,7 @@ validateFolderCategory('adjectives');
 validateFolderCategory('firstconditional');
 validateFolderCategory('zeroconditional');
 validateFolderCategory('thirdconditional');
-// validateFolderCategory('mixedconditional');
+validateFolderCategory('mixedconditional');
 // validateFolderCategory('modalsdeduction');
 // validateFolderCategory('modalspossibility');
 // validateFolderCategory('adverbs');
