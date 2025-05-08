@@ -65,6 +65,7 @@ runDuplicateTestForDirectory('linkwords');
 runDuplicateTestForDirectory('verbs');
 runDuplicateTestForDirectory('adjectives');
 runDuplicateTestForDirectory('firstconditional');
+runDuplicateTestForDirectory('zeroconditional');
 runDuplicateTestForDirectory('thirdconditional');
 // runDuplicateTestForDirectory('mixedconditional');
 // runDuplicateTestForDirectory('modalsdeduction');
