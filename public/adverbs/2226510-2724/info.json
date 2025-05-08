@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Jhon Frank",
+    "profileImage": "https://img.freepik.com/vector-premium/hombre-negro-guapo-barba-sudadera_1149118-64.jpg",
+    "socialLink": "@jhonfrank"
+  },
+  "topics": [
+    {
+      "topic": "adverbs",
+      "questions": [
+        {
+          "question": "Which sentence contains an adverb of frequency?",
+          "options": [
+            "She always arrives on time.",
+            "The children play outside every day.",
+            "He ran quickly to the store.",
+            "I sleep soundly every night."
+          ],
+          "answer": "She always arrives on time."
+        },
+        {
+          "question": "Which sentence uses the adverb 'never' correctly?",
+          "options": [
+            "He never forgets to call me.",
+            "I never am late for work.",
+            "They never goes to the gym.",
+            "She always never smiles."
+          ],
+          "answer": "He never forgets to call me."
+        },
+        {
+          "question": "Choose the sentence where the adverb modifies the verb and not the adjective.",
+          "options": [
+            "She quickly completed the assignment.",
+            "He is extremely tired after the long run.",
+            "The coffee is quite hot.",
+            "They laughed very loudly during the movie."
+          ],
+          "answer": "She quickly completed the assignment."
+        }
+      ]
+    }
+  ]
+}
