@@ -1,0 +1,45 @@
+{
+    "user": {
+      "username": "Tiffany",
+      "profileImage": "https://i.pinimg.com/736x/86/ea/2b/86ea2b9812a1601fc5360f88c34c300a.jpg",
+      "socialLink": "@t.asff"
+    },
+    "topics": [
+      {
+        "topic": "zero conditional",
+        "questions": [
+          {
+            "question": "If you heat water to 100°C, it _____.",
+            "options": [
+              "boil",
+              "boils",
+              "boiling",
+              "boiled"
+            ],
+            "answer": "boils"
+          },
+          {
+            "question": "If it rains, the grass _____ wet.",
+            "options": [
+              "get",
+              "gets",
+              "got",
+              "getting"
+            ],
+            "answer": "gets"
+          },
+          {
+            "question": "If you mix red and blue, you _____ purple.",
+            "options": [
+              "get",
+              "gets",
+              "got",
+              "getting"
+            ],
+            "answer": "get"
+          }
+        ]
+      }
+    ]
+  }
+  

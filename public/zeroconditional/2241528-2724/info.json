@@ -1,0 +1,44 @@
+{
+    "user": {
+        "username": "Juan Duque",
+        "profileImage": "https://cdn.pixabay.com/photo/2014/08/14/13/06/capybara-417958_1280.jpg",
+        "socialLink": "@juan_fdj70"
+    },
+    "topics": [
+        {
+            "topic": "zero conditional",
+            "questions": [
+                {
+                    "question": "What happens if you leave ice in the sun?",
+                    "options": [
+                        "It melts.",
+                        "It melted.",
+                        "It is melting.",
+                        "It melt."
+                    ],
+                    "answer": "It melts."
+                },
+                {
+                    "question": "Complete the sentence: 'If you press this button, the machine _____.'",
+                    "options": [
+                        "start",
+                        "starts",
+                        "started",
+                        "starting"
+                    ],
+                    "answer": "starts"
+                },
+                {
+                    "question": "Which sentence is a correct example of zero conditional?",
+                    "options": [
+                        "If I drink coffee at night, I don't sleep.",
+                        "If I drank coffee at night, I don't sleep.",
+                        "If I drink coffee at night, I didn't sleep.",
+                        "If I drink coffee at night, I won't sleep."
+                    ],
+                    "answer": "If I drink coffee at night, I don't sleep."
+                }
+            ]
+        }
+    ]
+}
