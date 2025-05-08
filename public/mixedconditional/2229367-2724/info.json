@@ -1,0 +1,46 @@
+{
+  "user": {
+    "username": "Julian Mosquera",
+    "profileImage": "https://videos.openai.com/vg-assets/assets%2Ftask_01jtf3n9hwfp0rxxrp31xmyqkr%2F1746411404_img_1.webp?st=2025-05-05T01%3A00%3A31Z&se=2025-05-11T02%3A00%3A31Z&sks=b&skt=2025-05-05T01%3A00%3A31Z&ske=2025-05-11T02%3A00%3A31Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=CnU2ODM22pJW2b2TN88uRvC9%2Bq7jffFu4YWbxKt5i7A%3D&az=oaivgprodscus",
+    "socialLink": "RedSocialJulian"
+  },
+  "topics": [
+    {
+      "topic": "mixed conditional",
+      "questions": [
+        {
+          "question": "If he had taken the job, he _____ in New York now.",
+          "options": [
+            "will live",
+            "would be living",
+            "lives",
+            "was living"
+          ],
+          "answer": "would be living"
+        },
+        {
+          "question": "They _____ the championship if they had trained more consistently.",
+          "options": [
+            "would have won",
+            "win",
+            "will win",
+            "had won"
+          ],
+          "answer": "would have won"
+        },
+        {
+          "question": "If I weren't afraid of heights, I _____ the mountain with them yesterday.",
+          "options": [
+            "would have climbed",
+            "will climb",
+            "climbed",
+            "would climb"
+          ],
+          "answer": "would have climbed"
+        }
+      ]
+    }
+  ]
+}
+
+
