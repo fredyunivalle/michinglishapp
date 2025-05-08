@@ -1,0 +1,45 @@
+{
+    "user": {
+      "username": "Juan Jose Mafla",
+      "profileImage": "https://avatars.githubusercontent.com/u/122699318?s=400&u=99a311e84fdb0ee4329e23999d901b20268049b2&v=4",
+      "socialLink": "@jj_mafla"
+    },
+    "topics": [
+      {
+        "topic": "adverbs",
+        "questions": [
+          {
+            "question": "Which sentence correctly places the adverb of frequency?",
+            "options": [
+              "She goes always to the gym in the morning.",
+              "They always are punctual for meetings.",
+              "He always helps his classmates with homework.",
+              "I am forgetting always my keys."
+            ],
+            "answer": "He always helps his classmates with homework."
+          },
+          {
+            "question": "Which sentence uses an adverb of manner appropriately?",
+            "options": [
+              "She quick ran to the station.",
+              "They handled the situation calmly.",
+              "He answered rude to the question.",
+              "We happy accepted the invitation."
+            ],
+            "answer": "They handled the situation calmly."
+          },
+          {
+            "question": "Which option contains a **misused** adverb of place?",
+            "options": [
+              "The kids are playing outside.",
+              "She looked everywhere for her keys.",
+              "They live happily near the beach.",
+              "He put the books upward the shelf."
+            ],
+            "answer": "He put the books upward the shelf."
+          }
+          
+        ]
+      }
+    ]
+  }
