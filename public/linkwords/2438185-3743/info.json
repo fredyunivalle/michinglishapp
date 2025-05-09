@@ -37,6 +37,16 @@
               "while"
             ],
             "answer": "because"
+          },
+          {
+            "question": "We can’t start the meeting _____ the manager arrives.",
+            "options": [
+              "until",
+              "so",
+              "because",
+              "but"
+            ],
+            "answer": "until"
           }
         ]
       }
