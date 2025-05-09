@@ -62,8 +62,8 @@ function App() {
       setErrorFirstConditional,
       `${import.meta.env.BASE_URL}firstconditional`
     );
-
-     // Fetch for `Modals Deduction`
+    
+    // Fetch for `Modals Deduction`
     fetchDataHelper(
       dispatch,
       setLoadingModalsDeduction,
