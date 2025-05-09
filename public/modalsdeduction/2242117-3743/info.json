@@ -1,0 +1,164 @@
+{
+  "user": {
+    "username": "RicardoErazo",
+    "profileImage": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/8B70/production/_102469653_gettyimages-962792890.jpg.webp",
+    "socialLink": "@ricardo_erazo36"
+  },
+  "topics": [
+    {
+      "topic": "modals deduction",
+      "questions": [
+        {
+          "question": "Choose the best option: 'Her phone is off. She _____ be on a flight.'",
+          "options": [
+            "must",
+            "might",
+            "can't",
+            "should"
+          ],
+          "answer": "must"
+        },
+        {
+          "question": "Complete the sentence: 'There’s no snow outside. It _____ have snowed last night.'",
+          "options": [
+            "must",
+            "might",
+            "can't",
+            "can't have"
+          ],
+          "answer": "can't have"
+        },
+        {
+          "question": "Which sentence expresses an uncertain possibility about the present?",
+          "options": [
+            "They might be watching a movie.",
+            "They must be watching a movie.",
+            "They can’t have watched a movie.",
+            "They should be watching a movie."
+          ],
+          "answer": "They might be watching a movie."
+        },
+        {
+          "question": "Complete the sentence: 'You heard footsteps? Someone _____ be in the house!'",
+          "options": [
+            "must",
+            "might",
+            "can't",
+            "should"
+          ],
+          "answer": "must"
+        },
+        {
+          "question": "Choose the correct option: 'She passed the test with 100%. She _____ studied a lot.'",
+          "options": [
+            "must have",
+            "can't have",
+            "might",
+            "should"
+          ],
+          "answer": "must have"
+        },
+        {
+          "question": "Which sentence expresses a logical impossibility in the present?",
+          "options": [
+            "He can’t be serious.",
+            "He must be serious.",
+            "He should be serious.",
+            "He might be serious."
+          ],
+          "answer": "He can’t be serious."
+        },
+        {
+          "question": "Choose the correct deduction: 'The lights are on, but no one is answering. They _____ be asleep.'",
+          "options": [
+            "must",
+            "can't",
+            "might",
+            "must have"
+          ],
+          "answer": "might"
+        },
+        {
+          "question": "What is the best option to complete: 'That noise _____ have come from the basement. The door was closed.'",
+          "options": [
+            "must",
+            "can't",
+            "should",
+            "must have"
+          ],
+          "answer": "can't"
+        },
+        {
+          "question": "Choose the correct modal: 'He looks familiar. I _____ have seen him before.'",
+          "options": [
+            "must",
+            "might",
+            "should",
+            "must have"
+          ],
+          "answer": "might"
+        },
+        {
+          "question": "Which of the following shows a suggestion rather than a deduction?",
+          "options": [
+            "You should talk to her.",
+            "You must talk to her.",
+            "You might talk to her.",
+            "You can't talk to her."
+          ],
+          "answer": "You should talk to her."
+        },
+        {
+          "question": "Complete the sentence: 'She _____ be over 40. She graduated just 2 years ago.'",
+          "options": [
+            "must",
+            "can't",
+            "might",
+            "must have"
+          ],
+          "answer": "can't"
+        },
+        {
+          "question": "Which sentence is a strong conclusion based on present evidence?",
+          "options": [
+            "He must be tired — he’s been yawning all day.",
+            "He might be tired — he’s been yawning all day.",
+            "He could be tired — he’s been yawning all day.",
+            "He should be tired — he’s been yawning all day."
+          ],
+          "answer": "He must be tired — he’s been yawning all day."
+        },
+        {
+          "question": "What is the correct deduction in this sentence: 'You ate the whole cake? You _____ been hungry!'",
+          "options": [
+            "must",
+            "might have",
+            "must have",
+            "can't have"
+          ],
+          "answer": "must have"
+        },
+        {
+          "question": "Choose the correct modal: 'He _____ be working late. His office light is still on.'",
+          "options": [
+            "must",
+            "might",
+            "can't",
+            "should"
+          ],
+          "answer": "must"
+        },
+        {
+          "question": "Complete the sentence: 'They _____ have gone to the wrong building. This one is empty.'",
+          "options": [
+            "must",
+            "might",
+            "must have",
+            "can't have"
+          ],
+          "answer": "must have"
+        }
+      ]
+    }
+  ]
+}

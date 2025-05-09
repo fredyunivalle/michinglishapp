@@ -1,0 +1,164 @@
+{
+  "user": {
+    "username": "JojhanCastillo",
+    "profileImage": "https://avatars.githubusercontent.com/u/199684993?s=400&u=ae5e7b16a96ebe6998bc9f09b42fa56ed29ada64&v=4",
+    "socialLink": "@JojhanC2107"
+  },
+  "topics": [
+    {
+      "topic": "modals deduction",
+      "questions": [
+        {
+          "question": "Complete the sentence: 'The restaurant is empty. The food _____ be very good.'",
+          "options": [
+            "must",
+            "might",
+            "can't",
+            "should"
+          ],
+          "answer": "can't"
+        },
+        {
+          "question": "Which sentence expresses a strong deduction about a past event?",
+          "options": [
+            "She might have lost her phone.",
+            "She must have lost her phone.",
+            "She can lose her phone.",
+            "She should lose her phone."
+          ],
+          "answer": "She must have lost her phone."
+        },
+        {
+          "question": "Choose the correct modal: 'The lights are off. They _____ be sleeping.'",
+          "options": [
+            "must",
+            "can't",
+            "should",
+            "may have"
+          ],
+          "answer": "must"
+        },
+        {
+          "question": "Which sentence shows a weak possibility in the past?",
+          "options": [
+            "He must have taken the wrong bus.",
+            "He might have taken the wrong bus.",
+            "He can't have taken the wrong bus.",
+            "He should take the wrong bus."
+          ],
+          "answer": "He might have taken the wrong bus."
+        },
+        {
+          "question": "Complete the sentence: 'She didn’t answer the phone. She _____ have seen your call.'",
+          "options": [
+            "must",
+            "can't",
+            "might not",
+            "should"
+          ],
+          "answer": "might not"
+        },
+        {
+          "question": "Which sentence expresses a logical impossibility in the present?",
+          "options": [
+            "He must be in two places at once.",
+            "He might be in two places at once.",
+            "He can't be in two places at once.",
+            "He should be in two places at once."
+          ],
+          "answer": "He can't be in two places at once."
+        },
+        {
+          "question": "Choose the correct modal for past deduction: 'They _____ have arrived by now. It’s already midnight.'",
+          "options": [
+            "must",
+            "can",
+            "should",
+            "may"
+          ],
+          "answer": "must"
+        },
+        {
+          "question": "Which sentence indicates a probable past action?",
+          "options": [
+            "She must have finished her homework.",
+            "She can finish her homework.",
+            "She might finish her homework.",
+            "She should finish her homework."
+          ],
+          "answer": "She must have finished her homework."
+        },
+        {
+          "question": "Complete the sentence: 'He speaks perfect French. He _____ have lived in France.'",
+          "options": [
+            "might",
+            "must",
+            "can't",
+            "should"
+          ],
+          "answer": "must"
+        },
+        {
+          "question": "Which sentence expresses doubt about a past event?",
+          "options": [
+            "They must have missed the flight.",
+            "They might have missed the flight.",
+            "They can't have missed the flight.",
+            "They should miss the flight."
+          ],
+          "answer": "They might have missed the flight."
+        },
+        {
+          "question": "Choose the correct modal: 'The door was open. Someone _____ have entered.'",
+          "options": [
+            "must",
+            "can't",
+            "should",
+            "may"
+          ],
+          "answer": "must"
+        },
+        {
+          "question": "Which sentence shows certainty about a present situation?",
+          "options": [
+            "She must be the manager.",
+            "She might be the manager.",
+            "She can be the manager.",
+            "She should have been the manager."
+          ],
+          "answer": "She must be the manager."
+        },
+        {
+          "question": "Complete the sentence: 'She never came home last night. She _____ have stayed at a friend’s house.'",
+          "options": [
+            "must",
+            "might",
+            "can't",
+            "should"
+          ],
+          "answer": "might"
+        },
+        {
+          "question": "Which sentence expresses an impossible past deduction?",
+          "options": [
+            "He must have won the lottery.",
+            "He can't have won the lottery.",
+            "He might have won the lottery.",
+            "He should win the lottery."
+          ],
+          "answer": "He can't have won the lottery."
+        },
+        {
+          "question": "Choose the correct modal: 'The exam results are excellent! You _____ have studied hard.'",
+          "options": [
+            "must",
+            "can't",
+            "might",
+            "should"
+          ],
+          "answer": "must"
+        }
+      ]
+    }
+  ]
+}

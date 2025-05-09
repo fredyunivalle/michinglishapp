@@ -9,8 +9,7 @@ import { mixedconditionalSlice } from "./mixedconditional";
 import { zeroconditionalSlice } from "./zeroconditional";
 import { thirdconditionalSlice } from "./thirdconditional";
 import { adverbsSlice } from "./adverbs";
-//import { mixedconditional } from "./mixedconditional";
-//import { modalsdeduction } from "./modalsdeduction";
+import { modalsdeductionSlice } from "./modalsdeduction";
 //import { modalspossibility } from "./modalspossibility";
 //import { zeroconditional } from "./zeroconditional";
 
@@ -25,7 +24,7 @@ export const store = configureStore({
     zeroconditional: zeroconditionalSlice.reducer,
     thirdconditional: thirdconditionalSlice.reducer,
     adverbs: adverbsSlice.reducer,
-    //modalsdeduction: modalsdeduction.reducer,
+    modalsdeduction: modalsdeductionSlice.reducer,
     //modalspossibility: modalspossibility.reducer,
     //zeroconditional: zeroconditional.reducer,
   },
