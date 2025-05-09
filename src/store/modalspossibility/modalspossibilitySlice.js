@@ -7,7 +7,7 @@ const initialState = {
 };
 
 export const modalspossibilitySlice = createSlice({
-  name: "linkwords",
+  name: "modalspossibility",
   initialState,
   reducers: {
     setData: (state, action) => {
