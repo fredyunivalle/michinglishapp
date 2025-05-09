@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Jose David Giraldo Mera",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4E03AQHQO8QFw6mmzw/profile-displayphoto-shrink_800_800/B4EZaeu1gRHkAc-/0/1746419801572?e=1752105600&v=beta&t=kOuRWtQ1Sc8jN28IyPkD_7KO12XRimyT1vreEDCbbwg",
+    "socialLink": "@dvvid_6"
+  },
+  "topics": [
+    {
+      "topic": "linkwords",
+      "questions": [
+        {
+          "question": "I'll go for a walk _____ it stops raining.",
+          "options": [
+            "if",
+            "so",
+            "because",
+            "although"
+          ],
+          "answer": "if"
+        },
+        {
+          "question": "She studied very hard, _____ she passed the exam with flying colors.",
+          "options": [
+            "so",
+            "unless",
+            "but",
+            "although"
+          ],
+          "answer": "so"
+        },
+        {
+          "question": "He was late to the meeting _____ the heavy traffic.",
+          "options": [
+            "because of",
+            "unless",
+            "although",
+            "while"
+          ],
+          "answer": "because of"
+        }
+      ]
+    }
+  ]
+}
