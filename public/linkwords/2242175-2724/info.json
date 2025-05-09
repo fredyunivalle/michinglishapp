@@ -1,0 +1,45 @@
+{
+    "user": {
+      "username": "Jenifer Ortiz Torres",
+      "profileImage": "https://pm1.aminoapps.com/6565/a791bdc7ce883ef12a7bcb15e6d9cf72a6f61493_hq.jpg",
+      "socialLink": "@jenfortiz"
+    },
+    "topics": [
+      {
+        "topic": "linkwords",
+        "questions": [
+          {
+            "question": "You can’t drive a car _____ you have a valid license.",
+            "options": [
+              "unless", 
+              "while", 
+              "in case", 
+              "because"
+            ],
+            "answer": "unless"
+          },
+          {
+            "question": "He was very tired, _____ he continued working.",
+            "options": [
+              "yet", 
+              "because", 
+              "so that", 
+              "if"
+            ],
+            "answer": "yet"
+          },
+          {
+            "question": "Take an umbrella _____ it rains.",
+            "options": [
+              "in case", 
+              "unless", 
+              "so that", 
+              "whereas"
+            ],
+            "answer": "in case"
+          }
+        ]
+      }
+    ]
+  }
+  

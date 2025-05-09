@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "Yeimer Armando Mendez Sanchez",
+      "profileImage": "https://i.pinimg.com/736x/6f/b6/f9/6fb6f9bbb490773843c19fdb42d2bf6f.jpg",
+      "socialLink": "@yeimermnd"
+    },
+    "topics": [
+      {
+        "topic": "linkwords",
+        "questions": [
+          {
+            "question": "I’ll come with you _____ you need my help.",
+            "options": [
+              "If", 
+              "Unless", 
+              "Whereas", 
+              "While"
+            ],
+            "answer": "If"
+          },
+          {
+            "question": "You must finish the report _____ you leave.",
+            "options": [
+              "Before", 
+              "Whereas", 
+              "Nonetheless", 
+              "Such as"
+            ],
+            "answer": "Before"
+          },
+          {
+            "question": "_____ his reputation, he was not hired.",
+            "options": [
+              "In spite of", 
+              "Because", 
+              "Therefore", 
+              "Unless"
+            ],
+            "answer": "In spite of"
+          }
+        ]
+      }
+    ]
+}
