@@ -69,6 +69,6 @@ runDuplicateTestForDirectory('zeroconditional');
 runDuplicateTestForDirectory('thirdconditional');
 // runDuplicateTestForDirectory('mixedconditional');
 // runDuplicateTestForDirectory('modalsdeduction');
-// runDuplicateTestForDirectory('modalspossibility');
+runDuplicateTestForDirectory('modalspossibility');
 // runDuplicateTestForDirectory('adverbs');
 // runDuplicateTestForDirectory('zeroconditional');
