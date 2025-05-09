@@ -1,0 +1,45 @@
+{
+    "user": {
+      "username": "Juan Fernando Calle",
+      "profileImage": "https://avatars.githubusercontent.com/u/127953168?s=400&u=a6d0d99053629fb482fee069355065eb29fee1ca&v=4",
+      "socialLink": "@Juan_calle01"
+    },
+    "topics": [
+      {
+        "topic": "adverbs",
+        "questions": [
+          {
+            "question": "Which sentence shows correct placement of the adverb?",
+            "options": [
+              "Quickly he ran to the store.",
+              "He ran to the store quickly.",
+              "He quickly ran to the store quickly.",
+              "To the store he ran quickly."
+            ],
+            "answer": "He ran to the store quickly."
+          },
+          {
+            "question": "Which sentence contains an adverb of frequency?",
+            "options": [
+              "She sings beautifully.",
+              "He often visits his grandmother.",
+              "The baby cried loudly.",
+              "They arrived late."
+            ],
+            "answer": "He often visits his grandmother."
+          },
+          {
+            "question": "Which sentence uses an adverb of manner incorrectly?",
+            "options": [
+              "He quickly finished his meal.",
+              "She danced gracefully across the stage.",
+              "They happily announced the results.",
+              "She speaks perfect Englishly."
+            ],
+            "answer": "She speaks perfect Englishly."
+          }
+        ]
+      }
+    ]
+  }
+  
