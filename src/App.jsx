@@ -9,6 +9,7 @@ import { setData as setDataFirstConditional, setLoading as setLoadingFirstCondit
 import { setData as setDataZeroConditional, setLoading as setLoadingZeroConditional, setError as setErrorZeroConditional } from "./store/zeroconditional";
 import { setData as setDataThirdConditional, setLoading as setLoadingThirdConditional, setError as setErrorThirdConditional } from "./store/thirdconditional";
 import { setData as setDataMixedConditional, setLoading as setLoadingMixedConditional, setError as setErrorMixedConditional } from "./store/mixedconditional";
+import { setData as setDataModalsDeduction, setLoading as setLoadingModalsDeduction, setError as setErrorModalsDeduction } from "./store/modalsdeduction";
 
 import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';
@@ -139,6 +140,15 @@ function App() {
       setErrorMixedConditional,
       `${import.meta.env.BASE_URL}mixedconditional`
     );
+    
+    // Fetch for `Modals Deduction`
+    fetchDataHelper(
+      dispatch,
+      setLoadingModalsDeduction,
+      setDataModalsDeduction,
+      setErrorModalsDeduction,
+      `${import.meta.env.BASE_URL}modalsdeduction`
+    )
     
   }, [dispatch]);
 

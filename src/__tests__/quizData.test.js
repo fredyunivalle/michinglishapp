@@ -88,6 +88,6 @@ validateFolderCategory('firstconditional');
 validateFolderCategory('zeroconditional');
 validateFolderCategory('thirdconditional');
 validateFolderCategory('mixedconditional');
-// validateFolderCategory('modalsdeduction');
+validateFolderCategory('modalsdeduction');
 // validateFolderCategory('modalspossibility');
 validateFolderCategory('adverbs');
