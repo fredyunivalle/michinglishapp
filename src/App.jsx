@@ -7,6 +7,7 @@ import { setData as setDataAdjectives, setLoading as setLoadingAdjectives, setEr
 import { setData as setDataFirstConditional, setLoading as setLoadingFirstConditional, setError as setErrorFirstConditional } from "./store/firstconditional";
 import { setData as setDataZeroConditional, setLoading as setLoadingZeroConditional, setError as setErrorZeroConditional } from "./store/zeroconditional";
 import { setData as setDataThirdConditional, setLoading as setLoadingThirdConditional, setError as setErrorThirdConditional } from "./store/thirdconditional";
+import { setData as setDataModalsPossibility, setLoading as setLoadingModalsPossibility, setError as setErrorModalsPossibility } from "./store/modalspossibility";
 
 import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';
@@ -102,13 +103,13 @@ function App() {
    // );   
    
   // Fetch for `modalspossibility`
-   // fetchDataHelper(
-   //   dispatch,
-   //   modalspossibility,
-   //   modalspossibility,
-   //  modalspossibility,
-   //   `${import.meta.env.BASE_URL}modalspossibility`
-   // );   
+    fetchDataHelper(
+      dispatch,
+      setLoadingModalsPossibility,
+      setDataModalsPossibility,
+      setErrorModalsPossibility,
+      `${import.meta.env.BASE_URL}modalspossibility`
+    );   
    
   // Fetch for `adverbs`
    // fetchDataHelper(
