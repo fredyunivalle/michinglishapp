@@ -1,0 +1,46 @@
+{
+  "user": {
+    "username": "Jonathan Arboleda",
+    "profileImage": "https://i.scdn.co/image/ab6761610000e5ebefd18d2fec23083d22c8ed09",
+    "socialLink": "@JonarcasDev12"
+  },
+  
+    "topics": [
+      {
+        "topic": "mixed conditional",
+        "questions": [
+          {
+            "question": "If he had taken the job offer, he _____ in New York now.",
+            "options": [
+              "lives",
+              "will live",
+              "would live",
+              "lived"
+            ],
+            "answer": "would live"
+          },
+          {
+            "question": "They _____ less stressed now if they had finished the project on time.",
+            "options": [
+              "are",
+              "would be",
+              "will be",
+              "were"
+            ],
+            "answer": "would be"
+          },
+          {
+            "question": "If you were more confident, you _____ taken the lead in yesterday’s meeting.",
+            "options": [
+              "had",
+              "would have",
+              "will have",
+              "could"
+            ],
+            "answer": "would have"
+          }
+        ]
+      }
+    ]
+  }
+  

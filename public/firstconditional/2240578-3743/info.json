@@ -1,0 +1,90 @@
+{
+    "user": {
+      "username": "Samir Panameño",
+      "profileImage": "https://i.pinimg.com/736x/ff/44/be/ff44be6b16163a26be6e2f531398c452.jpg",
+      "socialLink": "@averagestudent"
+    },
+    "topics": [
+      {
+        "topic": "first conditional",
+        "questions": [
+          {
+            "question": "If she studies hard, she _____ the exam.",
+            "options": ["passes", "will pass", "passed", "pass"],
+            "answer": "will pass"
+          },
+          {
+            "question": "What is the correct structure of a first conditional sentence?",
+            "options": [
+              "If + present simple, will + base verb",
+              "If + past simple, would + base verb",
+              "If + present perfect, will + base verb",
+              "If + base verb, will + present simple"
+            ],
+            "answer": "If + present simple, will + base verb"
+          },
+          {
+            "question": "Choose the correct sentence.",
+            "options": [
+              "If we will be late, the teacher gets angry.",
+              "If we are late, the teacher will get angry.",
+              "If we being late, the teacher gets angry.",
+              "If we be late, the teacher will get angry."
+            ],
+            "answer": "If we are late, the teacher will get angry."
+          },
+          {
+            "question": "Complete the sentence: 'If they _____ the tickets now, they will get a discount.'",
+            "options": ["buy", "bought", "buys", "buying"],
+            "answer": "buy"
+          },
+          {
+            "question": "Which of the following is NOT a correct use of the first conditional?",
+            "options": [
+              "If it rains, we will cancel the picnic.",
+              "If you help me, I will finish faster.",
+              "If he had time, he will join us.",
+              "If she sees the message, she will reply."
+            ],
+            "answer": "If he had time, he will join us."
+          },
+          {
+            "question": "Choose the best option: 'If I don't hurry, I _____ the train.'",
+            "options": ["will miss", "miss", "missed", "missing"],
+            "answer": "will miss"
+          },
+          {
+            "question": "Identify the conditional type: 'If you touch that wire, you will get shocked.'",
+            "options": ["Zero conditional", "First conditional", "Second conditional", "Third conditional"],
+            "answer": "First conditional"
+          },
+          {
+            "question": "What will happen if you mix red and blue?",
+            "options": [
+              "You get purple",
+              "You will get purple",
+              "You got purple",
+              "You getting purple"
+            ],
+            "answer": "You will get purple"
+          },
+          {
+            "question": "Select the correct sentence using the first conditional.",
+            "options": [
+              "If he forgets his keys, he would be locked out.",
+              "If he will forget his keys, he is locked out.",
+              "If he forgets his keys, he will be locked out.",
+              "If he forgetting his keys, he will be locked out."
+            ],
+            "answer": "If he forgets his keys, he will be locked out."
+          },
+          {
+            "question": "Complete the sentence: 'If we _____ now, we won’t make it on time.'",
+            "options": ["don’t leave", "won’t leave", "didn’t leave", "leaving"],
+            "answer": "don’t leave"
+          }
+        ]
+      }
+    ]
+  }
+  

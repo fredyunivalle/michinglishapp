@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Bayron Jojoa",
+    "profileImage": "https://i1.sndcdn.com/artworks-yvBba70vE9HpYoTg-aI7zBQ-t500x500.jpg",
+    "socialLink": "@jojoabairon"
+  },
+  "topics": [
+    {
+      "topic": "mixedconditional",
+      "questions": [
+        {
+          "question": "Choose the correct sentence using a mixed conditional:",
+          "options": [
+            "If I had studied harder, I would pass the exam tomorrow.",
+            "If I studied harder, I would have passed the exam yesterday.",
+            "If I had studied harder, I would have passed the exam.",
+            "If I study harder, I will pass the exam."
+          ],
+          "answer": "If I had studied harder, I would pass the exam tomorrow."
+        },
+        {
+          "question": "Complete the following mixed conditional sentence: 'If she hadn't missed the train yesterday, she _____ here now.'",
+          "options": [
+            "would be",
+            "would have been",
+            "will be",
+            "is"
+          ],
+          "answer": "would be"
+        },
+        {
+          "question": "Which of the following sentences is an example of a mixed conditional?",
+          "options": [
+            "If it rains, we will stay home.",
+            "If I had known, I would have told you.",
+            "If he were taller, he could reach the shelf.",
+            "If she had saved money last year, she could buy a car now."
+          ],
+          "answer": "If she had saved money last year, she could buy a car now."
+        }
+      ]
+    }
+  ]
+}

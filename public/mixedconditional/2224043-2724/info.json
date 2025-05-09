@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Esteban Urbano",
+    "profileImage": "https://www.flores.ninja/wp-content/uploads/2016/02/orqui%CC%81dea.jpg",
+    "socialLink": "@camiloUrbano"
+  },
+  "topics": [
+    {
+      "topic": "mixedconditional",  
+      "questions": [
+        {
+          "question": "Which sentence correctly expresses a hypothetical present situation caused by a past mistake?",
+          "options": [
+            "If she were more confident, she would have spoken at the meeting.",
+            "If she had been more confident, she would speak at the meeting now.",
+            "If she had been more confident, she would have spoken at the meeting.",
+            "If she was more confident, she speaks at the meeting now."
+          ],
+          "answer": "If she had been more confident, she would speak at the meeting now."
+        },
+        {
+          "question": "Choose the mixed conditional that best reflects a present impossibility due to a past event:",
+          "options": [
+            "If I hadn't missed the deadline, I would be presenting the project today.",
+            "If I don't miss the deadline, I will present the project today.",
+            "If I missed the deadline, I wouldn't present the project today.",
+            "If I hadn't missed the deadline, I would have presented the project today."
+          ],
+          "answer": "If I hadn't missed the deadline, I would be presenting the project today."
+        },
+        {
+          "question": "Complete the sentence with the correct form: 'If you had taken the job offer last year, you _____ in Berlin now.'",
+          "options": [
+            "will be living",
+            "would live",
+            "would be living",
+            "would have lived"
+          ],
+          "answer": "would be living"
+        }
+      ]
+    }
+  ]
+}
