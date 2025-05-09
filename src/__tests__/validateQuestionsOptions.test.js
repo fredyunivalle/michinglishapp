@@ -59,5 +59,5 @@ validateFolderQuestions('thirdconditional');
 validateFolderQuestions('mixedconditional');
 validateFolderQuestions('modalsdeduction');
 // validateFolderQuestions('modalspossibility');
-// validateFolderQuestions('adverbs');
+validateFolderQuestions('adverbs');
 // validateFolderQuestions('zeroconditional');

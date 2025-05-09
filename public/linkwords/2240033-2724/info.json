@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "Juan Pablo Puerta Gaviria",
+      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Simple_Stick_Figure.svg",
+      "socialLink": "@Ynhukz"
+    },
+    "topics": [
+        {
+          "topic": "linkwords",
+          "questions": [
+            {
+              "question": "She couldn’t attend the meeting _____ she was feeling unwell.",
+              "options": [
+                "because", 
+                "despite", 
+                "unless", 
+                "although"
+              ],
+              "answer": "because"
+            },
+            {
+              "question": "He acts as _____ he were the boss.",
+              "options": [
+                "if", 
+                "as though", 
+                "because", 
+                "since"
+              ],
+              "answer": "as though"
+            },
+            {
+              "question": "_____ I like chocolate, I try not to eat it every day.",
+              "options": [
+                "Even though", 
+                "Because", 
+                "So that", 
+                "Unless"
+              ],
+              "answer": "Even though"
+            }
+          ]
+        }
+      ]
+    }

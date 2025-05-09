@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "Kevin Prado",
+      "profileImage": "https://avatars.githubusercontent.com/u/145817335?s=400&u=fc385f336bac258b2ce8f328b4c1455f7a0c01bb&v=4",
+      "socialLink": "@otalvarokev"
+    },
+    "topics": [
+      {
+        "topic": "adverbs",
+        "questions": [
+          {
+            "question": "Which sentence uses an adverb of frequency?",
+            "options": [
+              "She quickly finished her work.",
+              "They often visit their grandparents.",
+              "He loudly closed the door.",
+              "I ran fast to catch the bus."
+            ],
+            "answer": "They often visit their grandparents."
+          },
+          {
+            "question": "Which sentence correctly places the adverb?",
+            "options": [
+              "I completely have forgotten the keys.",
+              "She always is on time.",
+              "They have never been to Japan.",
+              "He speaks well English."
+            ],
+            "answer": "They have never been to Japan."
+          },
+          {
+            "question": "What type of adverb is 'gently'?",
+            "options": [
+              "Adverb of place",
+              "Adverb of time",
+              "Adverb of manner",
+              "Adverb of frequency"
+            ],
+            "answer": "Adverb of manner"
+          }
+        ]
+      }
+    ]
+}
