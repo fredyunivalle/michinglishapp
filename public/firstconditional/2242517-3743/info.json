@@ -1,0 +1,114 @@
+{
+    "user": {
+      "username": "Andres Alcantara",
+      "profileImage": "https://w0.peakpx.com/wallpaper/633/132/HD-wallpaper-shooting-stars-anime-sky-girl-shooting-star-art.jpg",
+      "socialLink": "@1st.afam"
+    },
+    "topics": [
+      {
+        "topic": "first conditional",
+        "questions": [
+          {
+            "question": "If the project meets the deadline, how _____ the client likely respond?",
+            "options": [
+              "did",
+              "will",
+              "does",
+              "would"
+            ],
+            "answer": "will"
+          },
+          {
+            "question": "What will happen if the team _____ to adapt quickly to the new system?",
+            "options": [
+              "fail",
+              "fails",
+              "failed",
+              "will fail"
+            ],
+            "answer": "fails"
+          },
+          {
+            "question": "If we implement the changes as planned, we _____ a significant boost in performance.",
+            "options": [
+              "see",
+              "will see",
+              "saw",
+              "have seen"
+            ],
+            "answer": "will see"
+          },
+          {
+            "question": "If he doesn't clarify his argument during the meeting, the others _____ his proposal.",
+            "options": [
+              "will misunderstand",
+              "misunderstand",
+              "misunderstood",
+              "have misunderstood"
+            ],
+            "answer": "will misunderstand"
+          },
+          {
+            "question": "What _____ if the weather conditions don't improve before the event?",
+            "options": [
+              "you will do",
+              "will you do",
+              "do you do",
+              "did you do"
+            ],
+            "answer": "will you do"
+          },
+          {
+            "question": "If the lecturer arrives late again, the students _____ a formal complaint.",
+            "options": [
+              "make",
+              "will make",
+              "made",
+              "are making"
+            ],
+            "answer": "will make"
+          },
+          {
+            "question": "If we don't update the software this week, we _____ compatibility issues next month.",
+            "options": [
+              "will face",
+              "faced",
+              "have faced",
+              "face"
+            ],
+            "answer": "will face"
+          },
+          {
+            "question": "What will the manager do if no one _____ the training session on time?",
+            "options": [
+              "attended",
+              "attends",
+              "will attend",
+              "attending"
+            ],
+            "answer": "attends"
+          },
+          {
+            "question": "If you forget to back up your files, you _____ everything in case of a crash.",
+            "options": [
+              "will lose",
+              "lose",
+              "lost",
+              "are losing"
+            ],
+            "answer": "will lose"
+          },
+          {
+            "question": "If they propose a better alternative during the meeting, the board _____ the original plan.",
+            "options": [
+              "rejects",
+              "rejected",
+              "will reject",
+              "has rejected"
+            ],
+            "answer": "will reject"
+          }
+        ]
+      }
+    ]
+  }

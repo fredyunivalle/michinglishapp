@@ -1,0 +1,54 @@
+{
+  "user": {
+    "username": "Salomé Acosta",
+    "profileImage": "https://i.pinimg.com/736x/dd/de/b9/dddeb95fa41f5b231e820fe7d0c1f292.jpg",
+    "socialLink": "@SaloméAcosta"
+  },
+  "topics": [
+    {
+      "topic": "first conditional",
+      "questions": [
+        {
+          "question": "Identify the error in the sentence: 'If you will be late, the teacher gets angry.'",
+          "options": [
+            "No error",
+            "'will be' should be 'are'",
+            "'gets' should be 'will get'",
+            "'late' should be 'latte'"
+          ],
+          "answer": "'will be' should be 'are'"
+        },
+        {
+          "question": "Which sentence uses the first conditional correctly?",
+          "options": [
+            "If you won’t study, you don't pass the test.",
+            "If you not study, you will fail.",
+            "If you don’t study, you will fail.",
+            "If you didn’t study, you will fail."
+          ],
+          "answer": "If you don’t study, you will fail."
+        },
+        {
+          "question": "Complete the sentence: 'If Mark ___ the meeting, he'll miss important updates.'",
+          "options": [
+            "skip",
+            "will skip",
+            "skips",
+            "skipped"
+          ],
+          "answer": "skips"
+        },
+        {
+          "question": "Select the grammatically correct conditional sentence:",
+          "options": [
+            "If I will see her, I tell her the news.",
+            "If I see her, I will tell her the news.",
+            "If I seeing her, I will tell the news.",
+            "If I saw her, I will tell her the news."
+          ],
+          "answer": "If I see her, I will tell her the news."
+        }
+      ]
+    }
+  ]
+}
