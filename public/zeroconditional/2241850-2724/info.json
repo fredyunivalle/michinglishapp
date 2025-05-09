@@ -1,0 +1,44 @@
+{
+    "user": {
+        "username": "Genaro Vegas",
+        "profileImage": "",
+        "socialLink": "@GNARO7"
+    },
+    "topics": [
+        {
+            "topic": "zero conditional",
+            "questions": [
+                {
+                    "question": "What happens if you drop a glass on the floor?",
+                    "options": [
+                        "It breaks.",
+                        "It broke.",
+                        "It is breaking.",
+                        "It break."
+                    ],
+                    "answer": "It breaks."
+                },
+                {
+                    "question": "Complete the sentence: 'If you heat metal, it _____.'",
+                    "options": [
+                        "expands",
+                        "expand",
+                        "expanding",
+                        "expanded"
+                    ],
+                    "answer": "expands"
+                },
+                {
+                    "question": "Which sentence is a correct example of zero conditional?",
+                    "options": [
+                        "If students study regularly, they pass the exams.",
+                        "If students studied regularly, they pass the exams.",
+                        "If students study regularly, they will pass the exams.",
+                        "If students study regularly, they passed the exams."
+                    ],
+                    "answer": "If students study regularly, they pass the exams."
+                }
+            ]
+        }
+    ]
+}
