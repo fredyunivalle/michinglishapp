@@ -5,7 +5,7 @@ import { extractQuestionsWithUserData } from '../../helpers/extractQuestionWiUsr
 import { shuffleArray } from '../../helpers/shuffleArray';
 
 const ModalsPossibilityModule = () => {
-  const data = useSelector((state) => state.linkwords.data);
+  const data = useSelector((state) => state.modalspossibility.data);
   const tittle = "Modals of possibility"
   let allQuestions = extractQuestionsWithUserData(data)
   allQuestions =shuffleArray(allQuestions)
