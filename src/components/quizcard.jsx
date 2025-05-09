@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Card, Button, Image, Row, Col, Container, Spinner  } from 'react-bootstrap';
 
 

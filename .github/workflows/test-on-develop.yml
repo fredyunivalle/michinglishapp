@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE20: true  # Force Node.js 20 now
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE20: true
 
     steps:
       - name: Checkout code
@@ -26,6 +26,9 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+
+      - name: Run linter
+        run: npm run lint
 
       - name: Run tests
         run: npm test

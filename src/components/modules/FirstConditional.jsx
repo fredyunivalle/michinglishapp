@@ -1,4 +1,3 @@
-import React from 'react';
 import { useSelector } from 'react-redux';
 import QuizCard from '../quizcard';
 import { extractQuestionsWithUserData } from '../../helpers/extractQuestionWiUsrData';
