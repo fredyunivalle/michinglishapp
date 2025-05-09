@@ -103,13 +103,13 @@ function App() {
    // );   
    
   // Fetch for `modalspossibility`
-   // fetchDataHelper(
-   //   dispatch,
-   //   modalspossibility,
-   //   modalspossibility,
-   //  modalspossibility,
-   //   `${import.meta.env.BASE_URL}modalspossibility`
-   // );   
+    fetchDataHelper(
+      dispatch,
+      setLoadingModalsPossibility,
+      setDataModalsPossibility,
+      setErrorModalsPossibility,
+      `${import.meta.env.BASE_URL}modalspossibility`
+    );
    
   // Fetch for `adverbs`
    // fetchDataHelper(
