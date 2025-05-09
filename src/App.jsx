@@ -128,6 +128,15 @@ function App() {
    //   `${import.meta.env.BASE_URL}zeroconditional`
    // ); 
     
+    // Fetch for `Mixed Conditional`
+    fetchDataHelper(
+      dispatch,
+      setLoadingMixedConditional,
+      setDataMixedConditional,
+      setErrorMixedConditional,
+      `${import.meta.env.BASE_URL}mixedconditional`
+    );
+    
   }, [dispatch]);
 
   const toggleSidebar = () => setShowSidebar(!showSidebar);
