@@ -10,7 +10,7 @@ const VocabularyPuzzlePage = () => {
   const [selectedIndex, setSelectedIndex] = useState(0);
 
   if (!data.length) {
-    return <Container className="py-4">⚠️ No data found for category "{category}"</Container>;
+    return <Container className="py-4">⚠️ No data found for category `{category}`</Container>;
   }
 
   const selected = data[selectedIndex];

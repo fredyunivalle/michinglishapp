@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import {useCallback ,useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Container, Row, Col, Card, Button, Alert, Image } from 'react-bootstrap';
 import './MemoryMatchGame.css';
@@ -21,18 +21,18 @@ const MemoryMatchGame = ({ user, vocabPairs }) => {
   const [gameOver, setGameOver] = useState(false);
   const [wrongPair, setWrongPair] = useState([]);
 
-  const resetGame = () => {
-    setCards(generateCards(vocabPairs));
-    setFlipped([]);
-    setMatched([]);
-    setLives(3);
-    setWrongPair([]);
-    setGameOver(false);
-  };
+  const resetGame = useCallback(() => {
+  setCards(generateCards(vocabPairs));
+  setFlipped([]);
+  setMatched([]);
+  setLives(3);
+  setWrongPair([]);
+  setGameOver(false);
+}, [vocabPairs]);
 
   useEffect(() => {
     resetGame();
-  }, []);
+  }, [resetGame]);
 
   const handleClick = (card) => {
     if (flipped.length === 2 || flipped.includes(card.id) || gameOver) return;
