@@ -1,9 +1,14 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Container, Row, Col, Card, Button, Alert } from 'react-bootstrap';
+import { Container, Row, Col, Card, Button, Alert, Image } from 'react-bootstrap';
 import './MemoryMatchGame.css';
 
-// Pares de vocabulario
+const user = {
+  username: "Fredy Ball",
+  profileImage: "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+  socialLink: "@fredyballest"
+};
+
 const vocabPairs = [
   { id: 1, en: 'apple', es: 'manzana' },
   { id: 2, en: 'house', es: 'casa' },
@@ -70,6 +75,17 @@ const MemoryMatchGame = () => {
 
   return (
     <Container className="mt-4">
+      <div className="text-center mb-4">
+        <Image
+          src={user.profileImage}
+          alt={user.username}
+          roundedCircle
+          style={{ width: '80px', height: '80px', objectFit: 'cover' }}
+        />
+        <h5 className="mt-2">{user.username}</h5>
+        <div className="text-muted">{user.socialLink}</div>
+      </div>
+
       <h2 className="text-center mb-4">🧠 Match the Vocabulary</h2>
       <div className="text-center mb-3">
         <h5>Lives: {lives} ❤️</h5>
@@ -128,4 +144,3 @@ const MemoryMatchGame = () => {
 };
 
 export default MemoryMatchGame;
-
