@@ -6,8 +6,8 @@
   },
   "words": [
     { "id": 1, "en": "happy", "es": "feliz" },
-    { "id": 2, "en": "tall", "es": "alto" },
-    { "id": 3, "en": "cold", "es": "frío" },
-    { "id": 4, "en": "strong", "es": "fuerte" }
+    { "id": 2, "en": "sad", "es": "triste" },
+    { "id": 3, "en": "angry", "es": "enojado" },
+    { "id": 4, "en": "scared", "es": "asustado" }
   ]
 }

@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
-  data: [],
+  categories: {},
   loading: false,
   error: null,
 };
@@ -11,7 +11,7 @@ export const vocabularySlice = createSlice({
   initialState,
   reducers: {
     setData: (state, action) => {
-      state.data = action.payload;
+      state.categories = action.payload;
     },
     setLoading: (state, action) => {
       state.loading = action.payload;

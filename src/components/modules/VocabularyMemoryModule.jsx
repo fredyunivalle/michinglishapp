@@ -3,17 +3,7 @@ import { motion } from 'framer-motion';
 import { Container, Row, Col, Card, Button, Alert, Image } from 'react-bootstrap';
 import './MemoryMatchGame.css';
 
-const user = {
-  username: "Fredy Ball",
-  profileImage: "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
-  socialLink: "@fredyballest"
-};
 
-const vocabPairs = [
-  { id: 1, en: 'apple', es: 'manzana' },
-  { id: 2, en: 'house', es: 'casa' },
-  { id: 3, en: 'dog', es: 'perro' },
-];
 
 const generateCards = (pairs) => {
   const flat = pairs.flatMap(pair => [
@@ -23,7 +13,7 @@ const generateCards = (pairs) => {
   return flat.sort(() => Math.random() - 0.5);
 };
 
-const MemoryMatchGame = () => {
+const MemoryMatchGame = ({ user, vocabPairs }) => {
   const [cards, setCards] = useState([]);
   const [flipped, setFlipped] = useState([]);
   const [matched, setMatched] = useState([]);

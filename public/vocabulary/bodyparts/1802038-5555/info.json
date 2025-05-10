@@ -5,9 +5,9 @@
     "socialLink": "@fredyballest"
   },
   "words": [
-    { "id": 1, "en": "happy", "es": "feliz" },
-    { "id": 2, "en": "tall", "es": "alto" },
-    { "id": 3, "en": "cold", "es": "frío" },
-    { "id": 4, "en": "strong", "es": "fuerte" }
+    { "id": 1, "en": "head", "es": "cabeza" },
+    { "id": 2, "en": "hand", "es": "mano" },
+    { "id": 3, "en": "leg", "es": "pierna" },
+    { "id": 4, "en": "eye", "es": "ojo" }
   ]
 }

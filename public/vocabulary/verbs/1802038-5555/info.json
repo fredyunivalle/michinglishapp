@@ -5,9 +5,9 @@
     "socialLink": "@fredyballest"
   },
   "words": [
-    { "id": 1, "en": "happy", "es": "feliz" },
-    { "id": 2, "en": "tall", "es": "alto" },
-    { "id": 3, "en": "cold", "es": "frío" },
-    { "id": 4, "en": "strong", "es": "fuerte" }
+    { "id": 1, "en": "run", "es": "correr" },
+    { "id": 2, "en": "eat", "es": "comer" },
+    { "id": 3, "en": "read", "es": "leer" },
+    { "id": 4, "en": "write", "es": "escribir" }
   ]
 }

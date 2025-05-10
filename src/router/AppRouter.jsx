@@ -12,6 +12,8 @@ import FirstConditionalModule from '../components/modules/FirstConditional';
 import SecondConditionalModule from '../components/modules/SecondConditional';
 import ThirdConditionalModule from '../components/modules/ThirdConditional';
 import MixedConditionalModule from '../components/modules/MixedConditional';
+import VocabularyPuzzlePage from '../pages/VocabularyPuzzlePage';
+
 
 export const AppRouter = () => { 
 
@@ -30,6 +32,8 @@ export const AppRouter = () => {
           <Route path="/michinglishapp/second-conditionals" element={<SecondConditionalModule/>} />
           <Route path="/michinglishapp/third-conditionals" element={<ThirdConditionalModule/>} />
           <Route path="/michinglishapp/mixed_conditionals" element={<MixedConditionalModule/>} />
+              {/* Ruta dinámica para puzzles */}
+          <Route path="/michinglishapp/vocabularypuzzel/:category" element={<VocabularyPuzzlePage />} />
           
         </Routes>
     )

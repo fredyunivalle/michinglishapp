@@ -11,12 +11,14 @@ import { setData as setDataThirdConditional, setLoading as setLoadingThirdCondit
 import { setData as setDataMixedConditional, setLoading as setLoadingMixedConditional, setError as setErrorMixedConditional } from "./store/mixedconditional";
 import { setData as setDataModalsDeduction, setLoading as setLoadingModalsDeduction, setError as setErrorModalsDeduction } from "./store/modalsdeduction";
 import { setData as setDataModalsPossibility, setLoading as setLoadingModalsPossibility, setError as setErrorModalsPossibility } from "./store/modalspossibility";
+import { setData as setDataVocabulary, setLoading as setLoadingVocabulary, setError as setErrorVocabulary } from "./store/vocabulary";
 
 import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';
 import { fetchDataHelper } from "./helpers/fetchDataHelper";
+import { fetchVocabularyData } from "./helpers/fetchDataHelper"
 import { AppRouter } from './router/AppRouter';
-import VocabularyMemoryModule from './components/modules/VocabularyMemoryModule';
+
 
 
 
@@ -96,24 +98,6 @@ function App() {
       `${import.meta.env.BASE_URL}adverbs`
     ); 
 
-  // Fetch for `mixedconditional`
-   // fetchDataHelper(
-   //   dispatch,
-   //   mixedconditionall,
-   //   mixedconditional,
-   //   mixedconditionall,
-   //   `${import.meta.env.BASE_URL}mixedconditional`
-   // );   
-   
-  // Fetch for `modalsdeduction`
-   // fetchDataHelper(
-   //   dispatch,
-   //   modalsdeduction,
-   //   modalsdeduction,
-   //   modalsdeduction,
-   //   `${import.meta.env.BASE_URL}modalsdeduction`
-   // );   
-   
   // Fetch for `modalspossibility`
     fetchDataHelper(
       dispatch,
@@ -122,16 +106,6 @@ function App() {
       setErrorModalsPossibility,
       `${import.meta.env.BASE_URL}modalspossibility`
     );  
-     
-
-     // Fetch for `zeroconditional`
-   // fetchDataHelper(
-   //   dispatch,
-   //   zeroconditional,
-   //   zeroconditional,
-   //  zeroconditional,
-   //   `${import.meta.env.BASE_URL}zeroconditional`
-   // ); 
     
     // Fetch for `Mixed Conditional`
     fetchDataHelper(
@@ -151,6 +125,15 @@ function App() {
       `${import.meta.env.BASE_URL}modalsdeduction`
     )
     
+    // Fetch for `Vocabulary Puzzle`
+    fetchVocabularyData(
+      dispatch,
+      setLoadingVocabulary,
+      setDataVocabulary, 
+      setErrorVocabulary,
+      `${import.meta.env.BASE_URL}`
+
+    )
   }, [dispatch]);
 
   const toggleSidebar = () => setShowSidebar(!showSidebar);
@@ -162,7 +145,7 @@ function App() {
 
       <div className="mt-5">
 
-        <VocabularyMemoryModule />
+        <AppRouter />
 
 
       </div>

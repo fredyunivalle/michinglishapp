@@ -5,9 +5,9 @@
     "socialLink": "@fredyballest"
   },
   "words": [
-    { "id": 1, "en": "happy", "es": "feliz" },
-    { "id": 2, "en": "tall", "es": "alto" },
-    { "id": 3, "en": "cold", "es": "frío" },
-    { "id": 4, "en": "strong", "es": "fuerte" }
+    { "id": 1, "en": "on", "es": "encima de" },
+    { "id": 2, "en": "under", "es": "debajo de" },
+    { "id": 3, "en": "behind", "es": "detrás de" },
+    { "id": 4, "en": "between", "es": "entre" }
   ]
 }

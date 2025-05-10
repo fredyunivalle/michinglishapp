@@ -5,9 +5,10 @@
     "socialLink": "@fredyballest"
   },
   "words": [
-    { "id": 1, "en": "happy", "es": "feliz" },
-    { "id": 2, "en": "tall", "es": "alto" },
-    { "id": 3, "en": "cold", "es": "frío" },
-    { "id": 4, "en": "strong", "es": "fuerte" }
+    { "id": 1, "en": "shirt", "es": "camisa" },
+    { "id": 2, "en": "pants", "es": "pantalones" },
+    { "id": 3, "en": "shoes", "es": "zapatos" },
+    { "id": 4, "en": "hat", "es": "sombrero" }
   ]
 }
+
