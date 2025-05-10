@@ -10,7 +10,7 @@ import { zeroconditionalSlice } from "./zeroconditional";
 import { thirdconditionalSlice } from "./thirdconditional";
 import { adverbsSlice } from "./adverbs";
 import { modalsdeductionSlice } from "./modalsdeduction";
-//import { modalspossibility } from "./modalspossibility";
+import { modalspossibilitySlice } from "./modalspossibility";
 //import { zeroconditional } from "./zeroconditional";
 
 export const store = configureStore({
@@ -25,7 +25,7 @@ export const store = configureStore({
     thirdconditional: thirdconditionalSlice.reducer,
     adverbs: adverbsSlice.reducer,
     modalsdeduction: modalsdeductionSlice.reducer,
-    //modalspossibility: modalspossibility.reducer,
+    modalspossibility: modalspossibilitySlice.reducer,
     //zeroconditional: zeroconditional.reducer,
   },
 });
