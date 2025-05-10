@@ -110,7 +110,7 @@ function App() {
       setDataModalsPossibility,
       setErrorModalsPossibility,
       `${import.meta.env.BASE_URL}modalspossibility`
-    );   
+    );
    
   // Fetch for `adverbs`
    // fetchDataHelper(
