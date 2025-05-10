@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Fredy Ball",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@fredyballest"
+  },
+  "words": [
+    { "id": 1, "en": "on", "es": "encima de" },
+    { "id": 2, "en": "under", "es": "debajo de" },
+    { "id": 3, "en": "behind", "es": "detrás de" },
+    { "id": 4, "en": "between", "es": "entre" }
+  ]
+}

@@ -1,5 +1,4 @@
 import { configureStore } from "@reduxjs/toolkit";
-
 import { dataSlice } from "./data";
 import { linkwordsSlice } from "./linkwords";
 import { verbsSlice } from "./verbs";
@@ -11,7 +10,7 @@ import { thirdconditionalSlice } from "./thirdconditional";
 import { adverbsSlice } from "./adverbs";
 import { modalsdeductionSlice } from "./modalsdeduction";
 import { modalspossibilitySlice } from "./modalspossibility";
-//import { zeroconditional } from "./zeroconditional";
+import { vocabularySlice } from "./vocabulary";
 
 export const store = configureStore({
   reducer: {
@@ -26,6 +25,6 @@ export const store = configureStore({
     adverbs: adverbsSlice.reducer,
     modalsdeduction: modalsdeductionSlice.reducer,
     modalspossibility: modalspossibilitySlice.reducer,
-    //zeroconditional: zeroconditional.reducer,
+    vocabularypuzzle : vocabularySlice.reducer,
   },
 });

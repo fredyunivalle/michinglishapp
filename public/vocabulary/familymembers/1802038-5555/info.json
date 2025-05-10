@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Fredy Ball",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@fredyballest"
+  },
+  "words": [
+    { "id": 1, "en": "mother", "es": "madre" },
+    { "id": 2, "en": "father", "es": "padre" },
+    { "id": 3, "en": "sister", "es": "hermana" },
+    { "id": 4, "en": "brother", "es": "hermano" }
+  ]
+}

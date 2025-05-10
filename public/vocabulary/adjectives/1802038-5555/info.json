@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Fredy Ball",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@fredyballest"
+  },
+  "words": [
+    { "id": 1, "en": "happy", "es": "feliz" },
+    { "id": 2, "en": "tall", "es": "alto" },
+    { "id": 3, "en": "cold", "es": "frío" },
+    { "id": 4, "en": "strong", "es": "fuerte" }
+  ]
+}
