@@ -1,13 +1,15 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { setData as setDataData, setLoading as setLoadingData, setError as setErrorData } from './store/data';
 import { setData as setDataLinkwords, setLoading as setLoadingLinkwords, setError as setErrorLinkwords } from "./store/linkwords";
 import { setData as setDataVerbs, setLoading as setLoadingVerbs, setError as setErrorVerbs } from "./store/verbs";
 import { setData as setDataAdjectives, setLoading as setLoadingAdjectives, setError as setErrorAdjectives } from "./store/adjectives";
+import { setData as setDataAdverbs, setLoading as setLoadingAdverbs, setError as setErrorAdverbs } from './store/adverbs';
 import { setData as setDataFirstConditional, setLoading as setLoadingFirstConditional, setError as setErrorFirstConditional } from "./store/firstconditional";
 import { setData as setDataZeroConditional, setLoading as setLoadingZeroConditional, setError as setErrorZeroConditional } from "./store/zeroconditional";
 import { setData as setDataThirdConditional, setLoading as setLoadingThirdConditional, setError as setErrorThirdConditional } from "./store/thirdconditional";
 import { setData as setDataMixedConditional, setLoading as setLoadingMixedConditional, setError as setErrorMixedConditional } from "./store/mixedconditional";
+import { setData as setDataModalsDeduction, setLoading as setLoadingModalsDeduction, setError as setErrorModalsDeduction } from "./store/modalsdeduction";
 import { setData as setDataModalsPossibility, setLoading as setLoadingModalsPossibility, setError as setErrorModalsPossibility } from "./store/modalspossibility";
 
 import AppNavbar from './components/Navbar/AppNavbar';
@@ -85,6 +87,15 @@ function App() {
       `${import.meta.env.BASE_URL}thirdconditional`
     );
 
+    // Fetch for `adverbs`
+    fetchDataHelper(
+      dispatch,
+      setLoadingAdverbs,
+      setDataAdverbs,
+      setErrorAdverbs,
+      `${import.meta.env.BASE_URL}adverbs`
+    ); 
+
   // Fetch for `mixedconditional`
    // fetchDataHelper(
    //   dispatch,
@@ -110,16 +121,8 @@ function App() {
       setDataModalsPossibility,
       setErrorModalsPossibility,
       `${import.meta.env.BASE_URL}modalspossibility`
-    );
-   
-  // Fetch for `adverbs`
-   // fetchDataHelper(
-   //   dispatch,
-   //   adverbs,
-   //   adverbs,
-   //  adverbs,
-   //   `${import.meta.env.BASE_URL}adverbs`
-   // );   
+    );  
+     
 
      // Fetch for `zeroconditional`
    // fetchDataHelper(
@@ -138,6 +141,15 @@ function App() {
       setErrorMixedConditional,
       `${import.meta.env.BASE_URL}mixedconditional`
     );
+    
+    // Fetch for `Modals Deduction`
+    fetchDataHelper(
+      dispatch,
+      setLoadingModalsDeduction,
+      setDataModalsDeduction,
+      setErrorModalsDeduction,
+      `${import.meta.env.BASE_URL}modalsdeduction`
+    )
     
   }, [dispatch]);
 

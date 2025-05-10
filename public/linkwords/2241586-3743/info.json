@@ -1,0 +1,46 @@
+{
+    "user": {
+      "username": "Santiago Ruiz",
+      "profileImage": "https://i.pinimg.com/736x/28/ed/f3/28edf33c04b404c3ea25f643b570a7b9.jpg",
+      "socialLink": "@Sant1Ruiz"
+    },
+    "topics": [
+      {
+        "topic": "linkwords",
+        "questions": [
+          {
+            "question": "I missed the bus; _____, I had to walk to school.",
+            "options": [
+              "nevertheless",
+              "for instance",
+              "in addition",
+              "even so"
+            ],
+            "answer": "nevertheless"
+          },
+          {
+            "question": "You should double-check your answers, _____ you might make unnecessary mistakes.",
+            "options": [
+              "otherwise",
+              "meanwhile",
+              "therefore",
+              "as soon as"
+            ],
+            "answer": "otherwise"
+          },
+          {
+            "question": "_____ she had all the qualifications, they chose another candidate.",
+            "options": [
+              "Although",
+              "Because of",
+              "Due to",
+              "Furthermore"
+            ],
+            "answer": "Although"
+          }
+        ]
+      }
+    ]
+}
+
+  

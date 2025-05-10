@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Santiago castañeda duarte",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4E03AQHQXAAwMyB-Rw/profile-displayphoto-shrink_400_400/B4EZXgb7MhHcAg-/0/1743227174540?e=1752105600&v=beta&t=CMJSHNKaE54SV14IPcUmoXFzpiUgVbMEQ7BP_MtTQe4",
+    "socialLink": "@santycast_04"
+  },
+  "topics": [
+    {
+      "topic": "linkwords",
+      "questions": [
+        {
+          "question": "He won't get the job _____ he improves his communication skills.",
+          "options": [
+            "unless",
+            "so",
+            "because",
+            "although"
+          ],
+          "answer": "unless"
+        },
+        {
+          "question": "We left early _____ we wanted to avoid traffic.",
+          "options": [
+            "because",
+            "but",
+            "unless",
+            "while"
+          ],
+          "answer": "because"
+        },
+        {
+          "question": "_____ I was tired, I finished the entire project.",
+          "options": [
+            "Although",
+            "Because",
+            "Unless",
+            "While"
+          ],
+          "answer": "Although"
+        }
+      ]
+    }
+  ]
+}

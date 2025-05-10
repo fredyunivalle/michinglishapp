@@ -1,0 +1,165 @@
+{
+    "user": {
+      "username": "JohhanZammir",
+      "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sagrado_Cora%C3%A7%C3%A3o_de_Jesus_-_escola_portuguesa%2C_s%C3%A9culo_XIX.png/800px-Sagrado_Cora%C3%A7%C3%A3o_de_Jesus_-_escola_portuguesa%2C_s%C3%A9culo_XIX.png",
+      "socialLink": "@Zammir117"
+    },
+    "topics": [
+      {
+        "topic": "modals deduction",
+        "questions": [
+          {
+            "question": "Complete the sentence: 'That can't be her brother. He _____ be older.'",
+            "options": [
+              "must",
+              "should",
+              "can",
+              "must have"
+            ],
+            "answer": "must"
+          },
+          {
+            "question": "Which option expresses a strong conclusion about a past event?",
+            "options": [
+              "He must have taken the wrong train.",
+              "He might take the wrong train.",
+              "He should take the wrong train.",
+              "He can have taken the wrong train."
+            ],
+            "answer": "He must have taken the wrong train."
+          },
+          {
+            "question": "Choose the best modal: 'This room is a mess. Someone _____ have broken in.'",
+            "options": [
+              "might",
+              "must",
+              "can't",
+              "should"
+            ],
+            "answer": "must"
+          },
+          {
+            "question": "Which sentence shows a deduction about something that is likely not true?",
+            "options": [
+              "She must be at the meeting.",
+              "She can't be at the meeting.",
+              "She might be at the meeting.",
+              "She should be at the meeting."
+            ],
+            "answer": "She can't be at the meeting."
+          },
+          {
+            "question": "Complete the sentence: 'He looks very pale. He _____ be feeling well.'",
+            "options": [
+              "must",
+              "can't",
+              "might",
+              "must have"
+            ],
+            "answer": "can't"
+          },
+          {
+            "question": "What modal best completes the sentence: 'The lights are on. They _____ be home.'",
+            "options": [
+              "must",
+              "might",
+              "can't",
+              "should have"
+            ],
+            "answer": "must"
+          },
+          {
+            "question": "Choose the sentence that expresses past impossibility.",
+            "options": [
+              "They might have arrived late.",
+              "They can't have arrived on time.",
+              "They should have arrived early.",
+              "They must have arrived late."
+            ],
+            "answer": "They can't have arrived on time."
+          },
+          {
+            "question": "Which of these expresses a deduction in the present?",
+            "options": [
+              "He must be tired.",
+              "He must have tired.",
+              "He should tired.",
+              "He can't tired."
+            ],
+            "answer": "He must be tired."
+          },
+          {
+            "question": "Complete the sentence: 'I haven’t seen him in weeks. He _____ moved away.'",
+            "options": [
+              "must have",
+              "should have",
+              "can't",
+              "might"
+            ],
+            "answer": "must have"
+          },
+          {
+            "question": "Which sentence expresses uncertainty about a present situation?",
+            "options": [
+              "She might be studying now.",
+              "She must be studying now.",
+              "She can't be studying now.",
+              "She should be studying now."
+            ],
+            "answer": "She might be studying now."
+          },
+          {
+            "question": "Choose the correct modal: 'He _____ be the one who took the book. He wasn't here.'",
+            "options": [
+              "must",
+              "might",
+              "can't",
+              "should"
+            ],
+            "answer": "can't"
+          },
+          {
+            "question": "Which option shows a logical conclusion about the present?",
+            "options": [
+              "They must be hungry; they skipped lunch.",
+              "They might have been hungry.",
+              "They should hungry.",
+              "They can't be hungry now."
+            ],
+            "answer": "They must be hungry; they skipped lunch."
+          },
+          {
+            "question": "Which sentence is an example of strong deduction in the past?",
+            "options": [
+              "She must have been very tired.",
+              "She might be very tired.",
+              "She can't be very tired.",
+              "She should tired."
+            ],
+            "answer": "She must have been very tired."
+          },
+          {
+            "question": "Complete the sentence: 'He _____ have known the answer if he had studied.'",
+            "options": [
+              "must",
+              "might",
+              "can't",
+              "mustn't"
+            ],
+            "answer": "might"
+          },
+          {
+            "question": "Which sentence is a weak deduction about the past?",
+            "options": [
+              "They might have missed the call.",
+              "They must have missed the call.",
+              "They can't have missed the call.",
+              "They should have missed the call."
+            ],
+            "answer": "They might have missed the call."
+          }
+        ]
+      }
+    ]
+  }
+  

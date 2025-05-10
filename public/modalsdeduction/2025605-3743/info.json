@@ -1,0 +1,55 @@
+{
+    "user": {
+      "username": "Carlos Castillo",
+      "profileImage": "https://i.pinimg.com/736x/1e/ff/53/1eff530e292d13cb4088062614b9eed8.jpg",
+      "socialLink": "@carloscastilloroa"
+    },
+    "topics": [
+      {
+        "topic": "modals deduction",
+        "questions": [
+          {
+            "question": "His phone is off and no one has seen him. He _____ be out of town.",
+            "options": [
+              "must",
+              "could",
+              "might",
+              "can't"
+            ],
+            "answer": "might"
+          },
+          {
+            "question": "She failed the exam. She _____ have studied enough.",
+            "options": [
+              "must not",
+              "can't",
+              "might",
+              "should"
+            ],
+            "answer": "must not"
+          },
+          {
+            "question": "This package is addressed to someone else. It _____ be for me.",
+            "options": [
+              "must",
+              "can't",
+              "should",
+              "could"
+            ],
+            "answer": "can't"
+          },
+          {
+            "question": "You heard a noise upstairs? It _____ have been the cat.",
+            "options": [
+              "must",
+              "might",
+              "can't",
+              "shouldn't"
+            ],
+            "answer": "might"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,3 +1,4 @@
+/* eslint-env node, jest */
 const fs = require('fs');
 const path = require('path');
 
@@ -88,6 +89,6 @@ validateFolderCategory('firstconditional');
 validateFolderCategory('zeroconditional');
 validateFolderCategory('thirdconditional');
 validateFolderCategory('mixedconditional');
-// validateFolderCategory('modalsdeduction');
+validateFolderCategory('modalsdeduction');
 validateFolderCategory('modalspossibility');
-// validateFolderCategory('adverbs');
+validateFolderCategory('adverbs');

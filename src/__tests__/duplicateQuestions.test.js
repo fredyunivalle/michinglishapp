@@ -1,3 +1,4 @@
+/* eslint-env node, jest */
 const fs = require('fs');
 const path = require('path');
 
@@ -67,8 +68,7 @@ runDuplicateTestForDirectory('adjectives');
 runDuplicateTestForDirectory('firstconditional');
 runDuplicateTestForDirectory('zeroconditional');
 runDuplicateTestForDirectory('thirdconditional');
+runDuplicateTestForDirectory('adverbs');
 runDuplicateTestForDirectory('mixedconditional');
-// runDuplicateTestForDirectory('modalsdeduction');
+runDuplicateTestForDirectory('modalsdeduction');
 runDuplicateTestForDirectory('modalspossibility');
-// runDuplicateTestForDirectory('adverbs');
-// runDuplicateTestForDirectory('zeroconditional');
