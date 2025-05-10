@@ -10,6 +10,7 @@ import { setData as setDataZeroConditional, setLoading as setLoadingZeroConditio
 import { setData as setDataThirdConditional, setLoading as setLoadingThirdConditional, setError as setErrorThirdConditional } from "./store/thirdconditional";
 import { setData as setDataMixedConditional, setLoading as setLoadingMixedConditional, setError as setErrorMixedConditional } from "./store/mixedconditional";
 import { setData as setDataModalsDeduction, setLoading as setLoadingModalsDeduction, setError as setErrorModalsDeduction } from "./store/modalsdeduction";
+import { setData as setDataModalsPossibility, setLoading as setLoadingModalsPossibility, setError as setErrorModalsPossibility } from "./store/modalspossibility";
 
 import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';
@@ -114,13 +115,13 @@ function App() {
    // );   
    
   // Fetch for `modalspossibility`
-   // fetchDataHelper(
-   //   dispatch,
-   //   modalspossibility,
-   //   modalspossibility,
-   //  modalspossibility,
-   //   `${import.meta.env.BASE_URL}modalspossibility`
-   // );   
+    fetchDataHelper(
+      dispatch,
+      setLoadingModalsPossibility,
+      setDataModalsPossibility,
+      setErrorModalsPossibility,
+      `${import.meta.env.BASE_URL}modalspossibility`
+    );  
      
 
      // Fetch for `zeroconditional`
