@@ -104,7 +104,7 @@ function App() {
    // );   
    
   // Fetch for `modalspossibility`
-   fetchDataHelper(
+    fetchDataHelper(
       dispatch,
       setLoadingModalsPossibility,
       setDataModalsPossibility,
