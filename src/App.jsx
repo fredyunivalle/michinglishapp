@@ -15,7 +15,7 @@ import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';
 import { fetchDataHelper } from "./helpers/fetchDataHelper";
 import { AppRouter } from './router/AppRouter';
-
+import VocabularyMemoryModule from './components/modules/VocabularyMemoryModule';
 
 
 
@@ -161,7 +161,7 @@ function App() {
 
       <div className="mt-5">
 
-        <AppRouter />
+        <VocabularyMemoryModule />
 
 
       </div>
