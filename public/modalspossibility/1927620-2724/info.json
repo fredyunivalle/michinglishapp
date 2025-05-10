@@ -6,10 +6,9 @@
   },
   "topics": [
     {
-      "topic": "ModalsPossibility",
+      "topic": "modals_possibility",
       "questions": [
-        [
-  {
+        {
     "question": "Choose the correct modal to complete the sentence: 'You _____ see a doctor if the pain continues.'",
     "options": [
       "must",
@@ -40,9 +39,6 @@
     "answer": "might"
   }
 ]
-
-        
-      ]
-    }
-  ]
+}
+]
 }
