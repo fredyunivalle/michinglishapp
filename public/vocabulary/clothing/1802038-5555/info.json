@@ -1,0 +1,14 @@
+{
+  "user": {
+    "username": "Fredy Ball",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@fredyballest"
+  },
+  "words": [
+    { "id": 1, "en": "shirt", "es": "camisa" },
+    { "id": 2, "en": "pants", "es": "pantalones" },
+    { "id": 3, "en": "shoes", "es": "zapatos" },
+    { "id": 4, "en": "hat", "es": "sombrero" }
+  ]
+}
+

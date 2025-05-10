@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Fredy Ball",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@fredyballest"
+  },
+  "words": [
+    { "id": 1, "en": "dog", "es": "perro" },
+    { "id": 2, "en": "cat", "es": "gato" },
+    { "id": 3, "en": "elephant", "es": "elefante" },
+    { "id": 4, "en": "bird", "es": "pájaro" }
+  ]
+}

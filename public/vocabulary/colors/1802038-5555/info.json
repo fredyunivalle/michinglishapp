@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Fredy Ball",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@fredyballest"
+  },
+  "words": [
+    { "id": 1, "en": "red", "es": "rojo" },
+    { "id": 2, "en": "blue", "es": "azul" },
+    { "id": 3, "en": "green", "es": "verde" },
+    { "id": 4, "en": "yellow", "es": "amarillo" }
+  ]
+}
