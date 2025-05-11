@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
+import { useLocation } from 'react-router-dom';
+import catTeacher from './assets/cat-teacher.png';
 import { setData as setDataData, setLoading as setLoadingData, setError as setErrorData } from './store/data';
 import { setData as setDataLinkwords, setLoading as setLoadingLinkwords, setError as setErrorLinkwords } from "./store/linkwords";
 import { setData as setDataVerbs, setLoading as setLoadingVerbs, setError as setErrorVerbs } from "./store/verbs";
@@ -25,6 +27,7 @@ import { AppRouter } from './router/AppRouter';
 function App() {
   const dispatch = useDispatch();
   const [showSidebar, setShowSidebar] = useState(false);
+  const location = useLocation();
 
   useEffect(() => {
     fetchDataHelper(
@@ -137,14 +140,27 @@ function App() {
   }, [dispatch]);
 
   const toggleSidebar = () => setShowSidebar(!showSidebar);
-
+  console.log(location.pathname)
   return (
     <>
       <AppNavbar onToggleSidebar={toggleSidebar} />
       <Sidebar show={showSidebar} onClose={toggleSidebar} />
-
-      <div className="mt-5">
-
+     
+      <div className="mt-5 text-center">
+          {location.pathname === '/michinglishapp/' && (
+        <>
+          <img 
+            src={catTeacher} 
+            alt="Michinglish teacher cat" 
+            width="300" 
+            height="auto" 
+            style={{ maxWidth: '90%', height: 'auto' }}
+          />
+          <h2 className="mt-3">Welcome to MichinglishAPP!</h2>
+          <p>Learn English through games, quizzes, and... cats!</p>
+        </>
+      )}
+     
         <AppRouter />
 
 
