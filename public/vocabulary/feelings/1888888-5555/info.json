@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Diana Smile",
+    "profileImage": "https://randomuser.me/api/portraits/women/44.jpg",
+    "socialLink": "@dianasmile_44"
+  },
+  "words": [
+    { "id": 1, "en": "beautiful", "es": "hermosa" },
+    { "id": 2, "en": "angry", "es": "enojado" },
+    { "id": 3, "en": "smart", "es": "inteligente" },
+    { "id": 4, "en": "lazy", "es": "perezoso" }
+  ]
+}
