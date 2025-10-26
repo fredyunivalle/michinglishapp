@@ -7,7 +7,7 @@
   "words": [
     { "id": 1, "en": "happy", "es": "feliz" },
     { "id": 2, "en": "sad", "es": "triste" },
-    { "id": 3, "en": "poor", "es": "pobre" },
+    { "id": 3, "en": "angry", "es": "enojado" },
     { "id": 4, "en": "scared", "es": "asustado" }
   ]
 }
