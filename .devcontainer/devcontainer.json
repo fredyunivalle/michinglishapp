@@ -1,7 +1,11 @@
 {
   "name": "Node 20 Environment",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
-  "settings": {
-    "terminal.integrated.defaultProfile.linux": "bash"
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
   }
 }
