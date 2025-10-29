@@ -125,8 +125,6 @@ When the group branch is stable and all contributions are integrated:
 - Open **one** PR from `feature/Group9` → `develop` on `fredyunivalle/michinglishapp`.
 - Include:
   - Summary of student folders added.
-  - Checklist of validations completed.
-  - Screenshots/GIFs and test output.
 
 ---
 
