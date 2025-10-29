@@ -1,0 +1,94 @@
+{
+  "user": {
+    "username": "es-sai-fi",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NixOS_17.09_Hummingbird_logo.png",
+    "socialLink": ""
+  },
+  "topics": [
+    {
+      "topic": "zero conditional",
+      "questions": [
+        {
+          "question": "If you don't water the plants, what happens?",
+          "options": [
+            "They die.",
+            "They dies.",
+            "They are dying.",
+            "They will die."
+          ],
+          "answer": "They die."
+        },
+        {
+          "question": "If it rains, what do people usually do?",
+          "options": [
+            "They take an umbrella.",
+            "They taking an umbrella.",
+            "They took an umbrella.",
+            "They will take an umbrella."
+          ],
+          "answer": "They take an umbrella."
+        },
+        {
+          "question": "Choose the correct zero conditional sentence:",
+          "options": [
+            "If you heat ice, it melts.",
+            "If you heated ice, it melts.",
+            "If you heat ice, it will melt.",
+            "If you heat ice, it melted."
+          ],
+          "answer": "If you heat ice, it melts."
+        },
+        {
+          "question": "What happens if you drop a glass on the floor?",
+          "options": [
+            "It breaks.",
+            "It broke.",
+            "It breaking.",
+            "It will break."
+          ],
+          "answer": "It breaks."
+        },
+        {
+          "question": "If you touch fire, what happens?",
+          "options": [
+            "You get burned.",
+            "You gets burned.",
+            "You getting burned.",
+            "You got burned."
+          ],
+          "answer": "You get burned."
+        },
+        {
+          "question": "Choose the sentence that is NOT a zero conditional:",
+          "options": [
+            "If you press this button, the light turns on.",
+            "If you eat too much, you feel sick.",
+            "If you study hard, you will pass.",
+            "If you mix yellow and red, you get orange."
+          ],
+          "answer": "If you study hard, you will pass."
+        },
+        {
+          "question": "If people don’t sleep enough, what happens?",
+          "options": [
+            "They feel tired.",
+            "They feels tired.",
+            "They will feel tired.",
+            "They feeling tired."
+          ],
+          "answer": "They feel tired."
+        },
+        {
+          "question": "If the temperature drops below zero, what happens to water?",
+          "options": [
+            "It freezes.",
+            "It freezing.",
+            "It froze.",
+            "It will freeze."
+          ],
+          "answer": "It freezes."
+        }
+      ]
+    }
+  ]
+}
