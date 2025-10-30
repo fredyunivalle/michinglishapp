@@ -1,0 +1,29 @@
+{
+  "user": {
+    "username": "es-sai-fi",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NixOS_17.09_Hummingbird_logo.png",
+    "socialLink": "@es-sai-fi"
+  },
+  "words": [
+    {
+      "id": 1,
+      "en": "jacket",
+      "es": "chaqueta"
+    },
+    {
+      "id": 2,
+      "en": "scarf",
+      "es": "bufanda"
+    },
+    {
+      "id": 3,
+      "en": "gloves",
+      "es": "guantes"
+    },
+    {
+      "id": 4,
+      "en": "socks",
+      "es": "calcetines"
+    }
+  ]
+}
