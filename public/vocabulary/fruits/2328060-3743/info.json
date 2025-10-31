@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Nicolás Salazar",
+    "profileImage": "https://www.pinterest.com/ideas/batman-logo-png/920867114125/",
+    "socialLink": "@NickCoder1309"
+  },
+  "words": [
+    { "id": 1, "en": "watermelon", "es": "melón" },
+    { "id": 2, "en": "pineapple", "es": "piña" },
+    { "id": 3, "en": "pear", "es": "pera" },
+    { "id": 4, "en": "strawberry", "es": "fresa" }
+  ]
+}
