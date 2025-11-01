@@ -1,12 +1,12 @@
-name: Run Tests on Develop
+name: Run Tests on feature/Group3 Branch
 
 on:
   push:
     branches:
-      - develop
+      - feature/Group3
   pull_request:
     branches:
-      - develop
+      - feature/Group3
 
 jobs:
   test:
