@@ -1,4 +1,4 @@
-name: Run Tests on Develop
+name: Run Tests on feature/Group3
 
 on:
   push:
