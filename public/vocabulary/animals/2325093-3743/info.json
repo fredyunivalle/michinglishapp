@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "juanpab05",
+    "profileImage": "https://avatars.githubusercontent.com/u/165406198?s=400&v=4",
+    "socialLink": "@juanpab05"
+  },
+  "words": [
+    { "id": 1, "en": "raccoon", "es": "mapache" },
+    { "id": 2, "en": "monkey", "es": "mono" },
+    { "id": 3, "en": "horse", "es": "caballo" },
+    { "id": 4, "en": "donkey", "es": "burro" }
+  ]
+}

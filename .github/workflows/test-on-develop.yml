@@ -1,4 +1,4 @@
-name: Run Tests on feature/Group3
+name: Run Tests on feature/Group3 Branch
 
 on:
   push:
@@ -32,6 +32,6 @@ jobs:
 
       - name: Run tests
         run: npm test
-
+      
       - name: Test coverage report
         run: npm run coverage
