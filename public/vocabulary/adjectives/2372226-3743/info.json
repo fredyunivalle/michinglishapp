@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Jhonier Mendez",
+    "profileImage": "https://drive.google.com/file/d/1WdNKA65BSBKaVQMA3mGXfCJEcHBcoCks/view?usp=sharing",
+    "socialLink": "@jhonier.mendez.3"
+  },
+  "words": [
+    { "id": 1, "en": "kind", "es": "amable" },
+    { "id": 2, "en": "friendly", "es": "amistoso" },
+    { "id": 3, "en": "funny", "es": "divertido" },
+    { "id": 4, "en": "clever", "es": "astuto" }
+  ]
+}
