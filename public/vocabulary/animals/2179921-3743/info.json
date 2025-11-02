@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Cristian Pinzón",
+    "profileImage": "https://avatars.githubusercontent.com/u/115189338?v=4",
+    "socialLink": "@kmilo210"
+  },
+  "words": [
+    { "id": 1, "en": "duck", "es": "pato" },
+    { "id": 2, "en": "owl", "es": "búho" },
+    { "id": 3, "en": "bull", "es": "toro" },
+    { "id": 4, "en": "lizard", "es": "lagarto" }
+  ]
+}
