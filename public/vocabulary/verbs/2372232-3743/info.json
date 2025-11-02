@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Juan Pablo",
+    "profileImage": "https://i.pinimg.com/736x/49/01/62/490162c92d4fd6e7dced7d49ea000bef.jpg",
+    "socialLink": "@yu4nm"
+  },
+  "words": [
+    { "id": 1, "en": "judge", "es": "juzgar" },
+    { "id": 2, "en": "show", "es": "mostrar" },
+    { "id": 3, "en": "jump", "es": "saltar" },
+    { "id": 4, "en": "remember", "es": "recordar" }
+  ]
+}
