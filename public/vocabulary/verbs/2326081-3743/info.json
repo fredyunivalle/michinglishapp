@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Andrey Quiceno",
+    "profileImage": "https://e1.pxfuel.com/desktop-wallpaper/90/820/desktop-wallpaper-harry-potter-daniel-radcliffe-1509x2100-high-quality-high-definition-daniel-radcliffe-harry-potter.jpg",
+    "socialLink": "@andreyquicenoc"
+  },
+  "words": [
+    { "id": 1, "en": "stumble", "es": "tropezar" },
+    { "id": 2, "en": "hesitate", "es": "dudar" },
+    { "id": 3, "en": "whisper", "es": "susurrar" },
+    { "id": 4, "en": "avoid", "es": "evitar" }
+  ]
+}
