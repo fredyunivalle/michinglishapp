@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Juliana",
+    "profileImage": "https://i.pinimg.com/736x/6b/ba/ff/6bbaff45cc76515c260f86624209962a.jpg",
+    "socialLink": "@julianamlb"
+  },
+  "words": [
+    { "id": 1, "en": "bald", "es": "calvo" },
+    { "id": 2, "en": "interesting", "es": "interesante" },
+    { "id": 3, "en": "delicious", "es": "delicioso" },
+    { "id": 4, "en": "disgusting", "es": "asqueroso" }
+  ]
+}
