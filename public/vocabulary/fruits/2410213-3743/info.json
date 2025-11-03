@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Hector Daniel Carabali",
+    "profileImage": "https://avatars.githubusercontent.com/u/129810418?v=4",
+    "socialLink": "@DanielValencia10"
+  },
+  "words": [
+    { "id": 1, "en": "strawberry", "es": "fresa" },
+    { "id": 2, "en": "pineapple", "es": "piña" },
+    { "id": 3, "en": "watermelon", "es": "sandía" },
+    { "id": 4, "en": "pear", "es": "pera" }
+  ]
+}
