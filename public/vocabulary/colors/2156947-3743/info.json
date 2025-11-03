@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Nicole Narvaez",
+    "profileImage": "https://i.pinimg.com/1200x/94/da/57/94da5757c8a06bc9a02dfa9430021af7.jpg",
+    "socialLink": "@nicolenarvaezm"
+  },
+  "words": [
+    { "id": 1, "en": "Purple", "es": "Morado" },
+    { "id": 2, "en": "Ivory", "es": "Marfíl" },
+    { "id": 3, "en": "Scarlet", "es": "Escarlata" },
+    { "id": 4, "en": "Pink", "es": "Rosa" }
+  ]
+}
