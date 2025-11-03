@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Nathalia Ortiz",
+    "profileImage": "https://i.pinimg.com/736x/1b/6e/29/1b6e29492541c78166ea52060bd686fa.jpg",
+    "socialLink": "@_natys25_"
+  },
+  "words": [
+    { "id": 1, "en": "hummingbird", "es": "Colibrí" },
+    { "id": 2, "en": "toad", "es": "Sapo" },
+    { "id": 3, "en": "eel", "es": "Anguila" },
+    { "id": 4, "en": "wildebeest", "es": "Ñu" }
+  ]
+}
