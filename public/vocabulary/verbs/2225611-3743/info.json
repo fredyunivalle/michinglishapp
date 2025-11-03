@@ -1,0 +1,14 @@
+{
+    "user": {
+      "username": "Jose Daniel Trujillo",
+      "profileImage": "https://st2.depositphotos.com/3079665/6151/v/450/depositphotos_61516741-stock-illustration-panda-in-welcoming-gesture.jpg",
+      "socialLink": "@DanielTrujillo01"
+    },
+    "words": [
+      { "id": 1, "en": "jump", "es": "saltar" },
+      { "id": 2, "en": "cook", "es": "cocinar" },
+      { "id": 3, "en": "play", "es": "jugar" },
+      { "id": 4, "en": "exorcise", "es": "exorcizar" }
+    ]
+  }
+  
