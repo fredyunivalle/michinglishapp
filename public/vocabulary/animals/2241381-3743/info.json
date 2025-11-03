@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Fernando Cardona",
+    "profileImage": "https://i.pinimg.com/736x/42/e0/1b/42e01bedabf998fa8ab30a35cf018329.jpg",
+    "socialLink": "@fer.cg5"
+  },
+  "words": [
+    { "id": 1, "en": "mole", "es": "topo" },
+    { "id": 2, "en": "lynx", "es": "lince" },
+    { "id": 3, "en": "elk", "es": "alce" },
+    { "id": 4, "en": "badger", "es": "tejón" }
+  ]
+}
