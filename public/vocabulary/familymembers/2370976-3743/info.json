@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Esteban Cordoba",
+    "profileImage": "https://bomb-rush-cyberfunk.fandom.com/wiki/Felix?file=SecondDream17.jpg",
+    "socialLink": "@ssxm11"
+  },
+  "words": [
+    { "id": 1, "en": "cousin", "es": "primo/prima" },
+    { "id": 2, "en": "uncle", "es": "tío" },
+    { "id": 3, "en": "grandmother", "es": "abuela" },
+    { "id": 4, "en": "son", "es": "hijo" }
+  ]
+}
