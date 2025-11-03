@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Juan José Padilla Cuéllar",
+    "profileImage": "https://www.tumblr.com/thee-last-cigarette/26797483155/el-triangulo-eléctrico-de-cosmo",
+    "socialLink": "@Juanjo200"
+  },
+  "words": [
+    { "id": 1, "en": "fight", "es": "pelear" },
+    { "id": 2, "en": "sleep", "es": "dormir" },
+    { "id": 3, "en": "think", "es": "pensar" },
+    { "id": 4, "en": "hate", "es": "odiar" }
+  ]
+}
