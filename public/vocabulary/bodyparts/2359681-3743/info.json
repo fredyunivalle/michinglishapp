@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Juan Sebastian Rodas Ramirez",
+    "profileImage": "https://via.placeholder.com/150",
+    "socialLink": "@2359681-3743"
+  },
+  "words": [
+    { "id": 1, "en": "nose",     "es": "nariz" },
+    { "id": 2, "en": "mouth",    "es": "boca" },
+    { "id": 3, "en": "ear",      "es": "oreja" },
+    { "id": 4, "en": "shoulder", "es": "hombro" }
+  ]
+}
