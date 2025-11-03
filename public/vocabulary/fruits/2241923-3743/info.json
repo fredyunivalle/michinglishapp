@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Sara Suarez",
+    "profileImage": "https://i.ibb.co/zWkhf38L/imagen-2025-11-02-220855413.png",
+    "socialLink": "@SaraSuarez"
+  },
+  "words": [
+    { "id": 1, "en": "kiwi", "es": "kiwi" },
+    { "id": 2, "en": "pineapple", "es": "piña" },
+    { "id": 3, "en": "strawberries", "es": "fresas" },
+    { "id": 4, "en": "watermelon", "es": "sandia" }
+  ]
+}
