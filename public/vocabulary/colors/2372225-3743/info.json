@@ -1,0 +1,13 @@
+{
+    "user": {
+      "username": "Cristian Guaza",
+      "profileImage": "https://i.scdn.co/image/ab67616d0000b2737cd9c72aa7f5e75aabd40077",
+      "socialLink": "@cristianguaza"
+    },
+    "words": [
+      { "id": 1, "en": "purple", "es": "morado" },
+      { "id": 2, "en": "orange", "es": "naranja" },
+      { "id": 3, "en": "pink", "es": "rosado" },
+      { "id": 4, "en": "black", "es": "negro" }
+    ]
+  }
