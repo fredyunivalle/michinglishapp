@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Kevin Ramírez",
+    "profileImage": "https://yt3.googleusercontent.com/ytc/AIdro_lQmXobRq06xPgB7qP5-gwxzycEv1oIInjNdgJMV0pJEA=s160-c-k-c0x00ffffff-no-rj",
+    "socialLink": "@KevinRamirezAmaya"
+  },
+  "words": [
+    { "id": 1, "en": "bored", "es": "aburrido" },
+    { "id": 2, "en": "tired", "es": "cansado" },
+    { "id": 3, "en": "disappointed", "es": "decepcionado" },
+    { "id": 4, "en": "lonely", "es": "solitario" }
+  ]
+}
