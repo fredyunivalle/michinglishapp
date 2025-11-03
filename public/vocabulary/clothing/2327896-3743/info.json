@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Lau Salazar",
+    "profileImage": "https://i.pinimg.com/736x/d7/bc/cd/d7bccdf79f69be2078f1dd29355a72b9.jpg",
+    "socialLink": "@Lau2S"
+  },
+  "words": [
+    { "id": 1, "en": "skirt", "es": "falda" },
+    { "id": 2, "en": "scarf", "es": "bufanda" },
+    { "id": 3, "en": "dress", "es": "vestido" },
+    { "id": 4, "en": "tie", "es": "corbata" }
+  ]
+}
