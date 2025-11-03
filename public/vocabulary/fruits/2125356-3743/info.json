@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Jorge Alvarez",
+    "profileImage": "https://a.storyblok.com/f/178900/960x540/9a75be9716/solo-leveling-episode-23.jpg/m/filters:quality(95)format(webp)",
+    "socialLink": "@jeav_121"
+  },
+  "words": [
+    { "id": 1, "en": "tangerine", "es": "mandarina" },
+    { "id": 2, "en": "pear", "es": "pera" },
+    { "id": 3, "en": "soursop", "es": "guanábana" },
+    { "id": 4, "en": "blueberry", "es": "arandano" }
+  ]
+}
