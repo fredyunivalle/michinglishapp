@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Jhonier Mendez",
+    "profileImage": "https://i.postimg.cc/V68f8Df0/Whats-App-Image-2025-11-02-at-1-09-22-PM.jpg",
+    "socialLink": "@jhonier.mendez.3"
+  },
+  "words": [
+    { "id": 1, "en": "kind", "es": "amable" },
+    { "id": 2, "en": "friendly", "es": "amistoso" },
+    { "id": 3, "en": "funny", "es": "divertido" },
+    { "id": 4, "en": "clever", "es": "astuto" }
+  ]
+}
