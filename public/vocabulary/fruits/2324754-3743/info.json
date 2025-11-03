@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Valentina Sánchez",
+    "profileImage": "https://i.pinimg.com/originals/10/f9/ba/10f9baa059bd88c53282889537b986ee.jpg",
+    "socialLink": "@valu420"
+  },
+  "words": [
+    { "id": 1, "en": "watermelon", "es": "sandia" },
+    { "id": 2, "en": "melon", "es": "melon" },
+    { "id": 3, "en": "pear", "es": "pera" },
+    { "id": 4, "en": "strawberry", "es": "fresa" }
+  ]
+}
