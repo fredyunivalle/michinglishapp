@@ -1,0 +1,14 @@
+{
+  "user": {
+    "username": "Sergio Sanchez",
+    "profileImage": "https://avatars.githubusercontent.com/u/115745332?s=400&u=b0c45c5700f4c605d37bd2db2a88194dceaf2f8f&v=4",
+    "socialLink": "@reals3rgio2022"
+  },
+  "words": [
+    { "id": 1, "en": "Hair", "es": "cabello" },
+    { "id": 2, "en": "finger", "es": "dedo" },
+    { "id": 3, "en": "foot", "es": "pie" },
+    { "id": 4, "en": "tongue", "es": "lengua" }
+  ]
+}
+
