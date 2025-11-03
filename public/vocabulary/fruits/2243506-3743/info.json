@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Pablo B.",
+    "profileImage": "https://e1.pxfuel.com/desktop-wallpaper/944/146/desktop-wallpaper-anime-one-piece-portgas-d-ace-%E2%80%A2-for-you-one-piece-red-aesthetic.jpg",
+    "socialLink": "@PabloBecerraDev"
+  },
+  "words": [
+    { "id": 1, "en": "pineapple", "es": "piña" },
+    { "id": 2, "en": "strawberry", "es": "fresa" },
+    { "id": 3, "en": "watermelon", "es": "sandía" },
+    { "id": 4, "en": "pear", "es": "pera" }
+  ]
+}
