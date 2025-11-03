@@ -5,9 +5,9 @@
     "socialLink": "@andrea_soca_"
   },
   "words": [
-    { "id": 1, "en": "Apenas", "es": "Hardly" },
-    { "id": 2, "en": "Quizás", "es": "Maybe" },
-    { "id": 3, "en": "Casi", "es": "Almost" },
-    { "id": 4, "en": "Lejos", "es": "Far" }
+    { "id": 1, "en": "Hardly", "es": "Apenas" },
+    { "id": 2, "en": "Maybe", "es": "Quizás" },
+    { "id": 3, "en": "Almost", "es": "Casi" },
+    { "id": 4, "en": "Far", "es": "Lejos" }
   ]
 }
