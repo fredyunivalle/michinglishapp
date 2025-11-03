@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Belinyer Solarte",
+    "profileImage": "https://avatars.githubusercontent.com/u/109184495?s=400&u=1da631d1d7b133a0592cfeeb286c791d6ad6ff85&v=4",
+    "socialLink": "@andrea_soca_"
+  },
+  "words": [
+    { "id": 1, "en": "Hardly", "es": "Apenas" },
+    { "id": 2, "en": "Maybe", "es": "Quizás" },
+    { "id": 3, "en": "Almost", "es": "Casi" },
+    { "id": 4, "en": "Far", "es": "Lejos" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Felipe Figueroa",
+    "profileImage": "https://avatars.githubusercontent.com/u/167467319?s=96&v=4",
+    "socialLink": "@juan_figueroa64"
+  },
+  "words": [
+    { "id": 1, "en": "sheep", "es": "oveja" },
+    { "id": 2, "en": "seal", "es": "foca" },
+    { "id": 3, "en": "turkey", "es": "pavo" },
+    { "id": 4, "en": "eagle", "es": "águila" }
+  ]
+}
