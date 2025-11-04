@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "esgore03",
+    "profileImage": "https://w7.pngwing.com/pngs/631/815/png-transparent-rei-ayanami-neon-genesis-evangelion-battle-orchestra-anime-lilith-anime-manga-cross-cartoon.png",
+    "socialLink": "@esgore03"
+  },
+  "words": [
+    { "id": 1, "en": "wolf", "es": "lobo" },
+    { "id": 2, "en": "tiger", "es": "tigre" },
+    { "id": 3, "en": "giraffe", "es": "jirafa" },
+    { "id": 4, "en": "eagle", "es": "águila" }
+  ]
+}

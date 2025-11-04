@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Jose Martínez",
+    "profileImage": "https://tierragamer.com/wp-content/uploads/2019/06/Dragon-Ball-Pequeno-Goku.jpg",
+    "socialLink": "@jamh_07"
+  },
+  "words": [
+    { "id": 1, "en": "Uncle", "es": "Tío" },
+    { "id": 2, "en": "Aunt", "es": "Tía" },
+    { "id": 3, "en": "Nephew", "es": "Sobrino" },
+    { "id": 4, "en": "Niece", "es": "Sobrina" }
+  ]
+}
