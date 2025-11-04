@@ -1,0 +1,79 @@
+{
+  "user": {
+    "username": "finnitoadc",
+    "profileImage": "https://avatars.githubusercontent.com/u/83280001?v=4",
+    "socialLink": "@finnitoadc"
+  },
+  "topics": [
+    {
+      "topic": "adjectives",
+      "questions": [
+        {
+          "question": "Which word is an adjective in the sentence: 'The small dog barked loudly.'?",
+          "options": ["small", "dog", "barked", "loudly"],
+          "answer": "small"
+        },
+        {
+          "question": "Choose the comparative form of 'good'.",
+          "options": ["better", "more good", "best", "gooder"],
+          "answer": "better"
+        },
+        {
+          "question": "Select the superlative form of 'happy'.",
+          "options": ["happier", "happiest", "more happy", "most happy"],
+          "answer": "happiest"
+        },
+        {
+          "question": "Choose the correct order of adjectives: 'She bought a _____ dress.'",
+          "options": ["lovely red small", "small lovely red", "lovely small red", "red small lovely"],
+          "answer": "lovely small red"
+        },
+        {
+          "question": "Which adjective best completes: 'This soup is too ___ to eat.'",
+          "options": ["hot", "heat", "heated", "hotter"],
+          "answer": "hot"
+        },
+        {
+          "question": "Identify the predicate adjective in: 'The sky looks blue.'",
+          "options": ["blue", "sky", "looks", "the"],
+          "answer": "blue"
+        },
+        {
+          "question": "Which of these is a demonstrative adjective?",
+          "options": ["this", "very", "quickly", "three"],
+          "answer": "this"
+        },
+        {
+          "question": "Complete: 'He is the ___ player on the team.'",
+          "options": ["most skillful", "skillfullest", "skilfuller", "most skillfull"],
+          "answer": "most skillful"
+        },
+        {
+          "question": "Which word functions as an adjective describing amount?",
+          "options": ["many", "often", "quickly", "yesterday"],
+          "answer": "many"
+        },
+        {
+          "question": "Which sentence uses the comparative correctly?",
+          "options": [
+            "My car is more faster than yours.",
+            "My car is faster than yours.",
+            "My car is most fast than yours.",
+            "My car is fastest than yours."
+          ],
+          "answer": "My car is faster than yours."
+        },
+        {
+          "question": "Which option is a color adjective?",
+          "options": ["brown", "run", "softly", "quickly"],
+          "answer": "brown"
+        },
+        {
+          "question": "Identify the superlative phrase in: 'Of all the paintings, this is the most beautiful.'",
+          "options": ["most", "beautiful", "most beautiful", "painting"],
+          "answer": "most beautiful"
+        }
+      ]
+    }
+  ]
+}
