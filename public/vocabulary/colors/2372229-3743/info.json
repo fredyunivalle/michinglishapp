@@ -1,0 +1,14 @@
+{
+  "user": {
+    "username": "Not Jolly",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hachiware_Outline.svg/640px-Hachiware_Outline.svg.png",
+    "socialLink": "@jolly.idk"
+  },
+  "words": [
+    { "id": 1, "en": "Chestnut", "es": "Castaño" },
+    { "id": 2, "en": "Navy blue", "es": "Azul marino" },
+    { "id": 3, "en": "Crimson", "es": "Carmesí" },
+    { "id": 4, "en": "Teal", "es": "Verde petróleo" },
+    { "id": 5, "en": "Scarlet", "es": "Escarlata" }
+  ]
+}
