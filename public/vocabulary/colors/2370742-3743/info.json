@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "John Ramos",
+    "profileImage": "https://pbs.twimg.com/profile_images/1162932013533474816/noK-Euzm_400x400.jpg",
+    "socialLink": "@JxhnTuring"
+  },
+  "words": [
+    { "id": 1, "en": "gray", "es": "gris" },
+    { "id": 2, "en": "beige", "es": "beige" },
+    { "id": 3, "en": "mustard", "es": "mostaza" },
+    { "id": 4, "en": "orange", "es": "naranja" }
+  ]
+}
