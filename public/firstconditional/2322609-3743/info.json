@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "Angie Joya",
+    "profileImage": "https://pm1.aminoapps.com/8144/94e42c4b3dc2a4b60cffa548862ae23cfd53dd3er1-630-652v2_00.jpg",
+    "socialLink": "@AngieJoya"
+  },
+  "topics": [
+    {
+      "topic": "first conditional",
+      "questions": [
+        {
+          "question": "What is the correct form? 'If we _____ now, we will catch the train.'",
+          "options": [
+            "leave", 
+            "left", 
+            "will leave", 
+            "leaving"
+          ],
+          "answer": "leave"
+        },
+        {
+          "question": "Which sentence is a correct example of the first conditional?",
+          "options": [
+            "If it rains, we will stay indoors.",
+            "If it rained, we would stay indoors.",
+            "If it had rained, we would have stayed indoors.",
+            "If it rains, we stayed indoors."
+          ],
+          "answer": "If it rains, we will stay indoors."
+        },
+        {
+          "question": "Choose the correct option: 'He won't know the answer if he _____ attention.'",
+          "options": [
+            "doesn't pay", 
+            "didn't pay", 
+            "won't pay", 
+            "isn't paying"
+          ],
+          "answer": "doesn't pay"
+        }
+      ]
+    }
+  ]
+}
