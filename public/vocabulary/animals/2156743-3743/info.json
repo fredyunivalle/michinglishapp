@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "JuanPa",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@juan_robayo_maestre"
+  },
+  "words": [
+    { "id": 1, "en": "crab", "es": "cangrejo" },
+    { "id": 2, "en": "snake", "es": "serpiente" },
+    { "id": 3, "en": "parrot", "es": "loro" },
+    { "id": 4, "en": "rabbit", "es": "conejo" }
+  ]
+}
