@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Dylan Morales",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@DylanMora"
+  },
+"words": [
+  { "id": 1, "en": "happy", "es": "feliz" },
+  { "id": 2, "en": "bored", "es": "aburrido" },
+  { "id": 3, "en": "tired", "es": "cansado" },
+  { "id": 4, "en": "confused", "es": "confundido" }
+]
+}
