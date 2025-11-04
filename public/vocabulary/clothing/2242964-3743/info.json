@@ -8,7 +8,6 @@
     { "id": 1, "en": "jacket", "es": "chaqueta" },
     { "id": 2, "en": "skirt", "es": "falda" },
     { "id": 3, "en": "socks", "es": "medias" },
-    { "id": 4, "en": "scarf", "es": "bufanda" },
-    { "id": 5, "en": "gloves", "es": "guantes" }
+    { "id": 4, "en": "scarf", "es": "bufanda" }
   ]
 }
