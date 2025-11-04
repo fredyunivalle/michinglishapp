@@ -1,0 +1,14 @@
+{
+  "user": {
+    "username": "Isabella Ruiz",
+    "profileImage": "https://i.pinimg.com/originals/42/d3/ea/42d3ea9ec90e778ff3846d670e3b9f4c.png",
+    "socialLink": "@isarstyle"
+  },
+  "words": [
+    { "id": 1, "en": "beret", "es": "boina" },
+    { "id": 2, "en": "hosiery", "es": "medias veladas" },
+    { "id": 3, "en": "waistcoat", "es": "chaleco" },
+    { "id": 4, "en": "turtleneck", "es": "cuello de tortuga" }
+  ]
+}
+
