@@ -1,0 +1,14 @@
+{
+    "user": {
+      "username": "Jonathan Aristizabal",
+      "profileImage": "https://i.redd.it/ins05wj3pmef1.jpeg",
+      "socialLink": "@jonmeister"
+    },
+    "words": [
+      { "id": 1, "en": "pretend", "es": "fingir" },
+      { "id": 2, "en": "improve", "es": "mejorar" },
+      { "id": 3, "en": "afford", "es": "permitirse (algo)" },
+      { "id": 4, "en": "rely", "es": "confiar" }
+    ]
+  }
+  
