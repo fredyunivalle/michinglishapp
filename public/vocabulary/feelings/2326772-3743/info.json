@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Gabriela Guzmán",
+    "profileImage": "https://cdn.shopify.com/s/files/1/1083/2612/files/mymelody6_480x480.png?v=1721112330",
+    "socialLink": "@gabrielaguzmn"
+  },
+  "words": [
+    { "id": 1, "en": "calm", "es": "tranquila" },
+    { "id": 2, "en": "focused", "es": "concentrada" },
+    { "id": 3, "en": "pleased", "es": "satisfecha" },
+    { "id": 4, "en": "amused", "es": "entretenida" }
+  ]
+}
