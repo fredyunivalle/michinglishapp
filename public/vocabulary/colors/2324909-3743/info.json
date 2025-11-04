@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Miguel Casanova",
+    "profileImage": "https://i.discogs.com/rbZPNT1BW809KgXr8eCeYT1TRzv2HsAtufJfkInCSU4/rs:fill/g:sm/q:40/h:500/w:500/czM6Ly9kaXNjb2dz/LXVzZXItYXZhdGFy/cy9VLTEyNTY1Mzkw/LTE2Mzk2OTA2MjMu/anBlZw.jpeg",
+    "socialLink": "@Casaviejas"
+  },
+  "words": [
+    { "id": 1, "en": "cyan", "es": "cian" },
+    { "id": 2, "en": "purple", "es": "morado" },
+    { "id": 3, "en": "pink", "es": "rosado" },
+    { "id": 4, "en": "orange", "es": "naranja" }
+  ]
+}
