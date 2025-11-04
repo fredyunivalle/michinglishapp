@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Daniel Cárdenas",
+    "profileImage": "https://posterwa.com/cdn/shop/files/NARUTO55.jpg",
+    "socialLink": "@danniel99"
+  },
+  "words": [
+    { "id": 1, "en": "seldom", "es": "raramente" },
+    { "id": 2, "en": "briskly", "es": "ágilmente" },
+    { "id": 3, "en": "utterly", "es": "completamente" },
+    { "id": 4, "en": "barely", "es": "apenas" }
+  ]
+}
