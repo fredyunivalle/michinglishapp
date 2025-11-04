@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Ivan Ausecha",
+    "profileImage": "https://i.kym-cdn.com/photos/images/newsfeed/001/930/208/0c7.jpg",
+    "socialLink": "@IvanAusechaS"
+  },
+  "words": [
+    { "id": 1, "en": "swim", "es": "nadar" },
+    { "id": 2, "en": "drive", "es": "conducir" },
+    { "id": 3, "en": "sing", "es": "cantar" },
+    { "id": 4, "en": "build", "es": "construir" }
+  ]
+}
