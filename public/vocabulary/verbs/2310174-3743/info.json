@@ -1,0 +1,14 @@
+{
+    "user": {
+      "username": "Juan Francesco García Vargas",
+      "profileImage": "https://img.freepik.com/vector-gratis/dibujado-mano-anciano-dibujos-animados-ilustracion-dibujos-animados_52683-115978.jpg?semt=ais_hybrid&w=740&q=80",
+      "socialLink": "@Frank-Totti"
+    },
+    "words": [
+        { "id": 5, "en": "climb", "es": "escalar" },
+        { "id": 6, "en": "camp", "es": "acampar" },
+        { "id": 7, "en": "compose", "es": "componer" },
+        { "id": 8, "en": "program", "es": "programar" }
+    ]
+  }
+  
