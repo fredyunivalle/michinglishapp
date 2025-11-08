@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Helkin Gabriel Jimenez",
+    "profileImage": "https://www.istockphoto.com/photo/group-of-wildlife-animals-in-the-jungle-together-gm1399292810-453198287?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_image&utm_content=srp_topbanner-popular-landscape_media&utm_term=animales",
+    "socialLink": "@HelkinJimenezM"
+  },
+  "words": [
+    { "id": 1, "en": "lion", "es": "león" },
+    { "id": 2, "en": "tiger", "es": "tigre" },
+    { "id": 3, "en": "bear", "es": "oso" },
+    { "id": 4, "en": "fox", "es": "zorro" }
+  ]
+}
