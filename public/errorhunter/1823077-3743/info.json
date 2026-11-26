@@ -1,0 +1,40 @@
+{
+  "user": {
+    "username": "gabe",
+    "profileImage": "https://avatars.githubusercontent.com/u/8519470?v=4",
+    "socialNetwork": "github",
+    "socialLink": "@gabrielcho"
+  },
+  "errors": [
+    {
+      "sentence": "He has went to the library twice this week.",
+      "wrong": "went",
+      "correct": "gone",
+      "explanation": "Use the past participle gone after has in the present perfect."
+    },
+    {
+      "sentence": "I look forward to hear from you soon.",
+      "wrong": "hear",
+      "correct": "hearing",
+      "explanation": "Use a gerund after the phrasal verb look forward to."
+    },
+    {
+      "sentence": "She gave me an advice before the interview.",
+      "wrong": "an advice",
+      "correct": "some advice",
+      "explanation": "Advice is uncountable in English, so use some advice instead."
+    },
+    {
+      "sentence": "Everyone in the office were excited about the new project.",
+      "wrong": "were",
+      "correct": "was",
+      "explanation": "Everyone is singular, so it takes the singular verb was."
+    },
+    {
+      "sentence": "We are interested on learning how this engine works.",
+      "wrong": "on",
+      "correct": "in",
+      "explanation": "The adjective interested is followed by the preposition in."
+    }
+  ]
+}
