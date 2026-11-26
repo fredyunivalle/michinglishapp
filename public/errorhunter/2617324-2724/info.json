@@ -1,0 +1,40 @@
+{
+  "user": {
+    "username": "Nomka0",
+    "profileImage": "https://avatars.githubusercontent.com/u/66049598?v=4",
+    "socialNetwork": "github",
+    "socialLink": "@Nomka0"
+  },
+  "errors": [
+    {
+      "sentence": "Everyone in the office were excited about the trip.",
+      "wrong": "were",
+      "correct": "was",
+      "explanation": "Indefinite pronouns like everyone take a singular verb."
+    },
+    {
+      "sentence": "Our decision depends of the weather tomorrow.",
+      "wrong": "of",
+      "correct": "on",
+      "explanation": "We say depend on something, not depend of."
+    },
+    {
+      "sentence": "She gave me useful informations about the course.",
+      "wrong": "informations",
+      "correct": "information",
+      "explanation": "Information is an uncountable noun, so it has no plural form."
+    },
+    {
+      "sentence": "Did you used to play soccer after school?",
+      "wrong": "used",
+      "correct": "use",
+      "explanation": "In questions with did, we use the base form use to."
+    },
+    {
+      "sentence": "I need to make my homework before dinner.",
+      "wrong": "make",
+      "correct": "do",
+      "explanation": "We say do homework, not make homework."
+    }
+  ]
+}
