@@ -1,0 +1,34 @@
+{
+  "user": {
+    "username": "Santiago Gualguan",
+    "profileImage": "https://github.com/SantiagoGualguan.png",
+    "socialNetwork": "github",
+    "socialLink": "@SantiagoGualguan"
+  },
+  "sentences": [
+    {
+      "sentence": "She has never fixed a bug without writing tests.",
+      "hint": "Present perfect with never"
+    },
+    {
+      "sentence": "Where did you save the new file?",
+      "hint": "Past simple question"
+    },
+    {
+      "sentence": "The bug was fixed by my teammate.",
+      "hint": "Passive voice"
+    },
+    {
+      "sentence": "Who is going to review my pull request?",
+      "hint": "Be going to for plans"
+    },
+    {
+      "sentence": "Our app is more fun than a boring textbook.",
+      "hint": "Comparatives"
+    },
+    {
+      "sentence": "You must not push code to the main branch.",
+      "hint": "Modals of prohibition"
+    }
+  ]
+}
