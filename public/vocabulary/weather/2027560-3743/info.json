@@ -1,0 +1,30 @@
+{
+  "user": {
+    "username": "Luis Lucero",
+    "profileImage": "https://github.com/18luisc.png",
+    "socialNetwork": "github",
+    "socialLink": "@18luisc"
+  },
+  "words": [
+    {
+      "id": 1,
+      "en": "storm",
+      "es": "tormenta"
+    },
+    {
+      "id": 2,
+      "en": "snow",
+      "es": "nieve"
+    },
+    {
+      "id": 3,
+      "en": "fog",
+      "es": "niebla"
+    },
+    {
+      "id": 4,
+      "en": "lightning",
+      "es": "relámpago"
+    }
+  ]
+}
