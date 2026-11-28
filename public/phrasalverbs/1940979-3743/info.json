@@ -1,0 +1,90 @@
+{
+  "user": {
+    "username": "Jhonnier",
+    "profileImage": "https://github.com/Percyb4l.png",
+    "socialNetwork": "github",
+    "socialLink": "@Percyb4l"
+  },
+  "topics": [
+    {
+      "topic": "phrasal verbs",
+      "questions": [
+        {
+          "question": "I have to _____ at five in the morning to catch the first bus.",
+          "options": ["wake up", "wake in", "wake off", "wake over"],
+          "answer": "wake up"
+        },
+        {
+          "question": "Please _____ the television. The baby is sleeping.",
+          "options": ["turn off", "turn in", "turn over", "turn under"],
+          "answer": "turn off"
+        },
+        {
+          "question": "It is cold outside, so _____ your coat before you leave.",
+          "options": ["put on", "put in", "put over", "put under"],
+          "answer": "put on"
+        },
+        {
+          "question": "We _____ of coffee, so I will buy more after class.",
+          "options": ["ran out", "ran in", "ran over", "ran up"],
+          "answer": "ran out"
+        },
+        {
+          "question": "My grandmother _____ my little cousin while my parents are at work.",
+          "options": ["looks after", "looks into", "looks up", "looks over"],
+          "answer": "looks after"
+        },
+        {
+          "question": "The meeting was _____ until Monday because the teacher was ill.",
+          "options": ["put off", "put on", "put in", "put up"],
+          "answer": "put off"
+        },
+        {
+          "question": "You should _____ your shoes before you enter the laboratory.",
+          "options": ["take off", "take on", "take over", "take up"],
+          "answer": "take off"
+        },
+        {
+          "question": "She _____ a funny story to explain why she was late.",
+          "options": ["made up", "made out", "made off", "made over"],
+          "answer": "made up"
+        },
+        {
+          "question": "I _____ an old classmate at the university cafeteria yesterday.",
+          "options": ["ran into", "ran over", "ran out", "ran away"],
+          "answer": "ran into"
+        },
+        {
+          "question": "He _____ smoking after the doctor talked to him.",
+          "options": ["gave up", "gave in", "gave out", "gave away"],
+          "answer": "gave up"
+        },
+        {
+          "question": "The rocket _____ at noon and disappeared into the sky.",
+          "options": ["took off", "took on", "took over", "took up"],
+          "answer": "took off"
+        },
+        {
+          "question": "Can you _____ the radio? It is too loud for this room.",
+          "options": ["turn down", "turn up", "turn on", "turn in"],
+          "answer": "turn down"
+        },
+        {
+          "question": "Many children _____ their parents in the way they speak.",
+          "options": ["take after", "take off", "take over", "take apart"],
+          "answer": "take after"
+        },
+        {
+          "question": "We must _____ now if we want to arrive before the exam starts.",
+          "options": ["set off", "set up", "set in", "set down"],
+          "answer": "set off"
+        },
+        {
+          "question": "The students _____ the small fire with a wet blanket.",
+          "options": ["put out", "put off", "put on", "put away"],
+          "answer": "put out"
+        }
+      ]
+    }
+  ]
+}
