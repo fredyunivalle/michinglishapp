@@ -88,6 +88,16 @@ const TOPICS = [
     description: 'Connect ideas: however, although, therefore…',
   },
   {
+    id: 'phrasalverbs',
+    folder: 'phrasalverbs',
+    path: 'phrasal-verbs',
+    title: 'Phrasal Verbs',
+    emoji: '🧩',
+    group: 'words',
+    level: 'B1',
+    description: 'Verbs with a particle: wake up, give up, look after.',
+  },
+  {
     id: 'modalspossibility',
     folder: 'modalspossibility',
     path: 'modals-of-possibility',
